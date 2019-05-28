@@ -2351,7 +2351,7 @@
 4652#Carta Amon Ra do Pesadelo#
 4653#Carta Arclouse do Pesadelo#
 4654#Carta Mímico do Pesadelo#
-4655# Carta Minorous do Pesadelo#
+4655#Carta Minorous do Pesadelo#
 4656#Carta Múmia do Pesadelo#
 4657#Carta Múmia Anciã do Pesadelo#
 4658#Carta Verit do Pesadelo#
