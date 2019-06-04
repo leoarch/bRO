@@ -26,7 +26,7 @@ addTableFolders bRO
 charBlockSize 144
 pinCode 1
 charDeleteDateType 1
-sendCryptKeys 0x18F57855, 0x22552255, 0x42552255
+sendCryptKeys 0x386D4229, 0x49D96510, 0x007927B5
 
 [Brazil - bRO: Thor]
 ip 200.229.50.3
@@ -45,4 +45,4 @@ addTableFolders bRO
 charBlockSize 144
 pinCode 1
 charDeleteDateType 1
-sendCryptKeys 0x18F57855, 0x22552255, 0x42552255
+sendCryptKeys 0x386D4229, 0x49D96510, 0x007927B5
