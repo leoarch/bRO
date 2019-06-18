@@ -16457,7 +16457,7 @@ Classes: ^777777Todas^000000
 2914#
 Uma lendária pedra mágica no formato de um olho que se acredita carregar todo o conhecimento de magia de Midgard. Dizem que este é o olho que Odin ofereceu a Mimir, o deus da sabedoria, em troca do conhecimento supremo, e que por isso ele carrega todo o conhecimento mágico compartilhado pelos deuses.
 ^0000ffINT +4. DEFM +3.^000000
-^0000ffConjuração variável -3%.^000000
+^0000ffConjuração variável +3%.^000000
 Tipo: ^777777Acessório^000000
 Defesa: ^7777771^000000
 Peso: ^77777710^000000
