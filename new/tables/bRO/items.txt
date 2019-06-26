@@ -6714,6 +6714,7 @@
 20516#Asas de Miguel#
 20517#Miau-chila de Bichano#
 20521#Miau-chila de Bichano Preto#
+20527#Asas da Borboleta do Vale#
 20528#Asas Douradas da Borboleta#
 20535#Holograma Futurista#
 20700#Manteau de Aegir#

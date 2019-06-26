@@ -16457,7 +16457,7 @@ Classes: ^777777Todas^000000
 2914#
 Uma lendária pedra mágica no formato de um olho que se acredita carregar todo o conhecimento de magia de Midgard. Dizem que este é o olho que Odin ofereceu a Mimir, o deus da sabedoria, em troca do conhecimento supremo, e que por isso ele carrega todo o conhecimento mágico compartilhado pelos deuses.
 ^0000ffINT +4. DEFM +3.^000000
-^0000ffConjuração variável +3%.^000000
+^0000ffConjuração variável^000000 ^ff0000+3%.^000000
 Tipo: ^777777Acessório^000000
 Defesa: ^7777771^000000
 Peso: ^77777710^000000
@@ -57182,6 +57182,16 @@ Classes: ^777777Todas^000000
 Se você é mesmo obcecado pelos felinos, então não vai perder a oportunidade de ser a mãe ou pai de mais um bichano. Prometemos que este aqui não vai te acordar às 3 da manhã fazendo um show pela casa.
 ^008080Exibe o visual nas costas do personagem.^000000
 Tipo: ^777777Visual ^000000
+Equipa em: ^777777Capa^000000
+Defesa: ^7777770^000000
+Peso: ^7777770^000000
+Nível necessário: ^7777771^000000
+Classes: ^777777Todas^000000
+#
+20527#
+Essas asas ajudam a iluminar um vale no fim do arco-íris. Ao equipá-las, as pessoas com uma alma Luminosa, Graciosa, Bela e Transcendental ficam perfeitas para dar um close divino.
+^008080Exibe o visual nas costas do personagem.^000000
+Tipo: ^777777Visual^000000
 Equipa em: ^777777Capa^000000
 Defesa: ^7777770^000000
 Peso: ^7777770^000000
