@@ -652,7 +652,7 @@ Peso: ^77777720^000000
 Poção medicinal que aumenta a concentração de quem a ingere.
 ^0000ffVelocidade de ataque +10%.^000000
 Duração: ^77777730 minutos^000000
-Peso: ^7777775^000000
+Peso: ^77777710^000000
 Nível necessário: ^7777771^000000
 Classes: ^777777Todas^000000
 #
@@ -16457,7 +16457,7 @@ Classes: ^777777Todas^000000
 2914#
 Uma lendária pedra mágica no formato de um olho que se acredita carregar todo o conhecimento de magia de Midgard. Dizem que este é o olho que Odin ofereceu a Mimir, o deus da sabedoria, em troca do conhecimento supremo, e que por isso ele carrega todo o conhecimento mágico compartilhado pelos deuses.
 ^0000ffINT +4. DEFM +3.^000000
-^0000ffConjuração variável +3%.^000000
+^0000ffConjuração variável^000000 ^ff0000+3%.^000000
 Tipo: ^777777Acessório^000000
 Defesa: ^7777771^000000
 Peso: ^77777710^000000
@@ -33190,7 +33190,7 @@ Passe que deve ser usado sempre que desejar acessar um local.
 <NAVI>[Rachel]<INFO>rachel,132,144,0,000,0</INFO></NAVI>
 <NAVI>[Lighthalzen]<INFO>lighthalzen,203,140,0,000,0</INFO></NAVI>
 --------------------------
-Encerramento do evento: ^ff000007/01/19.^000000
+Encerramento do evento: ^ff000029/07/19.^000000
 O passe perderá validade após a data.
 --------------------------
 Negociação: ^777777Não pode ser negociado, derrubado no chão ou colocado no carrinho, mas pode ser transferido para o armazém.^000000
@@ -34597,8 +34597,8 @@ Ticket temporário criado pela Corporação Kafra.
 ^CD3278Coord.:^000000 prontera 141, 226
 <NAVI>[Navegar]<INFO>prontera,141,226,0,000,0</INFO></NAVI>
 --------------------------
-Promoção limitada até o dia ^ff000017.06.2019.^000000
-Este item será removido no dia ^ff000018.06.2019.^000000
+Promoção limitada até o dia ^ff000015.07.2019.^000000
+Este item será removido no dia ^ff000016.07.2019.^000000
 --------------------------
 Peso: ^7777771^000000
 #
@@ -43275,9 +43275,6 @@ Uma caixa que contém 10 Grimórios de Combate. Ao abri-la os itens serão deixa
 ^0000ffEXP adquirida +100%.^000000
 Duração: ^77777730 minutos^000000
 Peso: ^7777771^000000
---------------------------
-Negociação: ^777777Não pode ser derrubado ou negociado, mas pode ser colocado no armazém.^000000
-Peso: ^7777771^000000
 #
 13704#
 Uma bela gema polida que parece ser feita de ônix-preto. ^0000ffDizem que em seu interior se esconde um valioso tesouro.^000000
@@ -43299,10 +43296,16 @@ Contém 20 Pergaminhos de Adrenalina, 20 Pergaminhos do Vento, 20 Pergaminhos de
 Peso: ^7777771^000000
 #
 13710#
-Uma caixa que contém um Passe Anti-Gravitacional.
-Sente-se magro e raquítico? Sua armadura fica dançando sobre seus ombros esqueléticos? Seus problemas acabam agora! Com o curso de tonificação do Mister Peso você ficará sarado e bombadão para intimidar os inimigos na Guerra, atropelar o pré-cast inimigo com um peitoral bem definido e carregar mais poções que o NPC vendedor em seus bíceps largos! 
-Leve este Passe para o Mister Peso (Prontera 99, 64) e receba seu treinamento. Sua capacidade de carga aumenta em 200 para cada Passe. Você pode aumentar sua capacidade de carga apenas 10 vezes.
-^ffffff_^000000
+Caixa contendo 1 passe usado para garantir um treinamento de tonificação muscular. Necessário para deixar seus bíceps largos!
+--------------------------
+^0000ffCapacidade de carga +200.^000000
+^0000ffPode ser usado 10 vezes, sendo cumulativo.^000000
+^0000ffO efeito é permanente.^000000
+--------------------------
+^CD3278NPC:^000000 Mister Peso
+^CD3278Local:^000000 prontera 99, 64
+<NAVI>[Navegar]<INFO>prontera,99,64,0,000,0</INFO></NAVI>
+--------------------------
 Peso: ^7777771^000000
 #
 13711#
@@ -44035,9 +44038,6 @@ Uma caixa que contém 10 Manuais de Combate de Classe. Ao abri-la os itens serã
 --------------------------
 ^0000ffEXP de classe adquirida +50%.^000000
 Duração: ^77777730 minutos^000000
-Peso: ^7777771^000000
---------------------------
-Negociação: ^777777Não pode ser derrubado ou negociado, mas pode ser colocado no armazém.^000000
 Peso: ^7777771^000000
 #
 13995#
@@ -47364,11 +47364,8 @@ Caso o item seja aberto e não recebidos, não haverá devolução.
 Peso : ^7777770^000000
 #
 16740#
-Uma caixa que tem uma Proteção do Deus do Mar. (Disponível por 23 horas)
-^000088Item de Aluguel^000000
-Um certificado de Proteção do Deus do Mar.
-Peso: ^7777771^000000
-^ff0000Após aberta a caixa, o item não poderá ser restituído^000000.
+Uma caixa que contém 1 Proteção do Deus do Mar.
+^0000ffProteção do Deus do Mar libera o acesso da instância [Esgoto de Malangdo] por 23 horas.^000000
 Peso: ^7777771^000000
 #
 16741#
@@ -48229,10 +48226,17 @@ Elunium Perfeito - Ao refinar equipamentos com nível de refinamento 7 ou mais, 
 Peso : ^7777771^000000
 #
 17106#
-Uma caixa contendo 10 unidades do Passe Antigravitacional.
-Leve este Passe para o Mister Peso (Prontera 99, 64) e receba seu treinamento. Sua capacidade de carga aumenta em 200 para cada Passe. Você pode aumentar sua capacidade de carga apenas 10 vezes.
-^ff0000Depois de aberto não poderá ser devolvido.^000000
-Peso : ^7777771^000000
+Caixa contendo 10 passes usado para garantir um treinamento de tonificação muscular. Necessário para deixar seus bíceps largos!
+--------------------------
+^0000ffCapacidade de carga +200.^000000
+^0000ffPode ser usado 10 vezes, sendo cumulativo.^000000
+^0000ffO efeito é permanente.^000000
+--------------------------
+^CD3278NPC:^000000 Mister Peso
+^CD3278Local:^000000 prontera 99, 64
+<NAVI>[Navegar]<INFO>prontera,99,64,0,000,0</INFO></NAVI>
+--------------------------
+Peso: ^7777771^000000
 #
 17118#
 Uma caixa com 20 Poções de Velocidade de Ataque
@@ -48378,16 +48382,9 @@ Duração: ^77777730 minutos^000000
 Peso: ^7777771^000000
 #
 17251#
-^ff0000Este item não pode ser trocado entre outras contas.^000000
-Uma caixa contendo 1 Asa de Mosca Ilimitada que pode ser usada por 3 dias.
-^ffffff_^000000
-^000088Item de Aluguel^000000
-^ff0000Este item não pode ser trocado entre outras contas.^000000
-^000088Dê clique duplo neste item para ser transportar até um local aleatório no mapa.^000000
-Peso : ^7777770^000000
-^ffffff_^000000
-^ff0000Uma vez aberta, a caixa não poderá ser recuperada.^000000
-Peso : ^7777771^000000
+^ff0000Intransferível.^000000
+Uma caixa contendo 1 Asa de Mosca Ilimitada que pode ser usada por 3 dias sem ser consumida.
+Peso: ^7777771^000000
 #
 17252#
 ^ff0000Este item não pode ser trocado entre outras contas.^000000
@@ -48967,6 +48964,21 @@ Peso: ^777777100^000000
 Nível da arma: ^7777774^000000
 Nível necessário: ^777777100^000000
 Classes: ^777777Renegados, Arqueiros e evoluções^000000
+#
+18503#
+Chifres de filhotes de gado. Ideal para você usar junto com os Chifres Majestosos Malignos, já que ambos vão ocupar o mesmo lugar na sua cabeça.
+--------------------------
+^0000ffHP e SP máx. +10%.^000000
+^0000ffDano físico e mágico +5%.^000000
+--------------------------
+^ff0000Será removido no final do evento.^000000
+--------------------------
+Tipo: ^777777Equipamento para Cabeça^000000
+Equipa em: ^777777Meio^000000
+Defesa: ^7777772^000000
+Peso: ^77777710^000000
+Nível necessário: ^7777771^000000
+Classes: ^777777Todas^000000
 #
 18504#
 Um elmo confeccionado para ser semelhante a cabeça do Anubis.
@@ -53334,24 +53346,11 @@ Classes: ^777777Todas^000000
 #
 19305#
 Uma gaiola de vidro que contém fadas aprisionadas. O brilho delas deixa o lugar tristemente iluminado.
-^008080Durante o evento:^000000
-Ao derrotar o Réquiem de Marfim:
-^0000FF100% de chance de derrubar [Dente de Marfim].^000000
-Ao derrotar o Fanático das Trevas:
-^0000FF100% de chance de derrubar [Prêmio de Esquadrão].^000000
-Ao derrotar o Necromante de Morroc (Fantasma):
-^0000FF100% de chance de derrubar [Prêmio do Herói].^000000
-Ao derrotar o Polvo Gigante:
-^0000FF100% de chance de derrubar [Bolsa Gasta de Moedas].^000000
-Ao derrotar o Espectro da Celine:
-^0000FF100% de chance de derrubar [Caixa de Ferramentas Fechada].^000000
-Ao derrotar os Guardas de Payon, Soldados de Payon, Lobos Ferozes e Lobos da Guarda:
-^0000FF20% de chance de derrubar [Bala de Guaraná].^000000
-^ff0000Atenção! Esse item não pode ser negociado, colocado no carrinho e nem derrubado no chão, mas pode ser colocado no armazém.^000000
-Classe: ^777777Equipamento para a cabeça^000000
-Defesa: ^7777770^000000
+Tipo: ^777777Equipamento para Cabeça^000000
 Equipa em: ^777777Baixo^000000
+Defesa: ^7777770^000000
 Peso: ^77777710^000000
+Nível necessário: ^7777771^000000
 Classes: ^777777Todas^000000
 #
 19306#
@@ -53748,6 +53747,15 @@ Peso: ^7777770 ^000000
 Nível Necessário: ^7777771 ^000000
 Classes: ^777777Todas ^000000
 #
+19537#
+Este filhotinho de Grifo ainda está aprendendo a voar, mas se você o treinar com muita dedicação, ele poderá servir de montaria para algum Guardião Real bebê.
+Tipo: ^777777Visual ^000000
+Defesa: ^7777770 ^000000
+Equipa em: ^777777Topo^000000
+Peso: ^7777770^000000
+Nível Necessário: ^7777771 ^000000
+Classes: ^777777Todas ^000000
+#
 19538#
 Uma lua cheia que o acompanhará até mesmo sob o maior sol de rachar (por mais controverso que isso pareça ser). Só não chegue perto de possíveis lobisomens ou saiadins...
 Tipo: ^777777Visual ^000000
@@ -53957,7 +53965,7 @@ Classes : ^777777Todas^000000
 Mostre que é fã da Realeza Rosada com este visual do Rei Poring. Do contrário, você terá que caminhar por toda a extensão da avenida principal de Prontera enquanto gritam “Vergonha... Vergonha...” atrás de você!
 Tipo: ^777777Visual ^000000
 Defesa: ^7777770 ^000000
-Equipa em: ^777777Meio ^000000
+Equipa em: ^777777Topo ^000000
 Peso: ^77777710^000000
 Nível Necessário: ^7777771 ^000000
 Classes: ^777777Todas ^000000
@@ -54430,6 +54438,15 @@ Equipa em: ^777777Baixo ^000000
 Peso: ^7777770 ^000000
 Nível Necessário: ^7777771 ^000000
 Classes: ^777777Todas ^000000
+#
+19728#
+Uma miniatura de Cesuno, o funcionário mais dedicado da Corporação Zonda, a concorrente das Kafras. Seus cabelos brilhantes e seu peitoral exposto sempre fizeram sucesso nas propagandas da Rekenber.
+Tipo: ^777777Visual^000000
+Defesa : ^7777770^000000
+Equipa em: ^777777Topo ^000000
+Peso : ^7777770^000000
+Nível Necessário : ^7777771^000000
+Classe : ^777777Todas^000000
 #
 19729#
 Muitos membros do Grupo Pata de Gato são fãs da Corporação Kafra, mas preferem uma versão mais “gatinha” das meninas.
@@ -57148,6 +57165,17 @@ Peso: ^7777770^000000
 Nível Necessário: ^7777771^000000
 Classes: ^777777Todas^000000
 #
+20512#
+Fofinha e estilosa, essa mochila é ideal para uma longa jornada repleta de aventuras!
+--------------------------
+^008080Exibe o visual nas costas do personagem.^000000
+--------------------------
+Tipo: ^777777Visual^000000
+Equipa em: ^777777Capa^000000
+Peso: ^7777770^000000
+Nível necessário: ^7777771^000000
+Classes: ^777777Todas^000000
+#
 20514#
 A lendária espada que selou o Imperador Morroc no passado distante, e que foi brandida por um inesquecível herói. Só a visão da espada já é capaz de colocar medo no coração de seus inimigos.
 ^008080Exibe o visual nas costas do personagem.^000000
@@ -57182,6 +57210,16 @@ Classes: ^777777Todas^000000
 Se você é mesmo obcecado pelos felinos, então não vai perder a oportunidade de ser a mãe ou pai de mais um bichano. Prometemos que este aqui não vai te acordar às 3 da manhã fazendo um show pela casa.
 ^008080Exibe o visual nas costas do personagem.^000000
 Tipo: ^777777Visual ^000000
+Equipa em: ^777777Capa^000000
+Defesa: ^7777770^000000
+Peso: ^7777770^000000
+Nível necessário: ^7777771^000000
+Classes: ^777777Todas^000000
+#
+20527#
+Essas asas ajudam a iluminar um vale no fim do arco-íris. Ao equipá-las, as pessoas com uma alma Luminosa, Graciosa, Bela e Transcendental ficam perfeitas para dar um close divino.
+^008080Exibe o visual nas costas do personagem.^000000
+Tipo: ^777777Visual^000000
 Equipa em: ^777777Capa^000000
 Defesa: ^7777770^000000
 Peso: ^7777770^000000
@@ -62060,6 +62098,22 @@ Peso: ^77777750^000000
 Nível necessário: ^77777790^000000
 Classes: ^777777Todas^000000
 #
+29135#
+^0000ffCRIT +3.^000000
+^0000ffDano Crítico +1%.^000000
+#
+29136#
+^0000ffCRIT +6.^000000
+^0000ffDano Crítico +2%.^000000
+#
+29137#
+^0000ffCRIT +9.^000000
+^0000ffDano Crítico +3%.^000000
+#
+29138#
+^0000ffCRIT +12.^000000
+^0000ffDano Crítico +4%.^000000
+#
 29148#
 Uma runa celestial da Constelação de Leão.
 ^0000ffFOR +1.^000000
@@ -63736,6 +63790,70 @@ Equipa em : ^777777Baixo^000000
 Peso : ^7777770^000000
 Nível Necessário : ^7777771^000000
 Classes : ^777777Todas^000000
+#
+31645#
+Se você é fã do universo das cores e quer deixar claro que sempre salva o dia, basta colocar esse aplique Safira. As lendas dizem que ele pode ajudar a apurar o sexto sentido.
+Tipo: ^777777Visual^000000
+Equipa em: ^777777Baixo^000000
+Peso: ^7777770^000000
+Nível Necessário: ^7777771^000000
+Classes: ^777777Todas^000000
+#
+31646#
+Se você é fã do universo das cores e quer deixar claro que sempre salva o dia, basta colocar esse aplique Âmbar.  As lendas dizem que ele pode fazer você se sentir mais resistente.
+Tipo: ^777777Visual^000000
+Equipa em: ^777777Baixo^000000
+Peso: ^7777770^000000
+Nível Necessário: ^7777771^000000
+Classes: ^777777Todas^000000
+#
+31647#
+Se você é fã do universo das cores e quer deixar claro que sempre salva o dia, basta colocar esse aplique Citrino.  As lendas dizem que ele pode deixar um sentimento de proteção sem igual.
+Tipo: ^777777Visual^000000
+Equipa em: ^777777Baixo^000000
+Peso: ^7777770^000000
+Nível Necessário: ^7777771^000000
+Classes: ^777777Todas^000000
+#
+31648#
+Se você é fã do universo das cores e quer deixar claro que sempre salva o dia, basta colocar esse aplique Peridote.  As lendas dizem que ele é perfeito pra quem gosta de aprender e se adaptar.
+Tipo: ^777777Visual^000000
+Equipa em: ^777777Baixo^000000
+Peso: ^7777770^000000
+Nível Necessário: ^7777771^000000
+Classes: ^777777Todas^000000
+#
+31649#
+Se você é fã do universo das cores e quer deixar claro que sempre salva o dia, basta colocar esse aplique Jasper.  As lendas dizem que este aplique faz qualquer pessoa se sentir mais durona.
+Tipo: ^777777Visual^000000
+Equipa em: ^777777Baixo^000000
+Peso: ^7777770^000000
+Nível Necessário: ^7777771^000000
+Classes: ^777777Todas^000000
+#
+31650#
+Se você é fã do universo das cores e quer deixar claro que sempre salva o dia, basta colocar esse aplique Pérola.  As lendas dizem que ele dá um ar delicado e poderoso àqueles que o usarem.
+Tipo: ^777777Visual^000000
+Equipa em: ^777777Baixo^000000
+Peso: ^7777770^000000
+Nível Necessário: ^7777771^000000
+Classes: ^777777Todas^000000
+#
+31651#
+Se você é fã do universo das cores e quer deixar claro que sempre salva o dia, basta colocar esse aplique Topaz. As lendas dizem que ele vai fazer suas aventuras parecerem canções heroicas.
+Tipo: ^777777Visual^000000
+Equipa em: ^777777Baixo^000000
+Peso: ^7777770^000000
+Nível Necessário: ^7777771^000000
+Classes: ^777777Todas^000000
+#
+31652#
+Se você é fã do universo das cores e quer deixar claro que sempre salva o dia, basta colocar esse aplique Ametista. As lendas dizem que ele ajuda a se adaptar e a ver o lado positivo de qualquer situação.
+Tipo: ^777777Visual^000000
+Equipa em: ^777777Baixo^000000
+Peso: ^7777770^000000
+Nível Necessário: ^7777771^000000
+Classes: ^777777Todas^000000
 #
 32018#
 Uma lança cuja ponta foi afiada com a minúcia de 1000 artesãos, com o intuito de que o primeiro golpe seja o último.

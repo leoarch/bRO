@@ -6001,6 +6001,7 @@
 18130#Arco Rubi#
 18164#Balista Ancestral#
 18170#Arco Ancestral#
+18503#Chifrinhos#
 18504#Elmo de Anúbis da Petrificação#
 18505#Piercing de Umbala#
 18507#Orelhas de Elfo#
@@ -6330,6 +6331,7 @@
 19526#Elmo de Sucata#
 19528#Bevor de Plástico#
 19533#Touca de Esporo#
+19537#Bebê Grifo#
 19538#Luar Intenso#
 19540#Protetor com Coelhinhos#
 19541#Flor Amável Branca#
@@ -6408,6 +6410,7 @@
 19722#Óculos Intelectuais#
 19724#Kafra V.I.P.#
 19726#Rosa da Sedução#
+19728#Boneco da Zonda#
 19729#Tiara de Gatinha Kafra#
 19735#Presilhas de Barbatana#
 19738#Chapéu do Xerloque#
@@ -6710,10 +6713,12 @@
 20506#Manto Invisível#
 20507#Mochila de Poring#
 20511#Asas Azuis de Fada#
+20512#Mochila de Caça#
 20514#Espada de Thanatos#
 20516#Asas de Miguel#
 20517#Miau-chila de Bichano#
 20521#Miau-chila de Bichano Preto#
+20527#Asas da Borboleta do Vale#
 20528#Asas Douradas da Borboleta#
 20535#Holograma Futurista#
 20700#Manteau de Aegir#
@@ -7041,6 +7046,10 @@
 28944#Escudo de Sleiporing#
 28947#Escudo de Gaia#
 28951#Escudo de Nero#
+29135#Faro Aguçado 1#
+29136#Faro Aguçado 2#
+29137#Faro Aguçado 3#
+29138#Faro Aguçado 4#
 29148#Gema de Leão#
 29149#Gema de Peixes#
 29150#Gema de Capricórnio#
@@ -7228,6 +7237,14 @@
 31598#Chapéu Natureba#
 31599#Peruca Bronze de Waifu#
 31611#Manto do Riso Macabro#
+31645#Aplique lateral Safira#
+31646#Aplique lateral Âmbar#
+31647#Aplique lateral Citrino#
+31648#Aplique lateral Peridote#
+31649#Aplique lateral Jasper#
+31650#Aplique lateral Pérola#
+31651#Aplique lateral Topaz#
+31652#Aplique lateral Ametista#
 32018#Lança Ancestral#
 32205#Anel de Esmeralda#
 32221#Anel do Senhor do Tempo#
