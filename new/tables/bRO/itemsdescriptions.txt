@@ -446,12 +446,16 @@ Peso: ^7777775^000000
 #
 605#
 Um remédio feito de menta triturada, usada para aliviar a dor. Geralmente chamado de 'anestésico'.
-^ffffff_^000000
+--------------------------
+^0000ffAtiva [Vigor] nv. 1.^000000
+--------------------------
 Peso: ^77777710^000000
 #
 606#
 Preparado à base de ervas feita do extrato de aloes. É notório pelo seu fedor e gosto amargo, mas tende ao vício se utilizado com frequência.
-^ffffff_^000000
+--------------------------
+^0000ffAtiva [Provocar] nv. 1.^000000
+--------------------------
 Peso: ^77777710^000000
 #
 607#
@@ -14743,10 +14747,13 @@ Classes que utilizam: ^777777Todas^000000
 #
 2644#
 Um comprovante que permite a entrada em Valhala. Ele também identifica o seu portador como o guerreiro escolhido e testado pelos Deuses. Ele tem uma lente azul translúcida no centro, que é cercada por letras antigas entalhadas em prata, e parece ser muito poderoso e misterioso para ser considerado apenas um simples comprovante. Sua beleza extasia as pessoas assim que elas o vêem.
-Classe: ^777777Acessório^000000
+--------------------------
+^0000ffDano físico e mágico +5%.^000000
+--------------------------
+Tipo: ^777777Acessório^000000
 Defesa: ^7777770^000000
 Peso: ^7777770^000000
-Classes que utilizam: ^777777Todas^000000
+Classes: ^777777Todas^000000
 #
 2645#
 Um anel maldito, usado apenas por aqueles cujo coração foi seduzido pelas trevas. Dizem que ele foi forjado pelos mortos sob o luar.
@@ -49672,10 +49679,10 @@ Aumenta o dano Magico em monstros Morto-Vivo em 4%.
 Aumenta a resistência a monstros Morto-Vivo em 5%.
 Tipo: ^777777Equipamento para cabeça^000000
 Defesa: ^7777770^000000
-Equipa em : ^777777Meio^000000
-Peso : ^77777720^000000
-Nível necessário : ^77777710^000000
-Classes : ^777777Todas^000000
+Equipa em: ^777777Meio^000000
+Peso: ^77777720^000000
+Nível necessário: ^77777710^000000
+Classes: ^777777Todas^000000
 #
 18580#
 Uma linda coroa feita pelos Esplêndidos usando ramos da Yggdrasil, o Freixo do Mundo.
@@ -54442,11 +54449,11 @@ Classes: ^777777Todas ^000000
 19728#
 Uma miniatura de Cesuno, o funcionário mais dedicado da Corporação Zonda, a concorrente das Kafras. Seus cabelos brilhantes e seu peitoral exposto sempre fizeram sucesso nas propagandas da Rekenber.
 Tipo: ^777777Visual^000000
-Defesa : ^7777770^000000
+Defesa: ^7777770^000000
 Equipa em: ^777777Topo ^000000
-Peso : ^7777770^000000
-Nível Necessário : ^7777771^000000
-Classe : ^777777Todas^000000
+Peso: ^7777770^000000
+Nível Necessário: ^7777771^000000
+Classe: ^777777Todas^000000
 #
 19729#
 Muitos membros do Grupo Pata de Gato são fãs da Corporação Kafra, mas preferem uma versão mais “gatinha” das meninas.
