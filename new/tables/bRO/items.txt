@@ -6296,6 +6296,7 @@
 19269#Tiara do Orgulho#
 19271#Chapéu do Tigre Branco#
 19274#Fone Descolado#
+19288#Elmo Titânico#
 19291#Doge Fofinho#
 19292#Boina Selvagem#
 19294#Fones de Ouvido Nekobits#
@@ -7046,6 +7047,7 @@
 28944#Escudo de Sleiporing#
 28947#Escudo de Gaia#
 28951#Escudo de Nero#
+28955#Escudo de Fotia#
 29135#Faro Aguçado 1#
 29136#Faro Aguçado 2#
 29137#Faro Aguçado 3#
@@ -7120,6 +7122,7 @@
 31178#Cachecol em Chamas#
 31179#Máscara Lupina#
 31180#Faixa do Shurão da Preula#
+31185#Chapéu do Maquinista#
 31186#Gatinho Preto#
 31187#Laço da Princesa Guerreira#
 31188#Chapéu Gótico-Lolita#
@@ -7233,10 +7236,14 @@
 31575#Peruca Turquesa de Waifu#
 31586#Cachecol de Poporing#
 31587#Super Capacete de Kunlun#
+31593#Lenço do Deserto#
 31596#Chapéu Biológico#
 31598#Chapéu Natureba#
 31599#Peruca Bronze de Waifu#
+31609#Máscara do Aristocrata#
 31611#Manto do Riso Macabro#
+31635#Mechas Onduladas Loiras#
+31636#Mechas Onduladas Pratas#
 31645#Aplique lateral Safira#
 31646#Aplique lateral Âmbar#
 31647#Aplique lateral Citrino#
@@ -7245,6 +7252,9 @@
 31650#Aplique lateral Pérola#
 31651#Aplique lateral Topaz#
 31652#Aplique lateral Ametista#
+31667#Boina de Poring#
+31668#Chifres de Majoruros#
+31670#Peruca de Miyabi#
 32018#Lança Ancestral#
 32205#Anel de Esmeralda#
 32221#Anel do Senhor do Tempo#

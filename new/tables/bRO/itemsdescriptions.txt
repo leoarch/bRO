@@ -34604,8 +34604,8 @@ Ticket temporário criado pela Corporação Kafra.
 ^CD3278Coord.:^000000 prontera 141, 226
 <NAVI>[Navegar]<INFO>prontera,141,226,0,000,0</INFO></NAVI>
 --------------------------
-Promoção limitada até o dia ^ff000015.07.2019.^000000
-Este item será removido no dia ^ff000016.07.2019.^000000
+Promoção limitada até o dia ^ff000019.08.2019.^000000
+Este item será removido no dia ^ff000020.08.2019.^000000
 --------------------------
 Peso: ^7777771^000000
 #
@@ -37745,6 +37745,7 @@ Provisões especialmente preparadas para o campo de batalha.
 Peso: ^7777777^000000
 #
 12270#
+^FF0000Intransferível^000000
 Provisões especialmente preparadas para o campo de batalha.
 ^000088ATQM + 15 por 10 minutos.^000000
 ^ffffff_^000000
@@ -44711,9 +44712,14 @@ Duração: ^77777730 minutos^000000
 Peso: ^7777771^000000
 #
 14538#
-Um cálice com uma infusão feita com o extrato de Flores da Ilusão. Muito usado no oriente pelos Ninjas, ele garante a quem beber uma sombra viva, que o torna incrivelmente mais difícil de ser acertado. 
-Aumenta a Esquiva Perfeita em 20 por tempo limitado. Só pode ser usada novamente depois de 5 minutos.
-^ffffff_^000000
+Um cálice com uma infusão feita com o extrato de Flores da Ilusão. Muito usado no oriente pelos Ninjas, ele garante a quem beber uma sombra viva, que o torna incrivelmente mais difícil de ser acertado.
+--------------------------
+^0000ffEsquiva perfeita +20.^000000
+--------------------------
+^008080Perde o efeito ao morrer.^000000
+--------------------------
+Duração: ^7777771 minuto^000000
+Recarga: ^7777775 minutos^000000
 Peso: ^7777771^000000
 #
 14539#
@@ -44958,10 +44964,13 @@ Peso: 1
 #
 14614#
 Poção que faz com que o usuário consiga enrijecer sua pele e criar uma aura em torno de si, preparada a partir de escamas e saliva de dragões além de ervas especiais.
-Aumenta a resistência a ataques físicos e mágicos em 3% por 30 minutos.
-^000088O efeito se desfaz quando o personagem desmaia ou recebe o efeito da magia Desencantar.^000000
-^ffffff_^000000
-Peso : 1
+--------------------------
+^0000ffResistência física e mágica +3%.^000000
+--------------------------
+^008080Perde o efeito ao morrer.^000000
+--------------------------
+Duração: ^77777730 minutos^000000
+Peso: ^7777771^000000
 #
 14616#
 Um biscoito em forma de palito com uma deliciosa cobertura de laranja. Perfeito para um lanchinho da tarde ou para dividir com os amigos.
@@ -50220,12 +50229,12 @@ Se nível base for 100 ou mais,
 ^0000ffVelocidade de ataque +1% adicional.^000000
 Se nível base for 150 ou mais,
 ^0000ffVelocidade de ataque +1% adicional.^000000
-Tipo : ^777777Equipamento para Cabeça^000000
+Tipo: ^777777Equipamento para Cabeça^000000
 Defesa: ^7777771^000000
 Equipa em: ^777777Meio^000000
-Peso : ^77777750^000000
-Nível Necessário : ^77777780^000000
-Classe : ^777777Todas as Classes^000000
+Peso: ^77777750^000000
+Nível Necessário: ^77777780^000000
+Classe: ^777777Todas as Classes^000000
 #
 18659#
 Um chapéu feito em homenagem ao temível MVP de Brasilis, Boitatá, a cobra de fogo aprisionada nas profundezas da cachoeira. O protetor das florestas brasileiras.
@@ -53236,6 +53245,15 @@ Peso: ^77777710^000000
 Nível necessário: ^777777100^000000
 Classes: ^777777Todas^000000
 #
+19288#
+Colossal. Grandioso. Mastodôntico. As proporções desmedidas desse capacete são pra mostrar que você quer chamar a atenção mesmo. Maior do que ele, só mesmo o seu senso de estilo.
+Tipo: ^777777Visual^000000
+Equipa em: ^777777Topo^000000
+Defesa: ^7777770^000000
+Peso: ^7777770^000000
+Nível necessário: ^7777771^000000
+Classes: ^777777Todas^000000
+#
 19291#
 Um doge super fofinho para te acompanhar aonde quer que você vá. Tão melhor amigo. Muita fofura. Uau.
 Tipo: ^777777Visual^000000
@@ -54476,11 +54494,11 @@ Classes: ^777777Todas ^000000
 19738#
 O chapéu do famoso detetive Xerloque Rolmes é uma verdadeira inspiração àqueles que admiram sua inteligência e astúcia na solução dos crimes mais obscuros de Prontera.
 Tipo: ^777777Visual^000000
-Defesa : ^7777770^000000
+Defesa: ^7777770^000000
 Equipa em: ^777777Topo ^000000
-Peso : ^7777770^000000
-Nível Necessário : ^7777771^000000
-Classe : ^777777Todas^000000
+Peso: ^7777770^000000
+Nível Necessário: ^7777771^000000
+Classe: ^777777Todas^000000
 #
 19742#
 Você foi abençoado pelos deuses e recebeu a proteção das valquírias para ter este lindo visual, tudo graças à sua incrível e insuperável humildade!
@@ -61009,7 +61027,7 @@ Classes: ^777777Todas^000000
 28484#
 Pertenceu a um Insurgente que, após causar muita destruição, se amargurou com o que fez e abandonou essa vida, bem como este acessório.
 --------------------------
-^0000ffDano físico +5%.^000000
+^0000ffATQ da arma +5%.^000000
 ^0000ffConjuração variável -10%.^000000
 ^0000ffCusto de SP de [Descarregar Tambor] -5.^000000
 --------------------------
@@ -62105,6 +62123,41 @@ Peso: ^77777750^000000
 Nível necessário: ^77777790^000000
 Classes: ^777777Todas^000000
 #
+28955#
+Forjado sobre as brasas de ardor eterno, este escudo é uma verdadeira muralha que resiste mesmo quando colocado contra chamas de fulgor inigualável.
+--------------------------
+^a400cdIndestrutível em batalha.^000000
+--------------------------
+^0000ffDEFM +10.^000000
+^0000ffResistência a propriedade Fogo +10%.^000000
+^0000ffDano físico e mágico contra oponentes de propriedade Fogo +5%.^000000
+--------------------------
+Refino +8 ou mais:
+^0000ffResistência a propriedade Fogo +15% adicional.^000000
+^0000ffDano físico e mágico contra oponentes de propriedade Fogo +10% adicional.^000000
+--------------------------
+Refino +10 ou mais:
+-
+FOR base 90 ou mais:
+^0000ffATQ +50.^000000
+AGI base 90 ou mais:
+^0000ffVelocidade de ataque +5%.^000000
+VIT base 90 ou mais:
+^0000ffEfetividade de cura recebida +10%.^000000
+^0000ffRecuperação de HP por itens +10%.^000000
+INT base 90 ou mais:
+^0000ffATQM +30.^000000
+DES base 90 ou mais:
+^0000ffConjuração variável -5%.^000000
+SOR base 90 ou mais:
+^0000ffDano crítico +5%.^000000
+--------------------------
+Tipo: ^777777Escudo^000000
+Defesa: ^777777120^000000
+Peso: ^777777100^000000
+Nível necessário: ^77777790^000000
+Classes: ^777777Todas^000000
+#
 29135#
 ^0000ffCRIT +3.^000000
 ^0000ffDano Crítico +1%.^000000
@@ -62482,11 +62535,11 @@ Classes: ^777777Todas^000000
 31087#
 Um modelo fiel da barba dos antigos Vikings. Embora estivessem sempre munidos de vestimentas pesadas, armas e armaduras, a barba robusta sempre foi seu grande símbolo de força e seriedade, além de uma tradição passada para seus queridos filhos.
 Tipo: ^777777Visual^000000
-Defesa : ^7777770^000000
+Defesa: ^7777770^000000
 Equipa em: ^777777Baixo^000000
-Peso : ^7777770^000000
-Nível Necessário : ^7777771^000000
-Classe : ^777777Todas^000000
+Peso: ^7777770^000000
+Nível Necessário: ^7777771^000000
+Classe: ^777777Todas^000000
 #
 31088#
 Um chapéu criado por um chapeleiro fantasma de Nifflheim. 
@@ -62784,6 +62837,14 @@ Classes: ^777777Todas^000000
 Uma faixa que virou meme, quer dizer, moda em Prontera. Originalmente, ela pertencia ao belo, habilidoso e perfeito shura, Rodrigo Rilberto, aquele homão da preula que, além de nunca ter perdido nenhuma batalha e ter dropado de primeira todas as cartas de MVP (inclusive no Thor), construiu uma casa de madeira para diversão do seu filho e foi o único em Rune-Midgard que conseguiu terminar a quest do Livro de Culinária Nível 11.
 Tipo: ^777777Visual^000000
 Defesa: ^7777770^000000
+Equipa em: ^777777Topo^000000
+Peso: ^7777770^000000
+Nível Necessário: ^7777771^000000
+Classes: ^777777Todas^000000
+#
+31185#
+Todos a bordo do Expresso Rune-Midgard! Escolha seu lugar e faça uma viagem das estações Bragi Alvim até o Jardim Prontera rumo a muitos drops e EXP. Choo choo!
+Tipo: ^777777Visual^000000
 Equipa em: ^777777Topo^000000
 Peso: ^7777770^000000
 Nível Necessário: ^7777771^000000
@@ -63360,11 +63421,11 @@ Classe : ^777777Todas^000000
 31394#
 Um chapéu divertido e engraçado, inspirado em uma antiga história sobre um pai amoroso e simples que trabalhava arduamente durante o dia, mas ao chegar em casa, vestia-se de mágico para alegrar suas filhas e mostrar a elas que sempre estariam protegidas pela magia dele.
 Tipo: ^777777Visual^000000
-Defesa : ^7777770^000000
+Defesa: ^7777770^000000
 Equipa em: ^777777Topo ^000000
-Peso : ^7777770^000000
-Nível Necessário : ^7777771^000000
-Classe : ^777777Todas^000000
+Peso: ^7777770^000000
+Nível Necessário: ^7777771^000000
+Classe: ^777777Todas^000000
 #
 31395#
 Uma série de livros elementais que flutuam ao seu redor, para que você sempre tenha à mão o conhecimento de como manejar o fogo sem queimar seu manto ou conjurar rajadas de vento sem mandar o próprio chapéu pelos ares.
@@ -63766,6 +63827,14 @@ Peso : ^7777770^000000
 Nível Necessário : ^7777771^000000
 Classes : ^777777Todas^000000
 #
+31593#
+Muito usado na época em que a região de Morroc sofria com violentas tempestades de areia. Você não estava lá quando isso aconteceu e ainda tá querendo usar um desses pra pagar de gente da velha guarda? Poser!
+Tipo: ^777777Visual^000000
+Equipa em: ^777777Baixo^000000
+Peso: ^7777770^000000
+Nível Necessário: ^7777771^000000
+Classes: ^777777Todas^000000
+#
 31596#
 Alguém achou que seria uma boa ideia colocar um miniecossistema em um chapéu. Até que é confortável, mas antes você vai ter que se acostumar com o orvalho caindo das folhas, o zumbido das abelhas nas flores, as borboletas voando e as aranhas na teia.
 Tipo : ^777777Visual^000000
@@ -63790,6 +63859,14 @@ Peso : ^7777770^000000
 Nível Necessário : ^7777771^000000
 Classes : ^777777Todas^000000
 #
+31609#
+Antigamente, essa máscara era usada em cerimônias reais. Hoje essas formalidades não são mais necessárias, mas o acessório segue sendo usado em bailes de máscara. É bem provável que os membros da realeza de outrora se revirem no túmulo sabendo disso, mas os tempos agora são outros!
+Tipo: ^777777Visual^000000
+Equipa em: ^777777Meio^000000
+Peso: ^7777770^000000
+Nível Necessário: ^7777771^000000
+Classes: ^777777Todas^000000
+#
 31611#
 Como se já não bastasse o aspecto maltrapilho e esfarrapado desse manto, tem um rosto bizarrão na parte de trás dele. Se você acha que não consegue meter medo nos inimigos, basta virar as costas para eles e esse riso macabro vai fazer o trabalho por você!
 Tipo : ^777777Visual^000000
@@ -63797,6 +63874,22 @@ Equipa em : ^777777Baixo^000000
 Peso : ^7777770^000000
 Nível Necessário : ^7777771^000000
 Classes : ^777777Todas^000000
+#
+31635#
+Longos cabelos loiros que esbanjam um luxo que só. Vestindo a roupa certa, podem cair muito bem num cosplay também!
+Tipo: ^777777Visual^000000
+Equipa em: ^777777Baixo^000000
+Peso: ^7777770^000000
+Nível Necessário: ^7777771^000000
+Classes: ^777777Todas^000000
+#
+31636#
+Pra que investir horrores por meses (ou anos!) com condicionador, hidratante e shampoo pra ter um belo cabelo quando se tem um arraso de peruca dessas?
+Tipo: ^777777Visual^000000
+Equipa em: ^777777Baixo^000000
+Peso: ^7777770^000000
+Nível Necessário: ^7777771^000000
+Classes: ^777777Todas^000000
 #
 31645#
 Se você é fã do universo das cores e quer deixar claro que sempre salva o dia, basta colocar esse aplique Safira. As lendas dizem que ele pode ajudar a apurar o sexto sentido.
@@ -63856,6 +63949,30 @@ Classes: ^777777Todas^000000
 #
 31652#
 Se você é fã do universo das cores e quer deixar claro que sempre salva o dia, basta colocar esse aplique Ametista. As lendas dizem que ele ajuda a se adaptar e a ver o lado positivo de qualquer situação.
+Tipo: ^777777Visual^000000
+Equipa em: ^777777Baixo^000000
+Peso: ^7777770^000000
+Nível Necessário: ^7777771^000000
+Classes: ^777777Todas^000000
+#
+31667#
+Porings são geladinhos e gelatinosos. Essa boina aqui é o completo oposto, contando com um interior quentinho e aconchegante para resistir até os ventos mais frios. E ela ainda mantém toda a fofura dos Porings!
+Tipo: ^777777Visual^000000
+Equipa em: ^777777Topo^000000
+Peso: ^7777770^000000
+Nível Necessário: ^7777771^000000
+Classes: ^777777Todas^000000
+#
+31668#
+Dizem que esse par de chifres já pertenceu a um Majoruros de verdade. Também falam, no entanto, que nenhum monstro dessa espécie foi derrotado na produção desse visual. Se tudo isso é verdade mesmo, só dá pra tirar uma conclusão: em algum canto deste mundo, neste exato momento, um Majoruros “deschifrado” está sendo zoado pelos seus amigos.
+Tipo: ^777777Visual^000000
+Equipa em: ^777777Topo^000000
+Peso: ^7777770^000000
+Nível Necessário: ^7777771^000000
+Classes: ^777777Todas^000000
+#
+31670#
+Um belo cabelão de Miyabi Ningyo. Vista o seu obi e leve um pouquinho de Amatsu para todo canto que você visitar! Só não se esqueça de que ela é o monstro mais fácil de derrotar que dropa Violinos Rubi, então é melhor não exagerar na fantasia, porque se te confundirem com uma...
 Tipo: ^777777Visual^000000
 Equipa em: ^777777Baixo^000000
 Peso: ^7777770^000000
