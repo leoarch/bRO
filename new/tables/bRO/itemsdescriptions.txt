@@ -64004,7 +64004,7 @@ Nível Necessário: ^7777771^000000
 Classes: ^777777Todas^000000
 #
 31659#
-Um penteado requintadíssimo que garante o estilo mesmo naqueles dias quentes em o clima fica abafado e tudo fica colando na gente. A cor é perfeita para vossa realeza, que quer só quer um coque charmoso e discreto pra aliviar um pouco do calor.
+Um penteado requintadíssimo que garante o estilo mesmo naqueles dias quentes em o clima fica abafado e tudo fica colando na gente. A cor é perfeita para vossa realeza, que quer só um coque charmoso e discreto pra aliviar um pouco do calor.
 Tipo: ^777777Visual^000000
 Equipa em: ^777777Baixo^000000
 Peso: ^7777770^000000
