@@ -7252,6 +7252,14 @@
 31650#Aplique lateral Pérola#
 31651#Aplique lateral Topaz#
 31652#Aplique lateral Ametista#
+31653#Coque Veraneio Bleu#
+31654#Coque Veraneio Rouge#
+31655#Coque Veraneio Jaune#
+31656#Coque Veraneio Vert#
+31657#Coque Veraneio Noir#
+31658#Coque Veraneio Blanc#
+31659#Coque Veraneio Brunne#
+31660#Coque Veraneio Violette#
 31667#Boina de Poring#
 31668#Chifres de Majoruros#
 31670#Peruca de Miyabi#

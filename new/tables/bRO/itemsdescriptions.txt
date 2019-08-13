@@ -63955,6 +63955,70 @@ Peso: ^7777770^000000
 Nível Necessário: ^7777771^000000
 Classes: ^777777Todas^000000
 #
+31653#
+Um penteado requintadíssimo que garante o estilo mesmo naqueles dias quentes em o clima fica abafado e tudo fica colando na gente. A cor é perfeita para vossa excelência, que é chique no último e bebe na taça (e até levanta o dedo mindinho!)
+Tipo: ^777777Visual^000000
+Equipa em: ^777777Baixo^000000
+Peso: ^7777770^000000
+Nível Necessário: ^7777771^000000
+Classes: ^777777Todas^000000
+#
+31654#
+Um penteado requintadíssimo que garante o estilo mesmo naqueles dias quentes em o clima fica abafado e tudo fica colando na gente. A cor é perfeita para vossa majestade, que não sai de casa sem polir os sapatos e vestir a camiseta sob a calça.
+Tipo: ^777777Visual^000000
+Equipa em: ^777777Baixo^000000
+Peso: ^7777770^000000
+Nível Necessário: ^7777771^000000
+Classes: ^777777Todas^000000
+#
+31655#
+Um penteado requintadíssimo que garante o estilo mesmo naqueles dias quentes em o clima fica abafado e tudo fica colando na gente. A cor é perfeita para vossa senhoria, que é pura phyneza (com PH e Y!) e quer brilhar com um belo coque por onde quer que for.
+Tipo: ^777777Visual^000000
+Equipa em: ^777777Baixo^000000
+Peso: ^7777770^000000
+Nível Necessário: ^7777771^000000
+Classes: ^777777Todas^000000
+#
+31656#
+Um penteado requintadíssimo que garante o estilo mesmo naqueles dias quentes em o clima fica abafado e tudo fica colando na gente. A cor é perfeita para vossa alteza, que se preocupa com o meio-ambiente e os animais. Você até parou de usar canudos de plástico muito antes de todo mundo!
+Tipo: ^777777Visual^000000
+Equipa em: ^777777Baixo^000000
+Peso: ^7777770^000000
+Nível Necessário: ^7777771^000000
+Classes: ^777777Todas^000000
+#
+31657#
+Um penteado requintadíssimo que garante o estilo mesmo naqueles dias quentes em o clima fica abafado e tudo fica colando na gente. A cor é perfeita para vossa magnificência, que tem o cabelo escuro como a noite e gosta de dar uns rolês góticos.
+Tipo: ^777777Visual^000000
+Equipa em: ^777777Baixo^000000
+Peso: ^7777770^000000
+Nível Necessário: ^7777771^000000
+Classes: ^777777Todas^000000
+#
+31658#
+Um penteado requintadíssimo que garante o estilo mesmo naqueles dias quentes em o clima fica abafado e tudo fica colando na gente. A cor é perfeita para vossa onipotência, que assumiu os cabelos brancos como parte da sua experiência e conhecimento como aventureiro(a) veterano(a).
+Tipo: ^777777Visual^000000
+Equipa em: ^777777Baixo^000000
+Peso: ^7777770^000000
+Nível Necessário: ^7777771^000000
+Classes: ^777777Todas^000000
+#
+31659#
+Um penteado requintadíssimo que garante o estilo mesmo naqueles dias quentes em o clima fica abafado e tudo fica colando na gente. A cor é perfeita para vossa realeza, que quer só quer um coque charmoso e discreto pra aliviar um pouco do calor.
+Tipo: ^777777Visual^000000
+Equipa em: ^777777Baixo^000000
+Peso: ^7777770^000000
+Nível Necessário: ^7777771^000000
+Classes: ^777777Todas^000000
+#
+31660#
+Um penteado requintadíssimo que garante o estilo mesmo naqueles dias quentes em o clima fica abafado e tudo fica colando na gente. A cor é perfeita para vossa majestade, que gosta de esbanjar tudo — seus feitos, riquezas e até a cor excêntrica do seu cabelo.
+Tipo: ^777777Visual^000000
+Equipa em: ^777777Baixo^000000
+Peso: ^7777770^000000
+Nível Necessário: ^7777771^000000
+Classes: ^777777Todas^000000
+#
 31667#
 Porings são geladinhos e gelatinosos. Essa boina aqui é o completo oposto, contando com um interior quentinho e aconchegante para resistir até os ventos mais frios. E ela ainda mantém toda a fofura dos Porings!
 Tipo: ^777777Visual^000000
