@@ -7326,6 +7326,7 @@
 31490#Cachecol de Poring#
 31491#Gata Lasanhinha#
 31493#Peruca Branca de Waifu#
+31505#Falcoelmo#
 31510#Peruca Curta de Gatinho#
 31511#Peruca Longa de Gatinho#
 31513#Orelhas do Coelho Minguante#
@@ -7340,6 +7341,7 @@
 31561#Asas de Dragão Sombrio#
 31564#Véu do Submundo#
 31565#Laço com Coroa#
+31566#Estola das Divindades#
 31568#Espíritos Taiji#
 31569#Fones de Última Geração#
 31572#Auréolas Digitais#

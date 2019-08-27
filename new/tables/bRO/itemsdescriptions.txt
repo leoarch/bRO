@@ -60938,6 +60938,8 @@ Um ticket que pode ser trocado por um Ovo de Unicórnio.
 ^CD3278Local:^000000 prontera 221, 209
 <NAVI>[Navegar]<INFO> prontera, 221,209,0,000,0</INFO></NAVI>
 --------------------------
+^ff0000Atenção! Esse item não pode ser negociado, colocado no carrinho e nem derrubado no chão, mas pode ser colocado no armazém.^000000
+--------------------------
 Peso: ^7777771^000000
 #
 25401#
@@ -64950,6 +64952,15 @@ Peso: ^7777770^000000
 Nível necessário: ^7777771^000000
 Classes: ^777777Todas^000000
 #
+31505#
+Faça os outros lhe conhecerem como o temível Adventureus Rapinum: um raro e imponente espécime de falcão caracterizado pela sua velocidade ímpar, força avassaladora, visão aguçada e... metabolismo extremamente acelerado? É melhor você ir aprendendo a balancear suas refeições com as suas jornadas para não ter uma surpresa indesejada...
+Tipo: ^777777Visual ^000000
+Defesa: ^7777770 ^000000
+Equipa em: ^777777Meio e Baixo^000000
+Peso: ^7777770 ^000000
+Nível Necessário: ^7777771 ^000000
+Classes: ^777777Todas ^000000
+#
 31510#
 Cabelos curtos são tão bonitos e estilosos quanto os longos. Por isso, essa peruca esbanja um visual bem diferente e moderno, contando ainda com duas imitações de orelhas de gatinho. Mas saiba que, com ela, pode ser que te confundam com algum personagem famoso de Amatsu.
 Tipo: ^777777Visual^000000
@@ -65066,6 +65077,15 @@ Equipa em : ^777777Topo ^000000
 Peso : ^7777770^000000
 Nível necessário : ^7777771^000000
 Classes : ^777777Todas^000000
+#
+31566#
+Sedosa e confortável, essa estola é parecida com a usada por emissários divinos. O enfeite de Poporing está ali só pra não te confundirem com um enviado celestial de verdade, afinal, eles jamais perderiam seu tempo com bonecagens (mas se está lendo isso, você provavelmente perderia).
+Tipo: ^777777Visual ^000000
+Defesa: ^7777770 ^000000
+Equipa em: ^777777Baixo^000000
+Peso: ^7777770 ^000000
+Nível Necessário: ^7777771 ^000000
+Classes: ^777777Todas ^000000
 #
 31568#
 Com origens na filosofia de Kunlun, esses espíritos representam a harmonia do mundo: o bem e o mal, o cheio e o vazio. O equilíbrio dessas forças é o caminho para atingir o potencial máximo do seu Chi.
