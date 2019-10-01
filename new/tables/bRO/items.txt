@@ -7415,6 +7415,8 @@
 31672#Peruca de Nereida#
 31687#Bolsa do Alquimista#
 31707#Peruca de Youkai#
+31721#Tambores de Invocação#
+31731#Guloseimas Encantadas#
 32018#Lança Ancestral#
 32205#Anel de Esmeralda#
 32221#Anel do Senhor do Tempo#
