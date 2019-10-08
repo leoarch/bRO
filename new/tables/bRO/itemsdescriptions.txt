@@ -38074,7 +38074,7 @@ Peso: ^7777771^000000
 Um bastão que brilha quando é utilizado. As pessoas que vêem essas luzes parecem perder parte de sua memória.
 ^0000ffRestaura a Árvore de Habilidades e lhe dá o numero correspondente em pontos para fazer a redistribuição.^000000
 ^000088Atenção: para usar o Neuralizador você deve seguir as mesmas exigências do NPC de Reset de Habilidades.^000000
-Guarde todos os seus itens, equipamentos e flechas em seu armazém, remova seu PecoPeco, GrandPeco, Carrinho ou Falcão e só então clique duas vezes no Neuralizador. Do contrário, mesmo que você tente usá-lo, ele não será gasto, mas nada acontecerá!
+Guarde todos os seus itens, equipamentos e flechas em seu armazém, remova seu PecoPeco, GrandPeco, Carrinho, Worg ou Falcão e só então clique duas vezes no Neuralizador. Do contrário, mesmo que você tente usá-lo, ele não será gasto, mas nada acontecerá!
 ^ff0000Atenção: ^777777O item não pode ser derrubado no chão, mas pode ser negociado, colocado na Kafra e no Carrinho^000000
 Peso: ^7777771^000000
 #
@@ -40127,7 +40127,7 @@ Peso: ^7777771^000000
 Uma caixa contendo um bastão brilhante. Frágil!
 Neuralizador - ^000088Um bastão que brilha quando é utilizado. As pessoas que vêem essas luzes parecem perder parte de sua memória. Restaura a Árvore de Habilidades e lhe dá o numero correspondente em pontos para fazer a redistribuição.^000000
 Mas atenção: para usar o Neuralizador você deve seguir as mesmas exigências do NPC de Reset Skill.
-Guarde todos os seus itens, equipamentos e flechas em seu armazém, remova seu PecoPeco, GrandPeco, Carrinho ou Falcão e só então clique duas vezes no Neuralizador.
+Guarde todos os seus itens, equipamentos e flechas em seu armazém, remova seu PecoPeco, GrandPeco, Carrinho, Worg ou Falcão e só então clique duas vezes no Neuralizador.
 Do contrário, mesmo que você tente usá-lo, ele não será gasto, mas nada acontecerá!
 ^ff0000Atenção: ^777777O item não pode ser derrubado no chão, mas pode ser negociado, colocado na Kafra e no Carrinho^000000
 Peso: ^7777771^000000
@@ -56560,6 +56560,15 @@ Peso : ^7777770^000000
 Nível Necessário : ^7777771^000000
 Classes : ^777777Todas^000000
 #
+19998#
+Um casco grandão e com espinhos que não só vai proteger seu cocuruto se você levar um capote, como também servirá como uma ótima arma pra quem vier encher a sua paciência. Dá uma cabeçada nele!
+Tipo: ^777777Visual ^000000
+Defesa: ^7777770 ^000000
+Equipa em: ^777777Topo^000000
+Peso: ^7777770^000000
+Nível Necessário: ^7777771 ^000000
+Classes: ^777777Todas ^000000
+#
 20006#
 Se você planeja dominar o mundo ou escravizar a humanidade, essa é a máscara perfeita pra fazer isso com estilo! Vai até parecer que você é o chefão final de um jogo ou o inimigo principal da história.
 Tipo: ^777777Visual ^000000
@@ -56682,6 +56691,15 @@ Um colorido conjunto de frutas tropicais, perfeito pra você usar e descobrir o 
 Tipo: ^777777Visual ^000000
 Defesa: ^7777770 ^000000
 Equipa em: ^777777Topo^000000
+Peso: ^7777770^000000
+Nível Necessário: ^7777771 ^000000
+Classes: ^777777Todas ^000000
+#
+20047#
+Alguém achou que seria uma boa ideia reaproveitar uns furins pra fazer esses adereços exóticos. Talvez tenha sido, se você gostar de infernizar a vida de meio mundo fazendo bling-bling-bling por aí com uns guizos.
+Tipo: ^777777Visual ^000000
+Defesa: ^7777770 ^000000
+Equipa em: ^777777Meio^000000
 Peso: ^7777770^000000
 Nível Necessário: ^7777771 ^000000
 Classes: ^777777Todas ^000000
@@ -62968,58 +62986,58 @@ Um anel dado por Nephisto, o lorde infernal, quando vocês fizeram um pacto para
 ^0000ffDano mágico +5%.^000000
 ^0000ffATQ da arma +5%.^000000
 ^FF6347Conjunto^000000
-^FF6347[Essência de FOR 1]^000000
+^FF6347[Essência de Morroc FOR1]^000000
 ^0000ffATQ da arma +5%.^000000
 ^FF6347Conjunto^000000
-^FF6347[Essência de FOR 2]^000000
+^FF6347[Essência de Morroc FOR2]^000000
 ^0000ffATQ da arma +5%.^000000
 ^FF6347Conjunto^000000
-^FF6347[Essência de FOR 3]^000000
+^FF6347[Essência de Morroc FOR3]^000000
 ^0000ffATQ da arma +5%.^000000
 ^FF6347Conjunto^000000
-^FF6347[Essência de AGI 1]^000000
+^FF6347[Essência de Morroc AGI1]^000000
 ^0000ffVelocidade de ataque +5%.^000000
 ^FF6347Conjunto^000000
-^FF6347[Essência de AGI 2]^000000
+^FF6347[Essência de Morroc AGI2]^000000
 ^0000ffVelocidade de ataque +5%.^000000
 ^FF6347Conjunto^000000
-^FF6347[Essência de AGI 3]^000000
+^FF6347[Essência de Morroc AGI3]^000000
 ^0000ffVelocidade de ataque +5%.^000000
 ^FF6347Conjunto^000000
-^FF6347[Essência de VIT 1]^000000
+^FF6347[Essência de Morroc VIT1]^000000
 ^0000ffHP máx. +5%.^000000
 ^FF6347Conjunto^000000
-^FF6347[Essência de VIT 2]^000000
+^FF6347[Essência de Morroc VIT2]^000000
 ^0000ffHP máx. +5%.^000000
 ^FF6347Conjunto^000000
-^FF6347[Essência de VIT 3]^000000
+^FF6347[Essência de Morroc VIT3]^000000
 ^0000ffHP máx. +5%.^000000
 ^FF6347Conjunto^000000
-^FF6347[Essência de INT 1]^000000
+^FF6347[Essência de Morroc INT1]^000000
 ^0000ffDano mágico +5% adicional.^000000
 ^FF6347Conjunto^000000
-^FF6347[Essência de INT 2]^000000
+^FF6347[Essência de Morroc INT2]^000000
 ^0000ffDano mágico +5% adicional.^000000
 ^FF6347Conjunto^000000
-^FF6347[Essência de INT 3]^000000
+^FF6347[Essência de Morroc INT3]^000000
 ^0000ffDano mágico +5% adicional.^000000
 ^FF6347Conjunto^000000
-^FF6347[Essência de DES 1]^000000
+^FF6347[Essência de Morroc DES1]^000000
 ^0000ffConjuração variável -5%.^000000
 ^FF6347Conjunto^000000
-^FF6347[Essência de DES 2]^000000
+^FF6347[Essência de Morroc DES2]^000000
 ^0000ffConjuração variável -5%.^000000
 ^FF6347Conjunto^000000
-^FF6347[Essência de DES 3]^000000
+^FF6347[Essência de Morroc DES3]^000000
 ^0000ffConjuração variável -5%.^000000
 ^FF6347Conjunto^000000
-^FF6347[Essência de SOR 1]^000000
+^FF6347[Essência de Morroc SOR1]^000000
 ^0000ffDano crítico +5%.^000000
 ^FF6347Conjunto^000000
-^FF6347[Essência de SOR 2]^000000
+^FF6347[Essência de Morroc SOR2]^000000
 ^0000ffDano crítico +5%.^000000
 ^FF6347Conjunto^000000
-^FF6347[Essência de SOR 3]^000000
+^FF6347[Essência de Morroc SOR3]^000000
 ^0000ffDano crítico +5%.^000000
 Tipo: ^777777Acessório^000000
 Defesa: ^7777770^000000
@@ -65009,6 +65027,15 @@ Peso: ^7777770^000000
 Nível Necessário: ^7777771^000000
 Classes: ^777777Todas^000000
 #
+31190#
+Uma minicartola usada apenas pelas mais estilosas Valquírias. Se você achou que elas eram só uns rostinhos bonitos de Freyja, saibam que Valquíria também é gente, e gente de muito bom gosto pra moda, aliás!
+Tipo: ^777777Visual ^000000
+Defesa: ^7777770 ^000000
+Equipa em: ^777777Topo^000000
+Peso: ^7777770^000000
+Nível Necessário: ^7777771 ^000000
+Classes: ^777777Todas ^000000
+#
 31193#
 A crença dos Manuks sobre a beleza soberana do Ministro Ahat os levaram a criar uma espécie de chapéu totalmente inspirado nele. Totalmente mesmo, porque você vai ter uma miniatura do ministro sobre a sua cabeça, que de quebra ainda muda de aparência de acordo com o seu gênero
 Tipo: ^777777Visual^000000
@@ -66384,7 +66411,7 @@ Refino +7 ou mais:
 Refino +9 ou mais:
 ^0000ffDano crítico +20%.^000000
 Refino +11 ou mais:
-^0000ffAo usar [Furor], ativa o [Efeito 1] por 90 segundos.^000000
+^0000ffAo usar [Furor], ativa o [Efeito 1] por 60 segundos.^000000
 --------------------------
 ^CD3278Efeito 1:^000000
 ^0000ffCRIT +20.^000000
