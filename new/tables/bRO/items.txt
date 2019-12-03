@@ -6379,6 +6379,7 @@
 19271#Chapéu do Tigre Branco#
 19274#Fone Descolado#
 19288#Elmo Titânico#
+19290#Chifres Vilanescos#
 19291#Doge Fofinho#
 19292#Boina Selvagem#
 19294#Fones de Ouvido Nekobits#
@@ -6583,6 +6584,7 @@
 19892#Chapéu da Amoeba Alada#
 19893#Chapéu de Bruxinha#
 19894#Laço da Donzela do Altar#
+19895#Touca Lunar#
 19903#Chapéu de Bruxa Maligna#
 19904#Boina da Caveira#
 19905#Gorro do Bicho Papão#
@@ -6598,6 +6600,7 @@
 19920#Máscara de Sussurro Assustador#
 19922#Chapéu Arcebispal#
 19924#Máscara de Odin#
+19925#Monóculo Gótico#
 19929#Laço Clássico#
 19930#Cartola da Gótica-Valquíria#
 19934#Chapéu Flamejante#
@@ -7267,6 +7270,7 @@
 31117#Gálea Dourada#
 31120#Orelhas de Vampiro#
 31121#Estola do Demônio#
+31122#Bandagem Vermelho Sangue#
 31124#Chapéu do RagnaChef#
 31125#Chapéu da Realeza Pirata#
 31132#Guirlanda Natalina#
@@ -7349,6 +7353,7 @@
 31318#Deviruchi Inflável#
 31325#Coroa da Rainha Scaraba#
 31329#Peruca de Alice#
+31330#Laço Alado#
 31331#Bao-Bao da Donzela Verde#
 31332#Elmo Negro da Khalitzburg#
 31381#Gola Diabólica#
