@@ -33766,7 +33766,7 @@ Passe que deve ser usado sempre que desejar acessar um local.
 <NAVI>[Rachel]<INFO>rachel,132,144,0,000,0</INFO></NAVI>
 <NAVI>[Lighthalzen]<INFO>lighthalzen,203,140,0,000,0</INFO></NAVI>
 --------------------------
-Encerramento do evento: ^ff000029/07/19.^000000
+Encerramento do evento: ^ff000006/01/20.^000000
 O passe perderá validade após a data.
 --------------------------
 Negociação: ^777777Não pode ser negociado, derrubado no chão ou colocado no carrinho, mas pode ser transferido para o armazém.^000000
@@ -37755,6 +37755,7 @@ Tipo: ^777777Roupa^000000
 Duração: ^77777710 minutos^000000
 Peso: ^77777720^000000
 Defesa: ^7777770^000000
+Classes: ^777777Todas, exceto Invocadores ^000000
 #
 12133#
 Nada melhor do que um delicioso sorvete para se refrescar.
@@ -40109,7 +40110,6 @@ Uma caixa que contém 10 Manuais de Combate. Ao abri-la os itens serão deixados
 Duração: ^77777730 minutos^000000
 Peso: ^7777771^000000
 --------------------------
-Negociação: ^777777Não pode ser derrubado ou negociado, mas pode ser colocado no armazém.^000000
 Peso: ^7777771^000000
 #
 12901#
@@ -55591,6 +55591,14 @@ Peso: ^7777770^000000
 Nível Necessário: ^7777771^000000
 Classes: ^777777Todas^000000
 #
+19671#
+Depois de juntar meses e meses em troco de poção, você finalmente encontrou um lugar perfeito pra guardar todas as moedinhas. Boa sorte equilibrando suas finanças na cabeça!
+Tipo: ^777777Visual^000000
+Equipa em: ^777777Topo^000000
+Peso: ^7777770^000000
+Nível Necessário: ^7777771^000000
+Classes: ^777777Todas^000000
+#
 19676#
 Um chapéu perfeito pra quem não consegue decidir entre o poporing, drops, marin e tantos outros monstros fofinhos da família Poring. Com esse poring prismático alterando entre todos os espectros de cor do arco-íris você não precisa decidir entre eles. Só não vale tirar sarro do seu amigo daltônico.
 Tipo: ^777777Visual^000000
@@ -61212,6 +61220,7 @@ Tecido leve e delicado, perfeito para confecção de roupas tradicionais coreana
 Tipo: ^777777Roupa^000000
 Duração: ^77777710 minutos^000000
 Peso: ^7777771^000000
+Classes: ^777777Todas, exceto Invocadores ^000000
 #
 22540#
 ^ff0000Este item não pode ser negociado.^000000
@@ -61439,6 +61448,7 @@ Uma bolsa com uma roupa de banho novinha em folha. Tá esperando o quê? Vai lá
 Tipo: ^777777Roupa^000000
 Duração: ^77777710 minutos^000000
 Peso: ^77777710^000000
+Classes: ^777777Todas, exceto Invocadores ^000000
 #
 22838#
 Uma sacola cheia de doces de Halloween. Ao abrir, você pode receber doces ou itens antigos diversos.
@@ -64868,6 +64878,14 @@ Peso: ^7777770^000000
 Nível Necessário: ^7777771^000000
 Classes: ^777777Todas^000000
 #
+31029#
+Reclamam muito que você faz bagunça? Então coloque esse focinho e incorpore o verdadeiro espírito de porco, aí sim eles vão ter do que reclamar. Oinc, oinc!
+Tipo: ^777777Visual^000000
+Equipa em: ^777777Baixo^000000
+Peso: ^7777770^000000
+Nível Necessário: ^7777771^000000
+Classes: ^777777Todas^000000
+#
 31038#
 Uma bandana vermelha xadrez, bastante estilosa. Embora originalmente tenha sido feita pra se usar no pescoço, vários grupos como bardos, arruaceiros, skatistas e até alguns Rockers passaram a amarrá-la na cabeça. Entre personalidades famosas que adotaram seu uso estão o Algoz Cozinheiro, Ryou Kibakubo, e a treinadora de pets, Maia, da cidade de Petelburgo.
 Tipo: ^777777Visual^000000
@@ -65376,6 +65394,14 @@ Uma faixa que virou meme, quer dizer, moda em Prontera. Originalmente, ela perte
 Tipo: ^777777Visual^000000
 Defesa: ^7777770^000000
 Equipa em: ^777777Topo^000000
+Peso: ^7777770^000000
+Nível Necessário: ^7777771^000000
+Classes: ^777777Todas^000000
+#
+31183#
+Alguém cansou do conceito de que tudo que é “angelical” tem de usar cores claras e, por isso, pintou essas asas com uma cor pouco comum.
+Tipo: ^777777Visual^000000
+Equipa em: ^777777Meio^000000
 Peso: ^7777770^000000
 Nível Necessário: ^7777771^000000
 Classes: ^777777Todas^000000
@@ -65928,6 +65954,14 @@ Tipo: ^777777Visual^000000
 Equipa em: ^777777Baixo^000000
 Peso: ^7777770^000000
 Nível necessário: ^7777771^000000
+Classes: ^777777Todas^000000
+#
+31384#
+Essas orelhas são, na verdade, protetores auriculares bem discretos. Ideais pra parecer que você tá ouvindo o sermão que estão te dando ou que tá achando a aula interessante.
+Tipo: ^777777Visual^000000
+Equipa em: ^777777Meio^000000
+Peso: ^7777770^000000
+Nível Necessário: ^7777771^000000
 Classes: ^777777Todas^000000
 #
 31386#
@@ -66690,6 +66724,14 @@ Peso: ^7777770^000000
 Nível Necessário: ^7777771^000000
 Classes: ^777777Todas^000000
 #
+31688#
+Tenha esse companheirinho no seu ombro o tempo todo. E, quando quiser, é só guardá-lo no bolso da calça, até porque ele é pequeníssimo. Quer visual mais prático que esse?
+Tipo: ^777777Visual^000000
+Equipa em: ^777777Meio^000000
+Peso: ^7777770^000000
+Nível Necessário: ^7777771^000000
+Classes: ^777777Todas^000000
+#
 31707#
 Uma bela peruca de nove pontas, cada uma representando uma cauda da Kitsune, a raposa de extrema coragem e bravura. Essas são as qualidades de alguém que quer mudar o mundo; cruzar os céus e nada temer.
 Tipo: ^777777Visual^000000
@@ -66715,6 +66757,14 @@ Peso: ^7777770^000000
 Nível Necessário: ^7777771^000000
 Classes: ^777777Todas^000000
 #
+31803#
+Incorpore o espírito dos quatro ventos com esse tornado que te envolverá por completo. Evite A QUALQUER CUSTO passar perto de alguém com penteados maneiríssimos, afinal, a pior coisa é ter o up interrompido pra ter que desembaraçar o cabelo, né?
+Tipo: ^777777Visual^000000
+Equipa em: ^777777Baixo^000000
+Peso: ^7777770^000000
+Nível Necessário: ^7777771^000000
+Classes: ^777777Todas^000000
+#
 31814#
 Três balões de Lunáticos que dá vontade de apertar até estourar... Mas não se esqueça de que são balões, então se fizer isso, você vai estourar DE VERDADE essas fofurinhas. Iti malia!
 Tipo: ^777777Visual ^000000
@@ -66722,6 +66772,14 @@ Equipa em: ^777777Meio^000000
 Peso: ^7777770 ^000000
 Nível Necessário: ^7777771 ^000000
 Classes: ^777777Todas ^000000
+#
+31816#
+Essa bela echarpe é divina, mas o comprimento dela pode ser um tanto longo pra você. A sua sorte é que esses três coelíneos voadores te ajudarão a levá-la!
+Tipo: ^777777Visual^000000
+Equipa em: ^777777Baixo^000000
+Peso: ^7777770^000000
+Nível Necessário: ^7777771^000000
+Classes: ^777777Todas^000000
 #
 31827#
 Capuz muito conhecido entre os habitantes de Payon pela sua relevância cultural. Essa peça é usada não apenas como proteção do frio, como também para caracterização ao conduzir rituais tradicionais da região.

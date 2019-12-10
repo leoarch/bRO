@@ -6481,6 +6481,7 @@
 19667#Capacete Dracônico#
 19668#Boina Vermelha do Mensageiro#
 19669#Legado de Reginleif#
+19671#Porquinho da Fortuna#
 19676#Chapéu do Poring Prismático#
 19677#Auréola Espiritual#
 19678#Lacinho com Sinos#
@@ -7238,6 +7239,7 @@
 31026#Carta Jack Wolf#
 31027#Orelhas de Urso Enfeitadas#
 31028#Sobrepeliz de Gatinho#
+31029#Fuça de Porco#
 31038#Bandana Xadrez#
 31040#Tiara das Plumas Mágicas#
 31045#Laço Azul Delicado#
@@ -7296,6 +7298,7 @@
 31178#Cachecol em Chamas#
 31179#Máscara Lupina#
 31180#Faixa do Shurão da Preula#
+31183#Asas Grafite#
 31185#Chapéu do Maquinista#
 31186#Gatinho Preto#
 31187#Laço da Princesa Guerreira#
@@ -7359,6 +7362,7 @@
 31381#Gola Diabólica#
 31382#Touca de Patinhas#
 31383#Peruca Azul de Waifu#
+31384#Orelhas de Mentirinha#
 31386#Orbes Místicos#
 31387#Jakk Aventureiro#
 31388#Chapéu Dupliponta#
@@ -7450,10 +7454,13 @@
 31671#Canhões Gêmeos#
 31672#Peruca de Nereida#
 31687#Bolsa do Alquimista#
+31688#Poring de Bolso#
 31707#Peruca de Youkai#
 31721#Tambores de Invocação#
 31731#Guloseimas Encantadas#
+31803#Vendaval Esmeralda#
 31814#Balões Lunáticos#
+31816#Coelhos Celestiais#
 31827#Capuz Durumagi#
 32018#Lança Ancestral#
 32205#Anel de Esmeralda#
