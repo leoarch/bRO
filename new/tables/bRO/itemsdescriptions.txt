@@ -674,7 +674,7 @@ Fórmula química extremamente potente que estimula a circulação, criando uma 
 Duração: ^77777730 minutos^000000
 Peso: ^77777720^000000
 Nível necessário: ^77777785^000000
-Classes: ^777777Todas, exceto Noviços, Arqueiros, Gatunos e Mercenários, Sábios, Aprendizes, Ninjas e evoluções^000000
+Classes: ^777777Todas, exceto Noviços, Arqueiros, Invocadores, Gatunos e Mercenários, Sábios, Aprendizes, Ninjas e evoluções^000000
 #
 658#
 Estatueta simbolizando a solidariedade. Diz-se que apenas a presença de uma dessas inspira harmonia.
@@ -7859,6 +7859,20 @@ Nível da arma: ^7777773^000000
 Nível necessário: ^77777770^000000
 Classes: ^777777Magos, Noviços, Espiritualistas e evoluções^000000
 #
+1681#
+^ff0000Intransferível.^000000
+--------------------------
+Qualquer Doram tem uma dessas. Não vá achando que você é alguma lenda só porque tem como se defender de uns bichinhos!
+--------------------------
+^a400cdNão pode ser refinado.^000000
+--------------------------
+Tipo: ^777777Cajado^000000
+ATQ: ^77777730^000000 ATQM: ^7777770^000000
+Peso: ^7777770^000000
+Nível da arma: ^7777771^000000
+Nível mínimo: ^7777771^000000
+Classes: ^777777Invocadores^000000
+#
 1682#
 O grande poder escondido nesse cajado faz dele um artefato ideal para lançar poderosos (e perigosos) feitiços.
 ^a400cdIndestrutível em batalha.^000000
@@ -7880,6 +7894,289 @@ Peso: ^77777760^000000
 Nível da arma: ^7777774^000000
 Nível necessário: ^77777790^000000
 Classes: ^777777Arcano^000000
+#
+1683#
+--------------------------
+^a400cdIndestrutível em batalha.^000000
+--------------------------
+^0000ffSP máx. +50.^000000
+--------------------------
+Tipo: ^777777Cajado^000000
+ATQ: ^77777750^000000 ATQM: ^77777770^000000
+Peso: ^77777720^000000
+Nível da arma: ^7777772^000000
+Nível mínimo: ^77777712^000000
+Classes: ^777777Invocadores^000000
+#
+1684#
+^a400cdIndestrutível em batalha.^000000
+--------------------------
+Uma imponente folha que concede ao seu usuário a força necessária para permanecer de pé depois de uma batalha desafiadora.
+--------------------------
+^0000ffHP máx. +200.^000000
+^0000ffDano físico a distância +5%.^000000
+--------------------------
+Tipo: ^777777Cajado^000000
+ATQ: ^77777750^000000 ATQM: ^7777770^000000
+Peso: ^77777720^000000
+Nível da arma: ^7777772^000000
+Nível mínimo: ^77777712^000000
+Classes: ^777777Invocadores^000000
+#
+1685#
+Uma folha com propriedades mágicas. Se manejada da forma certa, pode ser usada para canalizar seus poderes arcanos.
+--------------------------
+^a400cdIndestrutível em batalha.^000000
+--------------------------
+^0000ffINT +1.^000000
+^0000ffHP máx. +100.^000000
+^0000ffSP máx. +150.^000000
+--------------------------
+Tipo: ^777777Cajado^000000
+ATQ: ^77777770^000000 ATQM: ^777777100^000000
+Peso: ^77777730^000000
+Nível da arma: ^7777772^000000
+Nível mínimo: ^77777720^000000
+Classes: ^777777Invocadores^000000
+#
+1686#
+Uma imponente folha que concede ao seu usuário a força necessária para permanecer de pé depois de uma batalha desafiadora.
+--------------------------
+^a400cdIndestrutível em batalha.^000000
+--------------------------
+^0000ffDES +1.^000000
+^0000ffHP máx. +200.^000000
+^0000ffSP máx. +100.^000000
+^0000ffDano físico a distância +8%.^000000
+--------------------------
+Tipo: ^777777Cajado^000000
+ATQ: ^77777770^000000 ATQM: ^7777770^000000
+Peso: ^77777730^000000
+Nível da arma: ^7777772^000000
+Nível mínimo: ^77777720^000000
+Classes: ^777777Invocadores^000000
+#
+1687#
+Qualquer Doram tem uma dessas. Não vá achando que você é alguma lenda só porque tem como se defender de uns bichinhos!
+--------------------------
+^a400cdIndestrutível em batalha.^000000
+--------------------------
+^0000ffHP máx. +100.^000000
+--------------------------
+Tipo: ^777777Cajado^000000
+ATQ: ^77777740^000000 ATQM: ^77777715^000000
+Peso: ^77777710^000000
+Nível da arma: ^7777771^000000
+Nível mínimo: ^7777773^000000
+Classes: ^777777Invocadores^000000
+#
+1690#
+Uma folha com propriedades mágicas. Se manejada da forma certa, pode ser usada para canalizar seus poderes arcanos.
+--------------------------
+^a400cdIndestrutível em batalha.^000000
+--------------------------
+^0000ffSP máx. +50.^000000
+--------------------------
+A cada 3 refinos:
+^0000ffATQM +10.^000000
+^0000ffSP máx. +10.^000000
+--------------------------
+Tipo: ^777777Cajado^000000
+ATQ: ^77777780^000000 ATQM: ^777777180^000000
+Peso: ^77777740^000000
+Nível da arma: ^7777772^000000
+Nível mínimo: ^77777760^000000
+Classes: ^777777Invocadores^000000
+#
+1691#
+Uma folha com propriedades mágicas. Se manejada da forma certa, pode ser usada para canalizar seus poderes arcanos.
+--------------------------
+^a400cdIndestrutível em batalha.^000000
+--------------------------
+^0000ffSP máx. +100.^000000
+--------------------------
+A cada 3 refinos:
+^0000ffSP máx. +1%.^000000
+^0000ffDano mágico +2%.^000000
+--------------------------
+Refino +7 ou mais:
+^0000ffATQ +40. ATQM +96.^000000
+--------------------------
+A cada refino do +8 ao +10:
+^0000ffATQ +20 adicional.^000000
+^0000ffATQM +48 adicional.^000000
+--------------------------
+Tipo: ^777777Cajado^000000
+ATQ: ^777777100^000000 ATQM: ^777777240^000000
+Peso: ^77777750^000000
+Nível da arma: ^7777773^000000
+Nível mínimo: ^777777100^000000
+Classes: ^777777Invocadores^000000
+#
+1692#
+Uma folha com propriedades mágicas. Se manejada da forma certa, pode ser usada para canalizar seus poderes arcanos.
+--------------------------
+^a400cdIndestrutível em batalha.^000000
+--------------------------
+Ao usar [Lança Gateira]:
+^0000ff10% de chance de autoconjurar [Camarão Fresquinho] nv.1. ou no nível aprendido.^000000
+Ao usar [Camarão Fresquinho]:
+^0000ff10% de chance de autoconjurar [Impulso de Arclouse] nv.1. ou no nível aprendido.^000000
+--------------------------
+A cada 2 refinos:
+^0000ffDano mágico +3%.^000000
+--------------------------
+Refino +7 ou mais:
+^0000ffATQ +56. ATQM +112.^000000
+--------------------------
+A cada refino do +8 ao +10:
+^0000ffATQ +28 adicional.^000000
+^0000ffATQM +56 adicional.^000000
+--------------------------
+Tipo: ^777777Cajado^000000
+ATQ: ^777777140^000000 ATQM: ^777777280^000000
+Peso: ^77777770^000000
+Nível da arma: ^7777774^000000
+Nível mínimo: ^777777175^000000
+Classes: ^777777Invocadores^000000
+#
+1693#
+Uma folha dourada com propriedades mágicas. Sua cor indica que está na maturação perfeita para conduzir magia!
+--------------------------
+^a400cdIndestrutível em batalha.^000000
+--------------------------
+Ao usar [Lança Gateira]:
+^0000ff10% de chance de autoconjurar [Camarão Fresquinho] nv.1. ou no nível aprendido.^000000
+Ao usar [Camarão Fresquinho]:
+^0000ff10% de chance de autoconjurar [Impulso de Arclouse] nv.1. ou no nível aprendido.^000000
+--------------------------
+A cada 2 refinos:
+^0000ffDano mágico +3%.^000000
+--------------------------
+Refino +7 ou mais:
+^0000ffATQ +56. ATQM +112.^000000
+--------------------------
+A cada refino do +8 ao +10:
+^0000ffATQ +28 adicional.^000000
+^0000ffATQM +56 adicional.^000000
+--------------------------
+Tipo: ^777777Cajado^000000
+ATQ: ^777777140^000000 ATQM: ^777777280^000000
+Peso: ^77777770^000000
+Nível da arma: ^7777774^000000
+Nível mínimo: ^777777175^000000
+Classes: ^777777Invocadores^000000
+#
+1694#
+Uma folha que pode parecer meio frágil, mas na verdade é perfeita para dar umas pancadas nos oponentes!
+--------------------------
+^a400cdIndestrutível em batalha.^000000
+--------------------------
+^0000ffHP máx. +100.^000000
+^0000ffDano físico a distância +8%.^000000
+--------------------------
+A cada 3 refinos:
+^0000ffDES +2^000000
+^0000ffSP máx. +10.^000000
+--------------------------
+Tipo: ^777777Cajado^000000
+ATQ: ^777777150^000000 ATQM: ^7777770^000000
+Peso: ^77777730^000000
+Nível da arma: ^7777772^000000
+Nível mínimo: ^77777760^000000
+Classes: ^777777Invocadores^000000
+#
+1695#
+Uma folha que pode parecer meio frágil, mas na verdade é perfeita para dar umas pancadas nos oponentes!
+--------------------------
+^a400cdIndestrutível em batalha.^000000
+--------------------------
+^0000ffHP máx. +200.^000000
+^0000ffDano físico a distância +8%.^000000
+--------------------------
+A cada 3 refinos:
+^0000ffDES +3.^000000
+^0000ffSP máx. +15.^000000
+--------------------------
+Refino +7 ou mais:
+^0000ffATQ +78.^000000
+--------------------------
+A cada refino do +8 ao +10:
+^0000ffATQ +39 adicional.^000000
+--------------------------
+Tipo: ^777777Cajado^000000
+ATQ: ^777777195^000000 ATQM: ^7777770^000000
+Peso: ^77777730^000000
+Nível da arma: ^7777773^000000
+Nível mínimo: ^777777100^000000
+Classes: ^777777Invocadores^000000
+#
+1696#
+Uma folha que pode parecer meio frágil, mas na verdade é perfeita para dar umas pancadas nos oponentes!
+--------------------------
+^a400cdIndestrutível em batalha.^000000
+--------------------------
+^0000ffHP máx. +5%.^000000
+^0000ffDano físico a distância +8%.^000000
+--------------------------
+A cada 2 refinos:
+^0000ffDES +3.^000000
+^0000ffSP máx. +15.^000000
+--------------------------
+Refino +7 ou mais:
+^0000ffATQ +96.^000000
+--------------------------
+A cada refino do +8 ao +10:
+^0000ffATQ +48 adicional.^000000
+--------------------------
+Tipo: ^777777Cajado^000000
+ATQ: ^777777240^000000 ATQM: ^7777770^000000
+Peso: ^77777730^000000
+Nível da arma: ^7777773^000000
+Nível mínimo: ^777777140^000000
+Classes: ^777777Invocadores^000000
+#
+1697#
+Uma folha dourada que pode parecer meio frágil, mas na verdade está na maturação perfeita para ser usada em combate!
+--------------------------
+^a400cdIndestrutível em batalha.^000000
+--------------------------
+^0000ffHP máx. +7%.^000000
+^0000ffDano físico a distância +9%.^000000
+--------------------------
+A cada 2 refinos:
+^0000ffSP máx. +20.^000000
+^0000ffDano físico a distância +1%.^000000
+--------------------------
+Refino +7 ou mais:
+^0000ffATQ +108.^000000
+--------------------------
+A cada refino do +8 ao +10:
+^0000ffATQ +54 adicional.^000000
+--------------------------
+Tipo: ^777777Cajado^000000
+ATQ: ^777777270^000000 ATQM: ^7777770^000000
+Peso: ^77777730^000000
+Nível da arma: ^7777774^000000
+Nível mínimo: ^777777175^000000
+Classes: ^777777Invocadores^000000
+#
+1699#
+^ff0000Intransferível.^000000
+--------------------------
+Uma folha cultivada pelo Grupo Éden. Recomendada para Invocadores que ainda estão começando suas aventuras.
+--------------------------
+^a400cdNão pode ser refinado.^000000
+--------------------------
+^0000ffINT e DES +3.^000000
+^0000ffDano físico a distância +5%.^000000
+--------------------------
+Tipo: ^777777Cajado^000000
+ATQ: ^777777120^000000 ATQM: ^777777135^000000
+Peso: ^7777770^000000
+Nível da arma: ^7777772^000000
+Nível mínimo: ^77777726^000000
+Classes: ^777777Invocadores^000000
 #
 1701#
 Arco básico. Esta arma necessita de flechas para ser utilizada. Arraste esta arma para a janela de equipamento para utilizar.
@@ -22279,6 +22576,124 @@ Tipo: ^777777Carta^000000
 Equipa em: ^777777Calçado^000000
 Peso: ^7777771^000000
 #
+4659#
+^0000ffSOR +2.^000000
+^0000ffHP máx. +50.^000000
+--------------------------
+Tipo: ^777777Carta^000000
+Equipa em: ^777777Armadura^000000
+Peso: ^7777771^000000
+#
+4660#
+^0000ffResistência a oponentes de tamanho Pequeno e Médio +5%.^000000
+--------------------------
+Tipo: ^777777Carta^000000
+Equipa em: ^777777Escudo^000000
+Peso: ^7777771^000000
+#
+4661#
+^0000ffResistência a oponentes de tamanho Médio e Grande +20%.^000000
+^0000ffResistência a oponentes de tamanho Pequeno^000000 ^ff0000-15%.^000000
+--------------------------
+Tipo: ^777777Carta^000000
+Equipa em: ^777777Escudo^000000
+Peso: ^7777771^000000
+#
+4662#
+^0000ffHP máx. +1.000.^000000
+^0000ffATQ e ATQM +25.^000000
+^0000ffDano crítico +10%.^000000
+^0000ffDano físico a distância +5%.^000000
+^0000ffVelocidade de ataque +10%.^000000
+--------------------------
+A cada 10 de FOR base até o 50:
+^0000ffATQ^000000 ^ff0000-5.^000000
+--------------------------
+A cada 10 de AGI base até o 50:
+^0000ffVelocidade de ataque^000000 ^ff0000-2%.^000000
+--------------------------
+A cada 10 de VIT base até o 50:
+^0000ffHP máx.^000000 ^ff0000-200.^000000
+--------------------------
+A cada 10 de INT base até o 50:
+^0000ffATQM^000000 ^ff0000-5.^000000
+--------------------------
+A cada 10 de DES base até o 50:
+^0000ffDano físico a distância^000000 ^ff0000-1%.^000000
+--------------------------
+A cada 10 de SOR base até o 50:
+^0000ffDano crítico^000000 ^ff0000-2%.^000000
+--------------------------
+Tipo: ^777777Carta^000000
+Equipa em: ^777777Capa^000000
+Peso: ^7777771^000000
+#
+4663#
+^0000ffSP máx. +5.^000000
+--------------------------
+Tipo: ^777777Carta^000000
+Equipa em: ^777777Calçado^000000
+Peso: ^7777771^000000
+#
+4664#
+^0000ffSOR +1.^000000
+^0000ffHP máx. +100.^000000
+--------------------------
+Tipo: ^777777Carta^000000
+Equipa em: ^777777Armadura^000000
+Peso: ^7777771^000000
+#
+4665#
+^0000ffATQ +5.^000000
+--------------------------
+Tipo: ^777777Carta^000000
+Equipa em: ^777777Arma^000000
+Peso: ^7777771^000000
+#
+4666#
+^0000ffHP máx. +300.^000000
+^0000ffSP máx. +10.^000000
+--------------------------
+Tipo: ^777777Carta^000000
+Equipa em: ^777777Armadura^000000
+Peso: ^7777771^000000
+#
+4667#
+^0000ffSP máx. +30.^000000
+--------------------------
+Tipo: ^777777Carta^000000
+Equipa em: ^777777Calçado^000000
+Peso: ^7777771^000000
+#
+4668#
+^0000ffVIT e INT +1.^000000
+--------------------------
+Tipo: ^777777Carta^000000
+Equipa em: ^777777Equipamento para Cabeça^000000
+Peso: ^7777771^000000
+#
+4669#
+^0000ffDano mágico contra oponentes de propriedade Vento +3%.^000000
+Refino +7 ou mais:
+^0000ffDano mágico contra oponentes de propriedade Vento +5% adicional.^000000
+Refino +9 ou mais:
+^0000ffDano mágico contra oponentes de propriedade Vento +7% adicional.^000000
+--------------------------
+Tipo: ^777777Carta^000000
+Equipa em: ^777777Arma^000000
+Peso: ^7777771^000000
+#
+4670#
+^0000ffDano mágico contra oponentes de propriedade Fogo +3%.^000000
+Refino +7 ou mais:
+^0000ffDano mágico contra oponentes de propriedade Fogo +5% adicional.^000000
+Refino +9 ou mais:
+^0000ffDano mágico contra oponentes de propriedade Fogo +7% adicional.^000000
+--------------------------
+Tipo: ^777777Carta^000000
+Equipa em: ^777777Arma^000000
+Peso: ^7777771^000000
+#
 4697#
 ^0000ffSP máx. -300.^000000
 Ao realizar ataques físicos:
@@ -27867,6 +28282,23 @@ Equipa em: ^777777Topo^000000
 Peso: ^77777750^000000
 Nível necessário: ^7777770^000000
 Classes que utilizam: ^777777Todas^000000
+#
+5536#
+Todas as cartas dos seus equipamentos estão perfeitas, mas você achou aquela carta especial que adoraria equipar... A solução? Colocar em si mesmo!
+--------------------------
+^0000ffEsquiva perfeita +1.^000000
+^0000ffSOR +1.^000000
+--------------------------
+Ao derrotar monstros:
+^0000ff0,3% de chance de derrubar Bolsa de Papai Noel ou Sacola de Biscoitos.^000000
+^0000ff0,05% de chance de derrubar Velha Caixa Roxa.^000000
+--------------------------
+Tipo: ^777777Equipamento para Cabeça^000000
+Equipa em: ^777777Baixo^000000
+Defesa: ^7777771^000000
+Nível necessário: ^7777771^000000
+Peso: ^7777770^000000
+Classes: ^777777Todas^000000
 #
 5537#
 Um fofinho quati de pelúcia, feito especialmente para se acomodar sobre a sua cabeça, assim como os verdadeiros se acomodam na copa das árvores onde dormem. Costurado à mão pela famosa Dacy, maior criadora de bonecos do reino vizinho, o quati é mais conhecido por ser “primo” dos Fumacentos, e por sua agilidade para escalar.
@@ -35179,8 +35611,8 @@ Ticket temporário criado pela Corporação Kafra.
 ^CD3278Coord.:^000000 prontera 141, 226
 <NAVI>[Navegar]<INFO>prontera,141,226,0,000,0</INFO></NAVI>
 --------------------------
-Promoção limitada até o dia ^ff000002.12.2019.^000000
-Este item será removido no dia ^ff000003.12.2019.^000000
+Promoção limitada até o dia ^ff000006.01.2020.^000000
+Este item será removido no dia ^ff000007.01.2020.^000000
 --------------------------
 Peso: ^7777771^000000
 #
@@ -36834,6 +37266,17 @@ Apenas Lagon pode dizer os segredos da Magia Espiritual! E tais segredos encontr
 No momento em que abrir este livro, já se encontrará entre o 1% dos espiritualistas mais dignos!
 Peso : ^7777771^000000
 #
+11058#
+Receitas fáceis que até um fabre consegue fazer!
+--------------------------
+^ff0000Intransferível.^000000
+--------------------------
+Um manual de combinação com instruções de uso.
+É necessário um Kit de Culinária Iniciante.
+--------------------------
+^ff0000Atenção: certifique-se de ter todos os ingredientes no inventário antes de usar o Kit de Culinária Iniciante.^000000
+Peso: ^7777771^000000
+#
 11061#
 Livro contendo uma lista dos itens trocáveis pelas Marcas de Honra.
 #
@@ -36985,6 +37428,48 @@ Um bolo molhadinho feito de abóbora. Dá pra sentir o cheiro adocicado de longe
 ^ffffff_^000000
 Peso: ^7777774^000000
 #
+11551#
+^ff0000Intransferível.^000000
+--------------------------
+Salada com molho e misturada com especiarias.
+Parece bem saudável! 
+--------------------------
+^0000ffRecupera 25 de HP.^000000
+^0000ffFOR +1 por 3 minutos.^000000
+--------------------------
+Peso: ^7777771^000000
+#
+11552#
+^ff0000Intransferível.^000000
+--------------------------
+Salada com pedaços de maçã e cenoura harmonizadas com um molho especial.
+--------------------------
+^0000ffRecupera 25 de HP.^000000
+^0000ffAGI +1 por 3 minutos.^000000
+--------------------------
+Peso: ^7777771^000000
+#
+11553#
+^ff0000Intransferível.^000000
+--------------------------
+Não precisa nem abrir a tampa para sentir o cheirinho revitalizante de comida bem preparada.
+--------------------------
+^0000ffRecupera 25 de HP.^000000
+^0000ffVIT +1 por 3 minutos.^000000
+--------------------------
+Peso: ^7777771^000000
+#
+11554#
+^ff0000Intransferível.^000000
+--------------------------
+Maçã recheada e caramelizada feita na hora. 
+Não tem vontade de dar uma mordida?
+--------------------------
+^0000ffRecupera 25 de HP.^000000
+^0000ffVIT +1 por 3 minutos.^000000
+--------------------------
+Peso: ^7777771^000000
+#
 11557#
 Só pode ser usada dentro da área da Guerra do Emperium TE.
 Uma poção feita com ervas brancas. Recupera ^000088325 HP^000000.
@@ -37075,6 +37560,20 @@ Imortais afetados:
 --------------------------
 Nível necessário: ^777777100^000000
 Peso: ^7777771,5^000000
+#
+11601#
+O peixe favorito dos Doram, e muito facilmente encontrado na costa de Lasagna. Coma-o para recuperar um pouco de HP.
+--------------------------
+^0000ffRecupera aproximadamente de 36 a 40 de HP.^000000
+--------------------------
+Peso: ^7777772^000000
+#
+11602#
+Fruto similar à Fruta dos Gatos, só que menor. Pode ser consumido diretamente para recuperar HP, ou indiretamente ao usar certas habilidades.
+--------------------------
+^0000ffRecupera aproximadamente de 36 a 40 de HP.^000000
+--------------------------
+Peso: ^7777770,1^000000
 #
 11605#
 Biscoito com cheirinho de manteiga e com recheio de chocolate bem doce. 
@@ -40002,10 +40501,22 @@ Pode lhe entregar um prêmio aleatório.
 Peso : ^7777771^000000
 #
 12846#
+--------------------------
+Este item ainda não está funcional. Ele será corrigido em Breve.!
+--------------------------
 Uma maçã com tons em verde perfeita para pequenas boquinhas.
 ^0000ffDê um clique duplo para domesticar um Bebê Poring.^000000
 Tipo: ^777777Isca^000000
 Peso: ^7777775^000000
+#
+12849#
+Um kit de culinária com ferramentas para combinar itens!
+--------------------------
+^ff0000Intransferível.^000000
+--------------------------
+^000088Dê um clique duplo para combinar.^000000
+^ff0000Atenção: você precisa ter todos os ingredientes necessários e o Livro de Culinária Iniciante.^000000
+Peso: ^7777771^000000
 #
 12850#
 Um ovo que dizem ter sido atingido por Energia Celeste após uma tentativa frustrada do exímio piloto de Espaço-plano Beijamin Grão de alcançar um buraco negro. Ao voltar para casa, Beijamin percebeu que seu corpo e a carga de Ovos que carregava haviam absorvido parte da Energia Celeste, ganhando poderes grandiosos.Peso : ^7777771^000000
@@ -46775,6 +47286,26 @@ Peso: ^777777300^000000
 Nível necessário: ^777777100^000000
 Classes: ^777777Mecânicos^000000
 #
+15126#
+Roupas simples usadas pelos Doram.
+--------------------------
+^0000ffHP máx. +500.^000000
+^0000ffSP máx. +100.^000000
+A cada 3 refinos:
+^0000ffINT e DES +1.^000000
+--------------------------
+^fa4e09Conjunto^000000
+^fa4e09[Sapato Básico de Doram]^000000
+^fa4e09[Manto Básico de Doram]^000000
+^0000ffHP máx. +2.000 adicional.^000000
+^0000ffA conjuração não pode ser interrompida.^000000
+--------------------------
+Tipo: ^777777Armadura^000000
+Defesa: ^77777780^000000
+Peso: ^77777770^000000
+Nível necessário: ^777777100^000000
+Classes: ^777777Invocadores^000000
+#
 15128#
 Vestimenta de excelência criada pela exinta tecnologia das ruínas de Verus.
 ^0000ffVIT +6.^000000
@@ -46793,6 +47324,25 @@ Defesa: ^777777100^000000
 Peso: ^777777100^000000
 Nível necessário: ^77777799^000000
 Classes: ^777777Todas^000000
+#
+15129#
+Roupas elegantes usadas pelos Doram mais chiques.
+--------------------------
+^0000ffHP e SP máx. +10%.^000000
+A cada 2 refinos:
+^0000ffINT e DES +1.^000000
+--------------------------
+^fa4e09Conjunto^000000
+^fa4e09[Sapato Elegante de Doram]^000000
+^fa4e09[Manto Elegante de Doram]^000000
+^0000ffHP máx. +3.000.^000000
+^0000ffA conjuração não pode ser interrompida.^000000
+--------------------------
+Tipo: ^777777Armadura^000000
+Defesa: ^77777780^000000
+Peso: ^77777770^000000
+Nível necessário: ^777777140^000000
+Classes: ^777777Invocadores^000000
 #
 15136#
 Pertencente a uma brava guerreira que lutou com honra até o seu último suspiro, esse revestimento carrega os vestígios de uma batalha feroz, tornando-se um verdadeiro símbolo de força e bravura.
@@ -46889,6 +47439,51 @@ Defesa: ^7777770^000000
 Peso: ^77777710^000000
 Nível necessário: ^777777100^000000
 Classes: ^777777Todas^000000
+#
+15150#
+Uma camiseta branca bem simples.
+--------------------------
+^0000ffEsquiva +5.^000000
+^0000ffHP máx. +70.^000000
+--------------------------
+Tipo: ^777777Armadura^000000
+Defesa: ^77777725^000000
+Peso: ^7777775^000000
+Nível necessário: ^7777776^000000
+Classes: ^777777Invocadores^000000
+#
+15151#
+Uma camiseta feita de materiais recicláveis. Nunca se esqueça de jogar o lixo no lixo!
+--------------------------
+^0000ffEsquiva +10.^000000
+^0000ffHP máx. +150.^000000
+--------------------------
+Tipo: ^777777Armadura^000000
+Defesa: ^77777740^000000
+Peso: ^77777710^000000
+Nível necessário: ^77777715^000000
+Classes: ^777777Invocadores^000000
+#
+15156#
+Roupas ainda mais requintadas que as Vestes Elegantes. Só pra quem é chique no último!
+--------------------------
+^0000ffHP e SP máx. +15%.^000000
+A cada refino:
+^0000ffINT e DES +1.^000000
+Refino +9 ou mais:
+^0000ffCusto de SP das habilidades -5%.^000000
+--------------------------
+^fa4e09Conjunto^000000
+^fa4e09[Sapato Luxuoso de Doram]^000000
+^fa4e09[Manto Luxuoso de Doram]^000000
+^0000ffHP máx. +4.000.^000000
+^0000ffA conjuração não pode ser interrompida.^000000
+--------------------------
+Tipo: ^777777Armadura^000000
+Defesa: ^777777120^000000
+Peso: ^77777790^000000
+Nível necessário: ^777777175^000000
+Classes: ^777777Invocadores^000000
 #
 15166#
 Este colar sagrado representa o poder da fé da Igreja de Rune-Midgard. Com ele sua força vital e capacidade de cura ganharão um reforço divino!
@@ -50429,14 +51024,15 @@ Classes: ^777777Todas^000000
 #
 18553#
 Perfeito pra você que adora ganhar presentes de Natal. Agora, é só esperar que as pessoas resolvam colocar presentes embaixo dessa sua árvore... Nem que sejam, bem, minipresentes.
+^0000ffSOR +1.^000000
 ^0000ffTolerância a atordoamento, maldição, cegueira e confusão +20%.^000000
 Ao derrotar monstros:
 ^0000ff1% de chance de derrubar Bala.^000000
 ^0000ff0,1% de chance de derrubar Caixa de Presente.^000000
 Tipo: ^777777Equipamento para Cabeça^000000
 Equipa em: ^777777Topo^000000
-Defesa: ^7777773^000000
-Peso: ^77777750^000000
+Defesa: ^7777775^000000
+Peso: ^7777775^000000
 Nível necessário: ^77777730^000000
 Classes: ^777777Todas^000000
 #
@@ -52409,7 +53005,7 @@ Classes: ^777777Todas^000000
 #
 18850#
 Chapéu de Natal que a equipe Fumacentos em Ação pegou 'emprestado sem permissão' no estoque da loja em Lutie.
-É muito útil para ajudar a equipe Fumacentos em Ação a dormir no relento. Ele é muito quentinho
+É muito útil para ajudar a equipe Fumacentos em Ação a dormir no relento. Ele é muito quentinho.
 ^0000ffDEFM +3.^000000
 ^0000ffAGI +1. DES +1.^000000
 Tipo: ^777777Equipamento para Cabeça^000000
@@ -52490,7 +53086,7 @@ Nível Necessário : ^7777771^000000
 Classes : ^777777Todas^000000
 #
 18858#
-Nada melhor para embalar seu Espírito de Natal do que colocar na cabeça o poring mais angelical de todos! Principalmente quanto ele trocou sua auréola pelo gorro do Papai Noel.
+Nada melhor para embalar seu Espírito de Natal do que colocar na cabeça o poring mais angelical de todos! Principalmente quando ele trocou sua auréola pelo gorro do Papai Noel.
 ^0000ffHP máx. +200.^000000
 ^0000ffVelocidade de ataque +1.^000000
 Tipo: ^777777Equipamento para Cabeça^000000
@@ -53494,6 +54090,23 @@ Defesa: ^7777770^000000
 Peso: ^77777720^000000
 Nível necessário: ^77777770^000000
 Classes: ^777777Todas^000000
+#
+19084#
+^ff0000Intransferível.^000000
+--------------------------
+Um chapéu exclusivo para aqueles que fazem parte dos Farfelle.
+--------------------------
+^0000ffSOR +1.^000000
+--------------------------
+Ao realizar ataques físicos ou mágicos:
+^0000ff3% de chance de autoconjurar [Bênção] nv.3.^000000
+--------------------------
+Tipo: ^777777Equipamento para Cabeça^000000
+Equipa em: ^777777Topo^000000
+Defesa: ^7777772^000000
+Peso: ^77777710^000000
+Nível necessário: ^77777720^000000
+Classes: ^777777Invocadores^000000
 #
 19095#
 Um conjunto de balões de toda a família Poring. Talvez eles não sejam o suficiente pra te fazer voar por aí, mas os bônus que eles te concedem vão te levar às nuvens!
@@ -55681,12 +56294,12 @@ Classes : ^777777Todas^000000
 #
 19685#
 Depois de juntar todo o seu ki e se transformar no Super Poring Noel, esse monstrinho deixou seu visual ainda mais especial!
-Tipo : ^777777Visual^000000
+Tipo: ^777777Visual^000000
 Defesa: ^7777770^000000
-Equipa em : ^777777Topo ^000000
-Peso : ^7777770^000000
-Nível necessário : ^7777771^000000
-Classes : ^777777Todas^000000
+Equipa em: ^777777Topo ^000000
+Peso: ^7777770^000000
+Nível necessário: ^7777771^000000
+Classes: ^777777Todas^000000
 #
 19686#
 Uma divertida tiara com um bonequinho do Papai Noel. Parece até que ele está saindo ou entrando em uma chaminé. Ou no caso, na sua cabeça.
@@ -56652,6 +57265,14 @@ Peso: ^7777770^000000
 Nível necessário: ^7777771^000000
 Classes: ^777777Todas^000000
 #
+19928#
+Esse era o acessório que faltava no seu visu trevoso pra entrar no círculo de amigos góticos. Agora sim você tá pronto pra sair à meia-noite pra ir ao cemitério e beber muito... suco de uva.
+Tipo: ^777777Visual^000000
+Equipa em: ^777777Topo e Meio^000000
+Peso: ^7777770^000000
+Nível Necessário: ^7777771^000000
+Classes: ^777777Todas^000000
+#
 19929#
 Um belo laço preto de seda, igual ao usado por Odile, a filha de um maligno feiticeiro, quando esta estava tentando se passar por Odete, a bela jovem “aprisionada” no lago dos cisnes. Só de ter lido essa descrição, você se sente uma pessoa mais culta. Por que será?
 Tipo: ^777777Visual^000000
@@ -56941,6 +57562,14 @@ Equipa em: ^777777Topo^000000
 Peso: ^7777770 ^000000
 Nível Necessário: ^7777771 ^000000
 Classes: ^777777Todas ^000000
+#
+20022#
+Uma guloseima com formato de coração e muito bem recheada. Dê um biscoito a quem você ama!
+Tipo: ^777777Visual^000000
+Equipa em: ^777777Baixo^000000
+Peso: ^7777770^000000
+Nível Necessário: ^7777771^000000
+Classes: ^777777Todas^000000
 #
 20023#
 Objeto que um dia pertenceu a um bravo soldado, essa boina é muito mais do que a peça de um uniforme militar – é símbolo de coragem e força.  Pode ser até que você sinta uma estranha vontade de bater continência com ela na cabeça, mas é completamente normal. 
@@ -57318,6 +57947,14 @@ Classes: ^777777Todas ^000000
 Tipo: ^777777Visual^000000
 Defesa: ^7777770^000000
 Equipa em: ^777777Baixo^000000
+Peso: ^7777770^000000
+Nível Necessário: ^7777771^000000
+Classes: ^777777Todas^000000
+#
+20166#
+Máscara de Hóquei? Que nada! Esse acessório é usado pelo Jay Zon, um assassino que ataca suas vítimas às sextas-feiras 13. Então, já sabe: se vir alguém à noite usando uma dessas... É melhor correr!
+Tipo: ^777777Visual^000000
+Equipa em: ^777777Meio e Baixo^000000
 Peso: ^7777770^000000
 Nível Necessário: ^7777771^000000
 Classes: ^777777Todas^000000
@@ -58830,6 +59467,15 @@ Peso: ^7777770^000000
 Nível necessário: ^7777771^000000
 Classes: ^777777Todas^000000
 #
+20547#
+Intimide os seus inimigos mostrando a eles que pra você, viver com fantasmas é fichinha. Você ri na cara do perigo!
+^008080Exibe efeito gráfico que pode ser desligado com /effect.^000000
+Tipo: ^777777Visual^000000
+Equipa em: ^777777Capa^000000
+Peso: ^7777770^000000
+Nível Necessário: ^7777771^000000
+Classes: ^777777Todas^000000
+#
 20571#
 Asas majestosas que deixam um rastro de plumas cintilantes por onde quer que você passe. O efeito é puramente estético, então não precisa ficar com medo de acabar parecendo um frango depenado!
 --------------------------
@@ -59129,6 +59775,50 @@ Defesa: ^77777740^000000
 Peso: ^77777790^000000
 Nível necessário: ^77777799^000000
 Classes: ^777777Todas^000000
+#
+20788#
+Um manto quentinho e confortável. Do jeito que um Doram gosta!
+--------------------------
+^0000ffEsquiva +5.^000000
+^0000ffResistência a propriedade Neutro +2%.^000000
+A cada 3 refinos:
+^0000ffEsquiva perfeita +1.^000000
+--------------------------
+Tipo: ^777777Capa^000000
+Defesa: ^77777720^000000
+Peso: ^77777730^000000
+Nível necessário: ^777777100^000000
+Classes: ^777777Invocadores^000000
+#
+20789#
+Um manto relegado apenas aos Doram mais chiques e com melhor senso de estilo.
+--------------------------
+^0000ffEsquiva +7.^000000
+^0000ffResistência a propriedade Neutro +3%.^000000
+A cada 3 refinos:
+^0000ffSOR +1.^000000
+^0000ffEsquiva perfeita +1.^000000
+--------------------------
+Tipo: ^777777Capa^000000
+Defesa: ^77777725^000000
+Peso: ^77777740^000000
+Nível necessário: ^777777140^000000
+Classes: ^777777Invocadores^000000
+#
+20790#
+Capa ainda mais requintada que o Manto Elegante. Só pra quem é chique no último!
+--------------------------
+^0000ffEsquiva +10.^000000
+^0000ffResistência a propriedade Neutro +5%.^000000
+A cada 2 refinos:
+^0000ffINT, DES e SOR +1.^000000
+^0000ffEsquiva perfeita +1.^000000
+--------------------------
+Tipo: ^777777Capa^000000
+Defesa: ^77777730^000000
+Peso: ^77777750^000000
+Nível necessário: ^777777175^000000
+Classes: ^777777Invocadores^000000
 #
 20798#
 Agora você está parecendo puro osso, com este assombroso traje do Ceifeiro que coleta as almas para o além. Só tome cuidado para não virar escravo de garotos idiotas ou meninas malvadas. Se você foi travesso durante o ano, esse é o tipo de presente que acaba recebendo do Antônio.
@@ -60336,6 +61026,31 @@ Peso: ^77777720^000000
 Nível necessário: ^77777799^000000
 Classes: ^777777Todas^000000
 #
+22076#
+Um par de sandálias de madeira. São confortáveis... pelas primeiras 2 horas que você as usar.
+--------------------------
+A cada 10 segundos:
+^0000ffRecupera 2 de HP.^000000
+--------------------------
+Tipo: ^777777Calçado^000000
+Defesa: ^77777710^000000
+Peso: ^7777775^000000
+Nível necessário: ^7777779^000000
+Classes: ^777777Invocadores^000000
+#
+22077#
+Um par de sapatos feitos de materiais recicláveis. Nunca se esqueça de jogar o lixo no lixo!
+--------------------------
+^0000ffCRIT +5.^000000
+A cada 10 segundos:
+^0000ffRecupera 4 de HP e 1 de SP.^000000
+--------------------------
+Tipo: ^777777Calçado^000000
+Defesa: ^77777720^000000
+Peso: ^77777710^000000
+Nível necessário: ^77777718^000000
+Classes: ^777777Invocadores^000000
+#
 22082#
 Um par de sapatos com joias preciosas na ponta. Se essas joias são mágicas de fato ou só decoração, ninguém sabe. Melhor não arriscar tirá-las!
 ^0000ffResistência as propriedades Neutro, Fogo, Água, Vento e Terra +5%.^000000
@@ -60348,6 +61063,84 @@ Defesa: ^77777712^000000
 Peso: ^77777750^000000
 Nível necessário: ^77777790^000000
 Classes: ^777777Todas^000000
+#
+22083#
+Um par de sapatos pequenos, feitos sob medida para os pézinhos de um Doram.
+--------------------------
+^0000ffHP máx. +100.^000000
+^0000ffSP máx. +50.^000000
+A cada 3 refinos:
+^0000ffRegeneração natural de HP e SP +10%.^000000
+--------------------------
+^fa4e09Conjunto^000000
+^fa4e09[Veste Básica de Doram]^000000
+^fa4e09[Manto Básico de Doram]^000000
+^0000ffConjuração fixa -15%.^000000
+A cada refino da Armadura:
+^0000ffConjuração fixa -1% adicional.^000000
+A cada refino da Capa:
+^0000ffConjuração fixa -1% adicional.^000000
+A cada refino do Calçado:
+^0000ffConjuração fixa -1% adicional.^000000
+--------------------------
+Tipo: ^777777Calçado^000000
+Defesa: ^77777725^000000
+Peso: ^77777750^000000
+Nível necessário: ^777777100^000000
+Classes: ^777777Invocadores^000000
+#
+22084#
+Um par de sapatos usado apenas pelos Doram mais chiques.
+--------------------------
+^0000ffHP máx. +300.^000000
+^0000ffSP máx. +100.^000000
+A cada 3 refinos:
+^0000ffRegeneração natural de HP e SP +20%.^000000
+--------------------------
+^fa4e09Conjunto^000000
+^fa4e09[Veste Básica de Doram]^000000
+^fa4e09[Manto Básico de Doram]^000000
+^0000ffConjuração fixa -20%.^000000
+A cada refino da Armadura:
+^0000ffConjuração fixa -1% adicional.^000000
+A cada refino da Capa:
+^0000ffConjuração fixa -1% adicional.^000000
+A cada refino do Calçado:
+^0000ffConjuração fixa -1% adicional.^000000
+--------------------------
+Tipo: ^777777Calçado^000000
+Defesa: ^77777730^000000
+Peso: ^77777760^000000
+Nível necessário: ^777777140^000000
+Classes: ^777777Invocadores^000000
+#
+22085#
+Calçados ainda mais requintados que os Sapatos Elegantes. Só pra quem é chique no último!
+--------------------------
+^0000ffHP máx. +10%.^000000
+^0000ffSP máx. +5%.^000000
+A cada 2 refinos:
+^0000ffHP máx. +100.^000000
+^0000ffSP máx. +20.^000000
+Refino +9 ou mais:
+^0000ffCusto de SP de [Pulo do Gato] -5.^000000
+--------------------------
+^fa4e09Conjunto^000000
+^fa4e09[Veste Básica de Doram]^000000
+^fa4e09[Manto Básico de Doram]^000000
+^0000ffConjuração fixa -25%.^000000
+A cada refino da Armadura:
+^0000ffConjuração fixa -1% adicional.^000000
+A cada refino da Capa:
+^0000ffConjuração fixa -1% adicional.^000000
+A cada refino do Calçado:
+^0000ffConjuração fixa -1% adicional.^000000
+--------------------------
+Tipo: ^777777Calçado^000000
+Defesa: ^77777735^000000
+Peso: ^77777770^000000
+Nível necessário: ^777777175^000000
+Classes: ^777777Invocadores^000000
 #
 22101#
 Um par de botas abençoado pelo anjo da guarda supremo da Família Poring. Dizem que se você combinar essas botas com uma certa gema mágica, receberá diversos poderes poporincríveis!
@@ -61500,6 +62293,24 @@ Peso: ^7777771^000000
 Se parece muito com uma caixa que todo mundo conhece... Mas seu conteúdo é desconhecido.
 Peso: ^7777770^000000
 #
+22984#
+Um Doram não pode passar um dia sequer sem tomar pelo menos uma garrafa deste leite!
+--------------------------
+A cada 10 segundos:
+^0000ffRecupera 10 de HP.^000000
+--------------------------
+Duração: ^7777773 minutos^000000
+Peso: ^7777771^000000
+#
+22985#
+Aparentemente, Basiliscos gostam MUITO do cheiro do Manjericão, por isso sempre o guardam. Mas nunca o consomem. Vai entender...
+--------------------------
+A cada 10 segundos:
+^0000ffRecupera 5 de SP.^000000
+--------------------------
+Duração: ^7777773 minutos^000000
+Peso: ^7777771^000000
+#
 23012#
 ^ff0000Intransferível.^000000
 Um pequeno frasco que contém a essência das raízes de Yggdrasil. Pode ser amargo, mas é bom para o espírito.
@@ -61847,6 +62658,55 @@ Peso: ^7777770^000000
 Níveis permitidos: ^777777100 a 149^000000
 Classes: ^777777Todas^000000
 #
+25043#
+^ff0000Intransferível.^000000
+--------------------------
+Uma flauta feita a partir de raizes. Dizem que era portada por palhaços que contavam piadas muito ruins.
+--------------------------
+Peso: ^7777770^000000
+#
+25044#
+^ff0000Intransferível.^000000
+--------------------------
+Uma raiz grossa e dura. Ela também tem alguns espinhos, então cuidado pra não se machucar!
+--------------------------
+Peso: ^7777770^000000
+#
+25045#
+^ff0000Intransferível.^000000
+--------------------------
+Um retalho de um tecido sedoso e único
+--------------------------
+Peso: ^7777770^000000
+#
+25046#
+^ff0000Intransferível.^000000
+--------------------------
+O Passe de Embarque para você embarcar no Conchiolina, o barco que faz a viagem de Lasagna a Rune-Midgard. Se você já tem o seu, significa que já tem a experiência para viajar mundo afora!
+--------------------------
+Peso: ^7777770^000000
+#
+25047#
+^ff0000Intransferível.^000000
+--------------------------
+Uma concha rara encontrada na costa de Lasagna. Tem um cheiro esquisito, mas se preparada direitinho, seu sumo pode ser usado para preparar o famigerado Leite de Kaluna.
+--------------------------
+Peso: ^7777770^000000
+#
+25048#
+^ff0000Intransferível.^000000
+--------------------------
+Uma marmita bem balanceada entre nutrientes, carboidratos, proteínas e fibra. É hora de papar!
+--------------------------
+Peso: ^7777770^000000
+#
+25049#
+^ff0000Intransferível.^000000
+--------------------------
+Uma concha que os Basiliscos geralmente carregam como amuleto. Não se sabe de onde veio.
+--------------------------
+Peso: ^7777770^000000
+#
 25132#
 Uma decoração que representa o Dia das Bruxas.
 Você pode sentir melhor o espírito deste dia se acender a vela dentro.
@@ -61855,6 +62715,14 @@ Peso: ^7777770^000000
 25133#
 Ramo Limpo e Seco
 Perfeito para decoração de Halloween!
+Peso: ^7777770^000000
+#
+25142#
+^ff0000Intransferível.^000000
+--------------------------
+Uma moeda de troca para obter equipamentos e acessórios valiosos.
+Acumule muitos para conseguir o melhores itens!
+--------------------------
 Peso: ^7777770^000000
 #
 25143#
@@ -62025,6 +62893,40 @@ Peso: ^7777770^000000
 ^ff0000Intransferível.^000000
 Uma pequena moeda dourada criada pela Ordem dos Exploradores. Nela está entalhada um Poporing na frente e [bW] no verso.
 Peso: ^7777770^000000
+#
+26100#
+^ff0000Intransferível.^000000
+--------------------------
+Uma folha cultivada pelo Grupo Éden. Recomendada para Invocadores que já estão bem encaminhados no treinamento com as forças da natureza.
+--------------------------
+^a400cdNão pode ser refinado.^000000
+--------------------------
+^0000ffINT e DES +4.^000000
+^0000ffDano físico a distância +6%.^000000
+--------------------------
+Tipo: ^777777Cajado^000000
+ATQ: ^777777135^000000 ATQM: ^777777165^000000
+Peso: ^7777770^000000
+Nível da arma: ^7777772^000000
+Nível mínimo: ^77777740^000000
+Classes: ^777777Invocadores^000000
+#
+26101#
+^ff0000Intransferível.^000000
+--------------------------
+Uma folha cultivada pelo Grupo Éden. Recomendada para Invocadores que têm as forças dos Animais, da Selva e da Maré na ponta dos dedos.
+--------------------------
+^a400cdNão pode ser refinado.^000000
+--------------------------
+^0000ffINT e DES +5.^000000
+^0000ffDano físico a distância +7%.^000000
+--------------------------
+Tipo: ^777777Cajado^000000
+ATQ: ^777777150^000000 ATQM: ^777777195^000000
+Peso: ^7777770^000000
+Nível da arma: ^7777773^000000
+Nível mínimo: ^77777760^000000
+Classes: ^777777Invocadores^000000
 #
 26118#
 Poderes arcanos surpreendentes se manifestam deste imponente cajado, mas apenas quando manejado pelas mãos certas.
@@ -62909,6 +63811,27 @@ Peso: ^77777710^000000
 Nível necessário: ^77777740^000000
 Classes: ^777777Todas^000000
 #
+28374#
+^ff0000Intransferível.^000000
+--------------------------
+Um anel feito manualmente a partir de uma folha. Muito fofo (e ecologicamente correto!).
+--------------------------
+^0000ffEXP adqurida ao derrotar monstros +5%.^000000
+--------------------------
+A cada 5 níveis de base:
+^0000ffHP máx. +10.^000000
+^0000ffSP máx. +5.^000000
+^0000ffATQ e ATQM +2.^000000
+--------------------------
+Nv. base 51 ou mais:
+^0000ffAnula os bônus deste anel.^000000
+--------------------------
+Tipo: ^777777Acessório^000000
+Defesa: ^7777770^000000
+Peso: ^77777710^000000
+Nível necessário: ^7777771^000000
+Classes: ^777777Todas^000000
+#
 28377#
 Um dos vinte anéis mágicos forjado por um poderoso ferreiro-feiticeiro chamado Saulon. Os quatro elementos foram utilizados durante a sua criação, fazendo com que este anel amplie os poderes de fogo, água, vento e terra de seu usuário.
 ^0000ffDano mágico de propriedade Terra, Fogo, Vento e Água +5%.^000000
@@ -62940,6 +63863,42 @@ Defesa: ^7777770^000000
 Peso: ^77777710^000000
 Nível necessário: ^77777720^000000
 Classes: ^777777Todas^000000
+#
+28380#
+Um belo colar que representa o início da vida de uma planta.
+--------------------------
+^0000ffEsquiva perfeita +5.^000000
+^0000ffRecarga de [Ferida de Tarou] -5 segundos.^000000
+--------------------------
+Tipo: ^777777Acessório^000000
+Defesa: ^7777770^000000
+Peso: ^77777710^000000
+Nível necessário: ^777777100^000000
+Classes: ^777777Invocadores^000000
+#
+28381#
+Um belo colar que representa o desenvolvimento de uma planta.
+--------------------------
+^0000ffEfetividade de cura +5%.^000000
+^0000ffRecarga de [Proteção da Orla] -7 segundos.^000000
+--------------------------
+Tipo: ^777777Acessório^000000
+Defesa: ^7777770^000000
+Peso: ^77777710^000000
+Nível necessário: ^777777100^000000
+Classes: ^777777Invocadores^000000
+#
+28382#
+Um belo colar que representa o estágio final de crescimento de uma planta.
+--------------------------
+^0000ffDEFM +5.^000000
+^0000ffConjuração variável de [Meteoros de Nepeta] -1 segundo.^000000
+--------------------------
+Tipo: ^777777Acessório^000000
+Defesa: ^7777770^000000
+Peso: ^77777710^000000
+Nível necessário: ^777777100^000000
+Classes: ^777777Invocadores^000000
 #
 28386#
 Esse rosário contem toda a fúria de Daniel Hand, conhecido como o Shura Punho de Aço, após ele ter abandonado os portões de Kunlun. Dizem que alguns lutadores podem canalizar o poder do Punho de Aço pra tornarem seus golpes mais rápidos e poderosos.
@@ -63010,6 +63969,246 @@ Defesa: ^7777773^000000
 Peso: ^77777750^000000
 Nível necessário: ^77777750^000000
 Classes: ^777777Todas^000000
+#
+28413#
+^ff0000Intransferível.^000000
+--------------------------
+Um amuleto que parece uma sardinha de verdade.
+--------------------------
+^0000ffVIT +1.^000000
+^fa4e09Conjunto^000000
+^fa4e09[Veste Básica de Doram]^000000
+^fa4e09[Manto Básico de Doram]^000000
+^fa4e09[Sapato Básico de Doram]^000000
+^fa4e09[Colar da Raíz]^000000
+^0000ffHP máx. +15%.^000000
+^0000ffSP máx. +5%.^000000
+^0000ffHabilita [Curar] nv.5.^000000
+^0000ffEfetividade de cura +10%.^000000
+--------------------------
+Tipo: ^777777Acessório^000000
+Defesa: ^7777771^000000
+Peso: ^77777710^000000
+Nível necessário: ^777777100^000000
+Classes: ^777777Invocadores^000000
+#
+28414#
+^ff0000Intransferível.^000000
+--------------------------
+Um amuleto que parece uma sardinha de verdade.
+--------------------------
+^0000ffVIT +2.^000000
+^fa4e09Conjunto^000000
+^fa4e09[Veste Elegante de Doram]^000000
+^fa4e09[Manto Elegante de Doram]^000000
+^fa4e09[Sapato Elegante de Doram]^000000
+^fa4e09[Colar da Raíz]^000000
+^0000ffHP máx. +20%.^000000
+^0000ffSP máx. +10%.^000000
+^0000ffHabilita [Curar] nv.7.^000000
+^0000ffEfetividade de cura +20%.^000000
+--------------------------
+Tipo: ^777777Acessório^000000
+Defesa: ^7777771^000000
+Peso: ^77777710^000000
+Nível necessário: ^777777140^000000
+Classes: ^777777Invocadores^000000
+#
+28415#
+^ff0000Intransferível.^000000
+--------------------------
+Um amuleto que parece uma sardinha de verdade.
+--------------------------
+^0000ffVIT +3.^000000
+^fa4e09Conjunto^000000
+^fa4e09[Veste Luxuosa de Doram]^000000
+^fa4e09[Manto Luxuoso de Doram]^000000
+^fa4e09[Sapato Luxuoso de Doram]^000000
+^fa4e09[Colar da Raíz]^000000
+^0000ffHP máx. +25%.^000000
+^0000ffSP máx. +15%.^000000
+^0000ffHabilita [Curar] nv.9.^000000
+^0000ffEfetividade de cura +30%.^000000
+--------------------------
+Tipo: ^777777Acessório^000000
+Defesa: ^7777771^000000
+Peso: ^77777710^000000
+Nível necessário: ^777777175^000000
+Classes: ^777777Invocadores^000000
+#
+28416#
+^ff0000Intransferível.^000000
+--------------------------
+Amuleto com o formato de uma folha de erva de gato.
+--------------------------
+^0000ffINT +1.^000000
+^fa4e09Conjunto^000000
+^fa4e09[Veste Básica de Doram]^000000
+^fa4e09[Manto Básico de Doram]^000000
+^fa4e09[Sapato Básico de Doram]^000000
+^fa4e09[Colar da Árvore]^000000
+^0000ffHP e SP máx. +10%.^000000
+^0000ffDano de [Meteoros de Nepeta] +100%.^000000
+--------------------------
+Tipo: ^777777Acessório^000000
+Defesa: ^7777771^000000
+Peso: ^77777710^000000
+Nível necessário: ^777777100^000000
+Classes: ^777777Invocadores^000000
+#
+28417#
+^ff0000Intransferível.^000000
+--------------------------
+Amuleto com o formato de uma folha de erva de gato.
+--------------------------
+^0000ffINT +2.^000000
+^fa4e09Conjunto^000000
+^fa4e09[Veste Elegante de Doram]^000000
+^fa4e09[Manto Elegante de Doram]^000000
+^fa4e09[Sapato Elegante de Doram]^000000
+^fa4e09[Colar da Árvore]^000000
+^0000ffHP e SP máx. +15%.^000000
+^0000ffDano de [Meteoros de Nepeta] +150%.^000000
+--------------------------
+Tipo: ^777777Acessório^000000
+Defesa: ^7777771^000000
+Peso: ^77777710^000000
+Nível necessário: ^777777140^000000
+Classes: ^777777Invocadores^000000
+#
+28418#
+^ff0000Intransferível.^000000
+--------------------------
+Amuleto com o formato de uma folha de erva de gato.
+--------------------------
+^0000ffINT +3.^000000
+^fa4e09Conjunto^000000
+^fa4e09[Veste Luxuosa de Doram]^000000
+^fa4e09[Manto Luxuoso de Doram]^000000
+^fa4e09[Sapato Luxuoso de Doram]^000000
+^fa4e09[Colar da Árvore]^000000
+^0000ffHP e SP máx. +20%.^000000
+^0000ffDano de [Meteoros de Nepeta] +200%.^000000
+--------------------------
+Tipo: ^777777Acessório^000000
+Defesa: ^7777771^000000
+Peso: ^77777710^000000
+Nível necessário: ^777777175^000000
+Classes: ^777777Invocadores^000000
+#
+28419#
+^ff0000Intransferível.^000000
+--------------------------
+Um amuleto fofíssimo com o formato de uma lebre.
+--------------------------
+^0000ffDES +1.^000000
+^fa4e09Conjunto^000000
+^fa4e09[Veste Básica de Doram]^000000
+^fa4e09[Manto Básico de Doram]^000000
+^fa4e09[Sapato Básico de Doram]^000000
+^fa4e09[Colar da Semente]^000000
+^0000ffHP máx. +20%.^000000
+^0000ffSP máx. +3%.^000000
+^0000ffDano de [Cometas Lunáticos] +100%.^000000
+--------------------------
+Tipo: ^777777Acessório^000000
+Defesa: ^7777771^000000
+Peso: ^77777710^000000
+Nível necessário: ^777777100^000000
+Classes: ^777777Invocadores^000000
+#
+28420#
+^ff0000Intransferível.^000000
+--------------------------
+Um amuleto fofíssimo com o formato de uma lebre.
+--------------------------
+^0000ffDES +2.^000000
+^fa4e09Conjunto^000000
+^fa4e09[Veste Básica de Doram]^000000
+^fa4e09[Manto Elegante de Doram]^000000
+^fa4e09[Sapato Elegante de Doram]^000000
+^fa4e09[Colar da Semente]^000000
+^0000ffHP máx. +25%.^000000
+^0000ffSP máx. +6%.^000000
+^0000ffDano de [Cometas Lunáticos] +150%.^000000
+--------------------------
+Tipo: ^777777Acessório^000000
+Defesa: ^7777771^000000
+Peso: ^77777710^000000
+Nível necessário: ^777777140^000000
+Classes: ^777777Invocadores^000000
+#
+28421#
+^ff0000Intransferível.^000000
+--------------------------
+Um amuleto fofíssimo com o formato de uma lebre.
+--------------------------
+^0000ffDES +3.^000000
+^fa4e09Conjunto^000000
+^fa4e09[Veste Luxuosa de Doram]^000000
+^fa4e09[Manto Luxuoso de Doram]^000000
+^fa4e09[Sapato Luxuoso de Doram]^000000
+^fa4e09[Colar da Semente]^000000
+^0000ffHP máx. +30%.^000000
+^0000ffSP máx. +9%.^000000
+^0000ffDano de [Cometas Lunáticos] +200%.^000000
+--------------------------
+Tipo: ^777777Acessório^000000
+Defesa: ^7777771^000000
+Peso: ^77777710^000000
+Nível necessário: ^777777175^000000
+Classes: ^777777Invocadores^000000
+#
+28422#
+^ff0000Intransferível.^000000
+--------------------------
+Galho de árvore usado como amuleto por brilhar intensamente.
+Parece harmonizar com a selva. 
+--------------------------
+^0000ffConjuração variável de [Lança Gateira] -50%.^000000
+--------------------------
+A cada 6 de INT base:
+^0000ffDano de [Lança Gateira] +1% para cada nível aprendido de [Lança Gateira].^000000
+--------------------------
+Tipo: ^777777Acessório^000000
+Defesa: ^7777771^000000
+Peso: ^77777710^000000
+Nível necessário: ^777777100^000000
+Classes: ^777777Invocadores^000000
+#
+28423#
+^ff0000Intransferível.^000000
+--------------------------
+Peixe empalhado usado como amuleto por ser uma das comidas favoritas dos Doram.
+Parece harmonizar com as marés. 
+--------------------------
+^0000ffRecarga de [Proteção da Orla] -5 segundos.^000000
+--------------------------
+Ao receber danos físicos de curta distância:
+^0000ff1% de chance de autoconjurar [Proteção da Orla] nv.1 ou no nível aprendido.^000000
+--------------------------
+Tipo: ^777777Acessório^000000
+Defesa: ^7777771^000000
+Peso: ^77777710^000000
+Nível necessário: ^777777100^000000
+Classes: ^777777Invocadores^000000
+#
+28424#
+^ff0000Intransferível.^000000
+--------------------------
+Minhoca enorme de pelúcia usada como amuleto pela sua aparência.
+Parece harmonizar com a fauna. 
+--------------------------
+^0000ffConjuração variável de [Chilique de Picky] -50%.^000000
+--------------------------
+A cada 6 de DES base:
+^0000ffDano de [Chilique de Picky] +1% para cada nível aprendido de [Chilique de Picky].^000000
+--------------------------
+Tipo: ^777777Acessório^000000
+Defesa: ^7777771^000000
+Peso: ^77777710^000000
+Nível necessário: ^777777100^000000
+Classes: ^777777Invocadores^000000
 #
 28430#
 Um anel que carrega as bênçãos da igreja de Odin. Apesar de abençoarem qualquer tipo de usuário, esses anéis são ainda mais poderosos nas mãos de Arcebispos ou daqueles com poderes sagrados.
@@ -65787,6 +66986,51 @@ Peso: ^7777770^000000
 Nível necessário: ^7777771^000000
 Classes: ^777777Todas^000000
 #
+31261#
+Quem quer que seja que deu o nome de “azedinha” para esta limonada usou o diminutivo para dar uma suavizada.
+Feita com o sumo de 7 limões, essa bebida vai te fazer contrair músculos do rosto que você nem sabia que existiam!
+--------------------------
+^CD3278Durante o evento:^000000
+^0000ffATQ e ATQM +30.^000000
+^0000ffVelocidade de ataque +1.^000000
+--------------------------
+Tipo: ^777777Visual^000000
+Equipa em: ^777777Baixo^000000
+Peso: ^7777770^000000
+Nível necessário: ^7777771^000000
+Classes: ^777777Todas^000000
+#
+31262#
+^ff0000Será removido após o evento.^000000
+--------------------------
+Óculos com tecnologia para você ter a sensação de que as coisas são realmente verdadeiras.
+--------------------------
+^fa4e09Conjunto^000000
+^fa4e09[Balde de Pipoca]^000000
+^fa4e09[Limonada Azedinha]^000000
+^0000ffTaxa de DROP +15%.^000000
+^0000ffAumenta a velocidade de movimento.^000000
+^0000ffEfetividade de cura da Pipoca Flavorizada +200%.^000000
+--------------------------
+Tipo: ^777777Visual^000000
+Equipa em: ^777777Meio^000000
+Peso: ^7777770^000000
+Nível necessário: ^7777771^000000
+Classes: ^777777Todas^000000
+#
+31263#
+Carregar um balde de pipoca com as mãos pode ser um grande problema, mas não para o gênio que teve a brilhante ideia de colocar o balde no topo da cabeça!
+Assim, ele pode segurar o controle remoto com a mão direita e o mozão com a mão esquerda! 
+--------------------------
+^CD3278Durante o evento:^000000
+^0000ffTodos os atributos +5.^000000
+--------------------------
+Tipo: ^777777Visual^000000
+Equipa em: ^777777Topo^000000
+Peso: ^7777770^000000
+Nível necessário: ^7777771^000000
+Classes: ^777777Todas^000000
+#
 31264#
 Belas asas decoradas com rosas púrpuras que aquecem suas orelhas, mas são equipadas no slot de baixo do seu rosto. 
 Tipo: ^777777Visual^000000
@@ -66327,11 +67571,11 @@ Classes: ^777777Todas^000000
 #
 31530#
 Imponente e grande. Talvez grande até demais... Mas nem pense em fazer piada disso com alguém que está usando esse elmo, afinal, arianos são conhecidos por serem beeem briguentos.
-Tipo : ^777777Visual^000000
-Equipa em : ^777777Topo^000000
-Peso : ^7777770^000000
-Nível Necessário : ^7777771^000000
-Classes : ^777777Todas^000000
+Tipo: ^777777Visual^000000
+Equipa em: ^777777Topo^000000
+Peso: ^7777770^000000
+Nível Necessário: ^7777771^000000
+Classes: ^777777Todas^000000
 #
 31531#
 Chapéu que Sarakura Dropa-Cartas conquistou após selar a carta de Gêmeos. Ele pode até não ter o poder de duplicar coisas ou pessoas, mas não há dúvidas de que vai te deixar duas vezes mais bonito.
@@ -66383,6 +67627,14 @@ Peso: ^7777770^000000
 Nível necessário: ^7777771^000000
 Classes: ^777777Todas^000000
 #
+31547#
+É uma bela fantasia de Poporing! Dá até pra você se passar por um com esse capuz, mas envolve um trabalhinho, tipo... se enterrar do pescoço pra baixo. Afinal, nem Poporings mutantes têm braços e pernas! 
+Tipo: ^777777Visual^000000
+Equipa em: ^777777Topo^000000
+Peso: ^7777770^000000
+Nível Necessário: ^7777771^000000
+Classes: ^777777Todas^000000
+#
 31561#
 Um par de asas para a cabeça que ardem eternamente em chamas negras. Contraindicado para pessoas de cabeça esquentada.
 Tipo: ^777777Visual^000000
@@ -66420,11 +67672,11 @@ Classes: ^777777Todas ^000000
 #
 31568#
 Com origens na filosofia de Kunlun, esses espíritos representam a harmonia do mundo: o bem e o mal, o cheio e o vazio. O equilíbrio dessas forças é o caminho para atingir o potencial máximo do seu Chi.
-Tipo : ^777777Visual^000000
-Equipa em : ^777777Meio^000000
-Peso : ^7777770^000000
-Nível Necessário : ^7777771^000000
-Classes : ^777777Todas^000000
+Tipo: ^777777Visual^000000
+Equipa em: ^777777Meio^000000
+Peso: ^7777770^000000
+Nível Necessário: ^7777771^000000
+Classes: ^777777Todas^000000
 #
 31569#
 Acessório perfeito para os audiófilos: som cristalino, volume alto sem distorcer os instrumentos, além de baixos e graves perfeitos. Tudo isso sem precisar se preocupar com fios! Não dá pra reclamar da tecnologia quando existe uma maravilha dessas, né? 
@@ -66446,11 +67698,11 @@ Classes: ^777777Todas^000000
 #
 31575#
 Uma belíssima peruca com um tom bem suave de turquesa, mas muito lindo. Se você quer entrar em termos técnicos mesmo, essa cor tem vários nomes chiques: Tiffany Blue. Sereia. Brisa de Verão. Use-os pra impressionar seus amigos e mostrar como você entende de moda.
-Tipo : ^777777Visual^000000
-Equipa em : ^777777Baixo^000000
-Peso : ^7777770^000000
-Nível Necessário : ^7777771^000000
-Classes : ^777777Todas^000000
+Tipo: ^777777Visual^000000
+Equipa em: ^777777Baixo^000000
+Peso: ^7777770^000000
+Nível Necessário: ^7777771^000000
+Classes: ^777777Todas^000000
 #
 31586#
 Tem todas as vantagens de um Cachecol de Poring: quentinho e forrado por dentro, gelatinoso por fora... Exceto que é verde! Quem é que não prefere verde do que rosa?
@@ -66757,6 +68009,14 @@ Peso: ^7777770^000000
 Nível Necessário: ^7777771^000000
 Classes: ^777777Todas^000000
 #
+31735#
+Um poderoso selo que foi usado no pescoço de um demônio para conter seus poderes imensuráveis. Depois de tanto tempo, o feitiço já se desfez, mas o estilo exótico do visual segue firme!
+Tipo: ^777777Visual^000000
+Equipa em: ^777777Baixo^000000
+Peso: ^7777770^000000
+Nível Necessário: ^7777771^000000
+Classes: ^777777Todas^000000
+#
 31803#
 Incorpore o espírito dos quatro ventos com esse tornado que te envolverá por completo. Evite A QUALQUER CUSTO passar perto de alguém com penteados maneiríssimos, afinal, a pior coisa é ter o up interrompido pra ter que desembaraçar o cabelo, né?
 Tipo: ^777777Visual^000000
@@ -66772,6 +68032,14 @@ Equipa em: ^777777Meio^000000
 Peso: ^7777770 ^000000
 Nível Necessário: ^7777771 ^000000
 Classes: ^777777Todas ^000000
+#
+31815#
+O casamento ideal de um penteado “modernoso” e orelhas de coelho felpudas. Junte estilo e fofura em um visual só!
+Tipo: ^777777Visual^000000
+Equipa em: ^777777Topo^000000
+Peso: ^7777770^000000
+Nível Necessário: ^7777771^000000
+Classes: ^777777Todas^000000
 #
 31816#
 Essa bela echarpe é divina, mas o comprimento dela pode ser um tanto longo pra você. A sua sorte é que esses três coelíneos voadores te ajudarão a levá-la!
