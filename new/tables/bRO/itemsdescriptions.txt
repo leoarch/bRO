@@ -6235,7 +6235,6 @@ Poderoso martelo de batalha usado por Thor, o Deus do Trovão.
 Dizem que retorna à mão do dono quando arremessado e que trovões soam a cada golpe desferido por essa magnífica arma.
 ^a400cdIndestrutível em batalha.^000000
 ^a400cdNão pode ser refinado.^000000
-^0000ffATQM +10. DEFM +10.^000000
 ^0000ffDES +50. FOR +20.^000000
 ^0000ffVelocidade de ataque +10%.^000000
 ^0000ffAo realizar ataques físicos, chance de autoconjurar [Tempestade de Raios] nv. 10.^000000
@@ -29372,6 +29371,7 @@ Classe : ^777777Todas as classes^000000
 #
 5765#
 Um adereço do estilo Gótico Lolita, esse laço faz parte da moda urbana recém lançada em Amatsu, atraindo desde adolescentes e jovens adultas, até mesmo pessoas do sexo masculino. Parte de uma subcultura que acaba de florescer na Terra das Cerejeiras, o laço, assim como o estilo que representa, mostra-se bastante resistente a ataques, sejam verbais ou físicos.
+DEFM +5.^000000
 ^0000ffResistência a propriedade Neutro +5%.^000000
 ^0000ffResistência a danos físicos a distância +5%.^000000
 Tipo: ^777777Equipamento para Cabeça^000000
@@ -35664,6 +35664,7 @@ Este é um Cupom para Corte de Cabelo que você pode trocar na Estilista em Albe
 Este ticket só funciona para os novos cortes e apenas na estilista Kaniki.
 Atenção! Esse item não pode ser negociado, derrubado no chão e nem colocado no carrinho, mas pode se transferido para o armazém
 Peso: ^7777771^000000
+Classes : ^777777Todas menos Invocadores^000000
 #
 7623#
 Cupom de Mudança de Nome.
@@ -37459,7 +37460,7 @@ Maçã recheada e caramelizada feita na hora.
 Não tem vontade de dar uma mordida?
 --------------------------
 ^0000ffRecupera 25 de HP.^000000
-^0000ffVIT +1 por 3 minutos.^000000
+^0000ffDES +1 por 3 minutos.^000000
 --------------------------
 Peso: ^7777771^000000
 #
@@ -44990,6 +44991,10 @@ Peso: ^7777771^000000
 13870#
 Esta caixa contém 1 Cupom para Corte de Cabelo que você pode trocar na Estilista em Alberta por um dos mais novos cortes de cabelo.
 Este ticket só funciona para os novos cortes e apenas na estilista Kaniki.
+^FF0000Esse Cupom não pode ser trocada entre contas^000000
+--------------------------
+^ff0000Esta caixa pode ser negociada normalmente. Após aberto, o item não será restituído.^000000
+--------------------------
 Peso: ^7777771^000000
 #
 13871#
@@ -50633,9 +50638,9 @@ Uma coroa rara e de aparência única, feita com camadas de penas do lendário p
 ^0000ffPós-conjuração -5%.^000000
 ^0000ffResistência a todas as propriedades +5%.^000000
 Refino +7 ou mais:
-^0000ffAo derrotar monstros, chance de derrubar [Mastela].^000000
-A partir do refino +7:
-^0000ffChance de derrubar [Mastela] +1% por refino.^000000
+^0000ffAo derrotar monstros, 1% de chance de derrubar [Mastela].^000000
+A partir do refino +8:
+^0000ffChance de derrubar [Mastela] +1% adicional por refino.^000000
 Tipo: ^777777Equipamento para Cabeça^000000 
 Defesa: ^7777774^000000 
 Equipa em: ^777777Topo^000000
@@ -59757,7 +59762,7 @@ Nível necessário: ^7777771^000000
 Classes: ^777777Todas^000000
 #
 20773#
-Capa de excelência criada pela exinta tecnologia das ruínas de Verus.
+Capa de excelência criada pela extinta tecnologia das ruínas de Verus.
 ^0000ffEsquiva perfeita +8.^000000
 A cada refino:
 ^0000ffEsquiva +2.^000000
@@ -64323,11 +64328,13 @@ FOR base 100 ou mais:
 ^FF6347Conjunto^000000
 ^FF6347[Espírito do Lutador 1]^000000
 ^0000ffSP máx. +100 adicional.^000000
+^0000ffDano mágico contra todas as raças +5%.^000000
 ^0000ffDano físico contra todas as raças +5% adicional.^000000
 --------------------------
 ^FF6347Conjunto^000000
 ^FF6347[Espírito do Lutador 2]^000000
 ^0000ffSP máx. +100 adicional.^000000
+^0000ffDano mágico contra todas as raças +5%.^000000
 ^0000ffDano físico contra todas as raças +5% adicional.^000000
 --------------------------
 Tipo: ^777777Acessório^000000
@@ -67640,10 +67647,10 @@ Classes: ^777777Todas^000000
 O acessório trevoso perfeito para sua cerimônia de enlace matrimonial gótica no cemitério.
 Tipo: ^777777Visual^000000
 Defesa: ^7777770^000000
-Equipa em : ^777777Topo ^000000
-Peso : ^7777770^000000
-Nível necessário : ^7777771^000000
-Classes : ^777777Todas^000000
+Equipa em: ^777777Topo ^000000
+Peso: ^7777770^000000
+Nível necessário: ^7777771^000000
+Classes: ^777777Todas^000000
 #
 31565#
 Uma união de beleza e autoridade. Mostre a todos que você não só tem bom gosto pra coisas fofas, mas também possui o poder e autoridade de um membro da família real!
@@ -67771,6 +67778,14 @@ Classes : ^777777Todas^000000
 #
 31614#
 Uma raposinha simpática e companheira. Lembra até certo alguém, que usava o apelido de “Fox” e era muito querido pelos aventureiros de Rune-Midgard...
+Tipo: ^777777Visual^000000
+Equipa em: ^777777Meio^000000
+Peso: ^7777770^000000
+Nível Necessário: ^7777771^000000
+Classes: ^777777Todas^000000
+#
+31617#
+Além de bananeiras, só há UMA coisa em que a Lady Tanee aceita ficar agarrada: a sua cabeça. Será que você anda pensando em muitas bananices? 
 Tipo: ^777777Visual^000000
 Equipa em: ^777777Meio^000000
 Peso: ^7777770^000000
@@ -68014,6 +68029,14 @@ Classes: ^777777Todas^000000
 Incorpore o espírito dos quatro ventos com esse tornado que te envolverá por completo. Evite A QUALQUER CUSTO passar perto de alguém com penteados maneiríssimos, afinal, a pior coisa é ter o up interrompido pra ter que desembaraçar o cabelo, né?
 Tipo: ^777777Visual^000000
 Equipa em: ^777777Baixo^000000
+Peso: ^7777770^000000
+Nível Necessário: ^7777771^000000
+Classes: ^777777Todas^000000
+#
+31813#
+Leve um Lunático pra te acompanhar no seu ombro, beeeem de perto. Aliás, este aqui não precisa nem de uma Cenoura Arco-Íris pra domesticar!
+Tipo: ^777777Visual^000000
+Equipa em: ^777777Meio^000000
 Peso: ^7777770^000000
 Nível Necessário: ^7777771^000000
 Classes: ^777777Todas^000000

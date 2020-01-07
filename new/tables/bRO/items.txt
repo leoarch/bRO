@@ -7516,6 +7516,7 @@
 31609#Máscara do Aristocrata#
 31611#Manto do Riso Macabro#
 31614#Camarada Fox#
+31617#Pelúcia de Lady Tanee#
 31635#Mechas Onduladas Loiras#
 31636#Mechas Onduladas Pratas#
 31645#Aplique lateral Safira#
@@ -7546,6 +7547,7 @@
 31731#Guloseimas Encantadas#
 31735#Gargalheira de Yawata#
 31803#Vendaval Esmeralda#
+31813#Lunático Simpático#
 31814#Balões Lunáticos#
 31815#Peruca-Lebre#
 31816#Coelhos Celestiais#
