@@ -54,7 +54,7 @@
 557#Fatia de Bolo de Arroz#
 558#Chocolate#
 559#Chocolate Caseiro#
-560#Chocolate Branco feito a mão#
+560#Chocolate Branco Caseiro#
 561#Chocolate Branco#
 562#Fondue Suíço#
 563#Fondue Suíço#
@@ -4620,6 +4620,8 @@
 11601#Anchova Deliciosa#
 11602#Fruto de Nepeta#
 11605#Biscoito de Morcego#
+11607#Crepe Doce#
+11612#Pipoca Flavorizada#
 11616#Porco Defumado#
 11713#Doce da Joana#
 12000#Rajada Congelante Nível 5#
@@ -6387,6 +6389,7 @@
 19111#Olho da Cecil#
 19112#Pergaminho do Tengu#
 19114#Gravata de Sting#
+19116#Dragonete de Fogo#
 19117#Super Óculos Poring#
 19118#Super Óculos Poring#
 19136#Espírito da Donzela Verde#
@@ -6437,6 +6440,7 @@
 19318#Rosário da Guarda Real#
 19321#Pombinho Branco#
 19326#Livros da Sabedoria #
+19327#Pluma do Serafim#
 19381#Echarpe do Paraíso#
 19393#Pedra do Desbravador#
 19443#Tapa-Olho Cósmico#
@@ -6666,6 +6670,7 @@
 19985#Coroa de Cristais Brutos#
 19986#Boné de Lunático#
 19987#Gorro Visual de Inverno#
+19988#Diadema dos Anciões#
 19990#Gorro de Coelho de Inverno#
 19991#Tiara de Galanthus#
 19992#Hálito Gelado#
@@ -6717,6 +6722,7 @@
 20144#Orelhas de Elfo Ancestral#
 20145#Visor do Ciborgue#
 20148#Chapéu do Dartanham#
+20153#Quepe Militar#
 20154#Folhas Outonais#
 20155#Chapéu de Lady Emplumado#
 20156#Leque Portátil#
@@ -6757,6 +6763,7 @@
 20246#Ilusões do Tempo#
 20247#Mão Diabólica#
 20248#Peruca de Saiadim#
+20249#Peruca do Saiadim Deus#
 20251#Capuz da Pastora#
 20255#Candura do Amor#
 20257#Capuz com Orelhas de Coelho#
@@ -6782,6 +6789,7 @@
 20298#Orelhas Brancas de Lunático#
 20299#Torta de Baunilha#
 20300#Máscara Vento da Colina#
+20302#Coroa do Senhor das Moscas#
 20306#Boné do Príncipe Ali#
 20311#Fone da Ratishune Meeku#
 20312#Olho Maligno do Barão#
@@ -7070,9 +7078,12 @@
 22901#Caixa Azul Misteriosa#
 22984#Leite de Kaluna#
 22985#Manjericão#
+22991#Bolo de Futebol#
 23012#Poção Menor de Mana#
 23044#Doce de Elvira#
+23045#Bolo Mont Blanc#
 23073#Caixa do ArchAngeling#
+23079#Bolo de Frutas Vermelhas#
 23123#Cartucho de Projétil de Fogo#
 23124#Cartucho de Projétil Relâmpago#
 23125#Cartucho de Projétil Congelante#
@@ -7081,6 +7092,9 @@
 23135#Caixa de Balões Poring#
 23177#Cartão Kafra Especial#
 23202#Quentão#
+23259#Cupcake de Morango#
+23260#Parfait de Frutas#
+23261#Macarons#
 23460#Bolsa Mágica#
 23548#Doce de Gelo#
 23549#Biscoito do Snow#
@@ -7128,6 +7142,9 @@
 25253#Caixa de Açúcar#
 25254#Lenha#
 25275#Ticket de Unicórnio#
+25290#Moeda do Festival#
+25291#Chocolate em Barra#
+25292#Grãos de Cacau Roubados#
 25401#Pelugem Negra#
 25402#Fada Capturada#
 25403#Moeda de Fada#
@@ -7251,10 +7268,12 @@
 28537#Colar de Juperos#
 28538#Luvas de H. Motto#
 28551#Luvas Imperiais#
+28552#Anel da Serpe Dupla#
 28561#Anel Dracônico do Veterano#
 28564#Lágrima de Valquíria#
 28565#Máscara de Oni#
 28572#Broche da Celine#
+28575#Bugiganga de Verus#
 28596#Anel de Brinquedo#
 28598#Fragmento de Chip #
 28604#Bíblia Rubi#
@@ -7388,6 +7407,7 @@
 31189#Capa Vermelha de Gatinho#
 31190#Cartolinha das Valquírias#
 31193#Chapéu de Ahat#
+31195#Chapéu Confeitado#
 31199#Cavanhaque Bifurcado#
 31200#Laço Esplêndido#
 31201#Coroa da Grandeza#
@@ -7486,6 +7506,7 @@
 31493#Peruca Branca de Waifu#
 31498#Elefante Bumbo#
 31505#Falcoelmo#
+31506#Touca de Malangdo#
 31510#Peruca Curta de Gatinho#
 31511#Peruca Longa de Gatinho#
 31513#Orelhas do Coelho Minguante#
@@ -7516,7 +7537,10 @@
 31609#Máscara do Aristocrata#
 31611#Manto do Riso Macabro#
 31614#Camarada Fox#
+31616#Carneiro Dorminhoco#
 31617#Pelúcia de Lady Tanee#
+31625#Cachecol Celestial#
+31626#Asas dos Querubins#
 31635#Mechas Onduladas Loiras#
 31636#Mechas Onduladas Pratas#
 31645#Aplique lateral Safira#
@@ -7540,6 +7564,7 @@
 31670#Peruca de Miyabi#
 31671#Canhões Gêmeos#
 31672#Peruca de Nereida#
+31684#Peruca Kururinpa#
 31687#Bolsa do Alquimista#
 31688#Poring de Bolso#
 31707#Peruca de Youkai#

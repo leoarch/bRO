@@ -2422,7 +2422,7 @@ Força de Ataque: ^777777150^000000
 Peso: ^777777150^000000
 Nível da arma: ^7777773^000000
 Nível necessário: ^77777727^000000
-Classes que utilizam: ^777777Cavaleiro/ Templário^000000
+Classes que utilizam: ^777777Cavaleiro, Templário e evoluções^000000
 #
 1130#
 Espada de uma mão com muitas pontas no topo. Apenas um golpe basta para causar ferimentos profundos.
@@ -2528,7 +2528,7 @@ Espada de uma mão simulando o jovem graveto que, de acordo com as lendas, causo
 ^0000ffPossui uma pequena chance de petrificar o inimigo.^000000
 ^0000ffDES +3.^000000
 Classe: ^777777Espada^000000
-Força de Ataque: ^777777160^000000
+Força de Ataque: ^777777170^000000
 Peso: ^777777100^000000
 Propriedade: ^777777Sombrio^000000
 Nível da arma: ^7777774^000000
@@ -2583,7 +2583,7 @@ Classes que utilizam: ^777777Espadachim/Mercador/Gatuno e as respectivas evoluç
 1143#
 Espada abençoada pela Deusa da Terra que permite ao usuário encontrar minérios com mais facilidade.
 Classe: ^777777Espada^000000
-Força de Ataque: ^777777115^000000
+Força de Ataque: ^777777140^000000
 Peso: ^777777250^000000
 Nível da arma: ^7777773^000000
 Nível necessário: ^77777774^000000
@@ -2765,7 +2765,7 @@ Força de Ataque: ^777777180^000000
 Peso: ^777777250^000000
 Nível da arma: ^7777773^000000
 Nível necessário: ^77777733^000000
-Classes que utilizam: ^777777Cavaleiro/ Templário^000000
+Classes que utilizam: ^777777Cavaleiro, Templário e evoluções^000000
 #
 1164#
 Espada oriental, batizada com o nome do famoso artesão do antigo Japão.
@@ -17399,10 +17399,10 @@ Classes: ^777777Todas^000000
 Quando você entrou nas catacumbas de Rachel à procura da famosa lâmpada mágica, acabou sendo perseguido por uma verdadeira onda de magmarings. Pra sua sorte, este tapete mágico apareceu e o salvou num piscar de olhos.
 ^0000ffAGI +1.^000000
 ^0000ffHabilita [Teleporte] nv. 2.^000000
-Tipo : ^777777Acessório^000000
-Defesa : ^7777770^000000
-Peso : ^77777780^000000
-Nível Necessário : ^77777770^000000
+Tipo: ^777777Acessório^000000
+Defesa: ^7777770^000000
+Peso: ^77777780^000000
+Nível Necessário: ^77777770^000000
 Classes: ^777777Todas^000000
 #
 2963#
@@ -17557,16 +17557,23 @@ Classes: ^777777Todas, exceto Aprendizes^000000
 #
 2980#
 Uma luva carregada de poder sombrio. Permite mover bonecas como se estivessem vivas através dos fios de tecido mágico costurados na ponta de seus dedos. 
+--------------------------
 ^0000ffHP máx. +500.^000000
 ^0000ffSP máx. +200.^000000
-^0000ffHabilita [Prisão da Teia] nv. 1.^000000
+--------------------------
+^0000ffHabilita [Prisão da Teia] nv.1.^000000
+--------------------------
 Ao realizar ataques físicos:
 ^0000ff1% de chance de autoconjurar [Congelar] nv. 10.^000000
 ^0000ff1% de chance de autoconjurar [Onda Psíquica] nv. 1.^000000
+--------------------------
 Ao realizar ataques mágicos:
+^0000ff1% de chance de autoconjurar [Congelar] nv. 10.^000000
 ^0000ff1% de chance de autoconjurar [Amplificação Mística] nv. 1.^000000
-Ao receber danos físicos ou mágicos:
+--------------------------
+Ao receber danos físicos corpo a corpo ou mágicos:
 ^0000ff1% de chance de autoconjurar [Escândalo] nv. 1.^000000
+--------------------------
 Tipo: ^777777Acessório^000000
 Defesa: ^7777770^000000
 Peso: ^77777710^000000
@@ -28293,6 +28300,8 @@ Ao derrotar monstros:
 ^0000ff0,3% de chance de derrubar Bolsa de Papai Noel ou Sacola de Biscoitos.^000000
 ^0000ff0,05% de chance de derrubar Velha Caixa Roxa.^000000
 --------------------------
+^ff0000Atenção! Esse item não pode ser negociado, derrubado no chão e nem colocado no carrinho, mas pode ser transferido para o armazém.^000000
+--------------------------
 Tipo: ^777777Equipamento para Cabeça^000000
 Equipa em: ^777777Baixo^000000
 Defesa: ^7777771^000000
@@ -30004,14 +30013,18 @@ Classes: ^777777Todas^000000
 #
 5880#
 Você nunca mais se sentirá 4ever alone! Basta usar esse apito para se sentir animado como se houvessem anjos torcendo por você. Com isso, você ficará mais motivado para realizar qualquer tarefa!
-^ff0000FOR + 1
-Chance de conjurar automaticamente a habilidade Magnificat em nível 1 quando o usuário for atacado.^000000
-Tipo: ^777777Equipamento para a cabeça^000000
-Defesa: ^7777770^000000
+--------------------------
+^0000ffFOR +1.^000000
+--------------------------
+Ao receber danos físicos ou mágicos:
+^0000ff0,5% de chance de autoconjurar [Magnificat] nv.1.^000000
+--------------------------
+Tipo: ^777777Equipamento para Cabeça^000000
 Equipa em: ^777777Baixo^000000
+Defesa: ^7777770^000000
 Peso: ^77777710^000000
-Nível necessário : ^7777771^000000
-Classes que utilizam: ^777777Todas^000000
+Nível necessário: ^7777771^000000
+Classes: ^777777Todas^000000
 #
 5897#
 Adornada com lindas e delicadas pétalas de lótus encontradas na Ilha de Jawaii, essa coroa é o símbolo daqueles que buscam por tesouros.
@@ -35612,8 +35625,8 @@ Ticket temporário criado pela Corporação Kafra.
 ^CD3278Coord.:^000000 prontera 141, 226
 <NAVI>[Navegar]<INFO>prontera,141,226,0,000,0</INFO></NAVI>
 --------------------------
-Promoção limitada até o dia ^ff000006.01.2020.^000000
-Este item será removido no dia ^ff000007.01.2020.^000000
+Promoção limitada até o dia ^ff000027.01.2020.^000000
+Este item será removido no dia ^ff000028.01.2020.^000000
 --------------------------
 Peso: ^7777771^000000
 #
@@ -35662,7 +35675,7 @@ Peso: ^7777771^000000
 7622#
 Este é um Cupom para Corte de Cabelo que você pode trocar na Estilista em Alberta por um dos mais novos cortes de cabelo.
 Este ticket só funciona para os novos cortes e apenas na estilista Kaniki.
-Atenção! Esse item não pode ser negociado, derrubado no chão e nem colocado no carrinho, mas pode se transferido para o armazém
+Atenção! Esse item não pode ser negociado, derrubado no chão e nem colocado no carrinho, mas pode ser transferido para o armazém
 Peso: ^7777771^000000
 Classes : ^777777Todas menos Invocadores^000000
 #
@@ -37572,6 +37585,16 @@ Peso: ^7777770,1^000000
 11605#
 Biscoito com cheirinho de manteiga e com recheio de chocolate bem doce. 
 Atenção: Ele pode voar e fugir.
+Peso: ^7777775^000000
+#
+11607#
+Receita francesa recheada com frutas e chocolate enrolados em uma massa deliciosa.
+^0000ffRemove Envenenamento, Maldição, Silêncio, Caos, Cegueira e Alucinação.^000000
+Peso: ^77777710^000000
+#
+11612#
+Um balde de pipoca misturada com uma calda doce. Há muita comida pra se aproveitar nos festivais.
+Recupera ^000088cerca de 800 HP^000000, dependendo da sua vitalidade.
 Peso: ^7777775^000000
 #
 11616#
@@ -54332,6 +54355,21 @@ Peso: ^77777730^000000
 Nível necessário: ^77777770^000000
 Classes: ^777777Todas^000000
 #
+19116#
+Enquanto esse dragãozinho não tem tamanho o suficiente pra voar e repousar sobre montanhas, a sua cabeça vai ser o ponto mais alto que ele vai conhecer. Só não o irrite, ou ele vai derreter o seu cocuruto!
+^0000ffHP e SP máx. +5%.^000000
+^0000ffDano de [Sopro do Dragão] e [Sopro de Gelo] +15%.^000000
+Refino +6 ou mais:
+^0000ffDano de [Sopro do Dragão] e [Sopro de Gelo] +15% adicional.^000000
+Refino +8 ou mais:
+^0000ffDano de [Sopro do Dragão] e [Sopro de Gelo] +15% adicional.^000000
+Tipo: ^777777Equipamento para Cabeça^000000
+Equipa em: ^777777Topo^000000
+Defesa: ^7777770^000000
+Peso: ^77777770^000000
+Nível necessário: ^77777790^000000
+Classes: ^777777Todas^000000
+#
 19117#
 Um par de óculos escuros perfeitos pra você se disfarçar e não chamar a atenção... Só que não! Dizem que ele combina de forma divina com as Botas do ArchAngeling, e por 'divina' quero dizer de forma 'milagrosa' mesmo.
 ^0000ffTaxa de DROP +5%.^000000
@@ -55337,6 +55375,41 @@ Equipa em: ^777777Topo^000000
 Defesa: ^7777770^000000
 Peso: ^777777100^000000
 Nível necessário: ^77777790^000000
+Classes: ^777777Todas^000000
+#
+19327#
+As plumas de um Serafim são extremamente raras, pois elas não caem facilmente de suas asas. Isso se deve ao imenso poder mágico que elas detêm, então você consegue imaginar os benefícios que trariam aos poderes de um ser mortal.
+--------------------------
+^0000ffEfetividade de cura +5%.^000000
+--------------------------
+^FA4E09Conjunto^000000
+^FA4E09[Diadema do Serafim]^000000
+^0000ffEfetividade de cura +5% adicional.^000000
+^0000ffEfetividade de cura recebida +5%.^000000
+^0000ffRecuperação de HP por itens +5%.^000000
+^0000ffTolerâcia a Sangramento e Caos +100%.^000000
+^0000ffResistência as raças Humano e Doram +2%.^000000
+^0000ffConjuração variável de [Sopro Divino] -100%.^000000
+A cada 8 de INT base:
+^0000ffConjuração variável -1%.^000000
+INT base 108 ou mais:
+^0000ffConjuração variável -4%.^000000
+^0000ffEfetividade de cura +10% adicional.^000000
+^0000ffEfetividade de cura recebida +10% adicional.^000000
+^0000ffRecuperação de HP por itens +10% adicional.^000000
+^0000ffResistência as raças Humano e Doram +2% adicional.^000000
+INT base 120 ou mais:
+^0000ffConjuração variável -6% adicional.^000000
+^0000ffEfetividade de cura +15% adicional.^000000
+^0000ffEfetividade de cura recebida +15% adicional.^000000
+^0000ffRecuperação de HP por itens +15% adicional.^000000
+^0000ffResistência as raças Humano e Doram +4% adicional.^000000
+--------------------------
+Tipo: ^777777Equipamento para Cabeça^000000
+Equipa em: ^777777Baixo^000000
+Defesa: ^7777770^000000
+Peso: ^77777730^000000
+Nível necessário: ^77777780^000000
 Classes: ^777777Todas^000000
 #
 19381#
@@ -56612,11 +56685,11 @@ Classes : ^777777Todas^000000
 #
 19770#
 Uma belíssima caneca de chá pintada em Amatsu, usada na tradicional cerimônia do chá realizada na ilha.
-Tipo : ^777777Visual^000000
-Equipa em : ^777777Baixo ^000000
-Peso : ^7777770^000000
-Nível Necessário : ^7777771^000000
-Classes : ^777777Todas^000000
+Tipo: ^777777Visual^000000
+Equipa em: ^777777Baixo ^000000
+Peso: ^7777770^000000
+Nível Necessário: ^7777771^000000
+Classes: ^777777Todas^000000
 #
 19771#
 A famosa presilha que a musa Meeku Rátishune usou ao cantar Magneto em parceria com sua amiga, Megarine Louca.
@@ -56794,7 +56867,7 @@ Classes : ^777777Todas^000000
 #
 19811#
 Dizem que essa bebida gourmet foi “batizada”, mas ninguém sabe ao certo o que esse termo significa. Com um sabor estranhamente amargo, nem parece guaraná... Aliás, será que é guaraná mesmo?
-^ff0000Atenção! Esse item não pode ser negociado, derrubado no chão e nem colocado no carrinho, mas pode se transferido para o armazém^000000
+^ff0000Atenção! Esse item não pode ser negociado, derrubado no chão e nem colocado no carrinho, mas pode ser transferido para o armazém^000000
 Tipo: ^777777Visual^000000
 Equipa em: ^777777Topo^000000
 Nível Necessário: ^7777771^000000
@@ -57458,6 +57531,14 @@ Peso: ^7777770 ^000000
 Nível Necessário: ^7777771 ^000000
 Classes: ^777777Todas ^000000
 #
+19988#
+Um arco feito à mão, adornado com galhos e folhas para homenagear os Anciões e seus poderes mágicos. Um item bem ecologicamente correto! 
+Tipo: ^777777Visual ^000000
+Equipa em: ^777777Topo ^000000
+Peso: ^7777770 ^000000
+Nível Necessário: ^7777771 ^000000
+Classes: ^777777Todas ^000000
+#
 19990#
 Por que simplesmente se aquecer com um gorro de lã, quando você pode se aquecer e ficar com um visual todo kawaii usando esse gorro com orelhinhas de coelho? Perfeito para aquelas convenções de Anime em Alberta!
 Tipo: ^777777Visual ^000000
@@ -57921,6 +58002,14 @@ Peso: ^7777770^000000
 Nível Necessário: ^7777771^000000
 Classes: ^777777Todas^000000
 #
+20153#
+Parte do traje oficial dos soldados dos mais diversos reinos de Rune-Midgard. Obviamente, isso pertence ao vestuário casual, usado em apresentações e marchas. Ninguém vai enfrentar inimigos protegendo a cuca com um chapéu de pano como esse... ou vai?
+Tipo: ^777777Visual^000000
+Equipa em: ^777777Topo^000000
+Peso: ^7777770^000000
+Nível Necessário: ^7777771^000000
+Classes: ^777777Todas^000000
+#
 20154#
 Se você adora quando as árvores ficam douradas no outono e as folhas secas caem, carregue essa sensação com você o ano inteiro com essas belas folhas encantadas.
 ^008080Exibe efeito gráfico que pode ser desligado com /effect.^000000
@@ -58289,6 +58378,14 @@ Peso: ^7777770^000000
 Nível necessário: ^7777771^000000
 Classes: ^777777Todas^000000
 #
+20249#
+Super Saiadim, qualquer um pode se tornar. Agora, para se igualar ao nível de uma divindade, é necessário o poder de 7 saiadins. Dizem que essa é a única forma de derrotar um oponente que ameaça acabar com o mundo inteiro!
+Tipo: ^777777Visual^000000
+Equipa em: ^777777Topo^000000
+Peso: ^7777770^000000
+Nível necessário: ^7777771^000000
+Classes: ^777777Todas^000000
+#
 20251#
 Um capuz que protege contra o sol usado por pastoras de Bodes em Hugel. Enfeitado com rosas, esse é um visual ideal pra quem gosta da primavera, campos verdejantes ou apenas quer esconder sua identidade e seus planos malignos no meio da multidão. Mas hein?
 Tipo: ^777777Visual^000000
@@ -58514,6 +58611,14 @@ Peso: ^7777770^000000
 Nível necessário: ^7777771^000000
 Classes: ^777777Todas^000000
 #
+20302#
+Destinada apenas às criaturas que se encontram na mais alta hierarquia entre os monstros de Rune-Midgard. Se você, que NÃO é um monstro, está usando uma dessas, já vai passar um recado muito claro: até mesmo um Belzebu é brincadeira pra você!  
+Tipo: ^777777Visual ^000000
+Equipa em: ^777777Topo ^000000
+Peso: ^7777770 ^000000
+Nível Necessário: ^7777771 ^000000
+Classes: ^777777Todas ^000000
+#
 20306#
 Essa mistura de boné e de chapéu de sultão foi usada pelo famoso gatuno de Arunafeltz, Al Ladino, quando ele se disfarçou de príncipe.
 Tipo: ^777777Visual ^000000
@@ -58694,7 +58799,7 @@ Classes: ^777777Todas ^000000
 #
 20349#
 Desde que você ouviu a história sobre Rap Feet, o pinguim breakdancer, você sempre quis adotar um e agora conseguiu. Esse pequeno e folgado Pingu é seu novo companheiro de aventuras! 
-Classe: ^808080Chapéu^000000
+Tipo: ^777777Visual ^000000
 Equipa em: ^808080Baixo^000000
 Peso: ^8080800^000000
 Nivel necessário: ^8080801^000000
@@ -58703,7 +58808,6 @@ Classe: ^808080Todas^000000
 20350#
 Alguns podem achar que você não se penteia direito, mas você sabe que ter uma mecha loira espetada para cima na verdade é um charme! Afinal, se nem mesmo o alquimista Eduardo El Rico conseguiu domar a mecha rebelde dele, por que você deveria tentar pentear a sua?
 Tipo: ^777777Visual ^000000
-Defesa: ^7777770 ^000000
 Equipa em: ^777777Baixo^000000
 Peso: ^7777770^000000
 Nível Necessário: ^7777771 ^000000
@@ -61950,37 +62054,37 @@ Peso: ^7777770^000000
 #
 22521#
 Uma caixa contendo 1 Caixa de Poções Compactas Brancas e 5 Manuais de Campo de Classe,
-Atenção! Esse item não pode ser negociado, derrubado no chão e nem colocado no carrinho, mas pode se transferido para o armazém
+Atenção! Esse item não pode ser negociado, derrubado no chão e nem colocado no carrinho, mas pode ser transferido para o armazém
 ^FF0000Só é possível abri-la quando seu personagem alcançar nível 80.^000000
 Peso: ^7777770^000000
 #
 22522#
 Uma caixa contendo 1 Álbum Velho de Cartas e 5 Manuais de Campo
-Atenção! Esse item não pode ser negociado, derrubado no chão e nem colocado no carrinho, mas pode se transferido para o armazém
+Atenção! Esse item não pode ser negociado, derrubado no chão e nem colocado no carrinho, mas pode ser transferido para o armazém
 ^FF0000Só é possível abri-la quando seu personagem alcançar nível 100.^000000
 Peso: ^7777770^000000
 #
 22523#
 Uma caixa contendo 5 Manuais de Campo, 5 Manuais de Campo de Classe, 5 Chicletes, 5 Tickets de Seguro e 1 Caixa das Melhores Armas   
-Atenção! Esse item não pode ser negociado, derrubado no chão e nem colocado no carrinho, mas pode se transferido para o armazém
+Atenção! Esse item não pode ser negociado, derrubado no chão e nem colocado no carrinho, mas pode ser transferido para o armazém
 ^FF0000Só é possível abri-la quando seu personagem alcançar nível 120.^000000
 Peso: ^7777770^000000
 #
 22524#
 Uma caixa contendo 5 Manuais de Campo, 5 Chicletes, 5 Tickets de Seguro e 1 Álbum Mágico de Cartas. 
-Atenção! Esse item não pode ser negociado, derrubado no chão e nem colocado no carrinho, mas pode se transferido para o armazém
+Atenção! Esse item não pode ser negociado, derrubado no chão e nem colocado no carrinho, mas pode ser transferido para o armazém
 ^FF0000Só é possível abri-la quando seu personagem alcançar nível 130.^000000
 Peso: ^7777770^000000
 #
 22525#
 Uma caixa contendo 5 Manuais de Campo, 5 Chicletes, 5 Tickets de Seguro e 1 Pergaminho de Arma +7.
-Atenção! Esse item não pode ser negociado, derrubado no chão e nem colocado no carrinho, mas pode se transferido para o armazém
+Atenção! Esse item não pode ser negociado, derrubado no chão e nem colocado no carrinho, mas pode ser transferido para o armazém
 ^FF0000Só é possível abri-la quando seu personagem alcançar nível 140.^000000
 Peso: ^7777770^000000
 #
 22526#
 Uma caixa contendo 5 Manuais de Campo, 5 Chicletes, 5 Tickets de Seguro e 1 Pergaminho de Armadura +7.
-Atenção! Esse item não pode ser negociado, derrubado no chão e nem colocado no carrinho, mas pode se transferido para o armazém
+Atenção! Esse item não pode ser negociado, derrubado no chão e nem colocado no carrinho, mas pode ser transferido para o armazém
 ^FF0000Só é possível abri-la quando seu personagem alcançar nível 150.^000000
 Peso: ^7777770^000000
 #
@@ -62309,6 +62413,12 @@ A cada 10 segundos:
 Duração: ^7777773 minutos^000000
 Peso: ^7777771^000000
 #
+22991#
+Bolo caseiro feito para uma festa com o tema de futebol.
+^0000ffRecupera 10% de HP e SP.^000000
+^0000ffAtiva [Encantar com Terremoto] nv. 1.^000000
+Peso: ^7777771^000000
+#
 23012#
 ^ff0000Intransferível.^000000
 Um pequeno frasco que contém a essência das raízes de Yggdrasil. Pode ser amargo, mas é bom para o espírito.
@@ -62330,10 +62440,22 @@ Recarga: ^77777760 segundos^000000
 Atenção: ^777777O item pode ser colocado na Kafra mas não pode ser derrubado, negociado e nem colocado no carrinho.^000000
 Peso: ^7777771^000000
 #
+23045#
+Sobremesa de mascarpone e creme de castanha preparado em forma de uma montanha.
+^0000ffRecupera 20% de HP e SP.^000000
+^0000ffAtiva [Concentração] nv. 5.^000000
+Peso: ^7777775^000000
+#
 23073#
 Uma caixa de sapato especialmente feita para se guardar Botas do Anjo Poring. Ao ser aberta, além das botas ela também revela possuir uma gema especial. Qual será?
 Uma caixa contendo 1 Botas do ArchAngeling e 1 encantamento especial aleatório.
 ^ff0000Atenção! Esse item não pode ser negociado, derrubado no chão e colocado no carrinho, mas pode ser colocado na Kafra.^000000
+Peso: ^7777771^000000
+#
+23079#
+Delicioso bolo decorado com morangos, mirtilos e restos de poring.
+^0000ffRecupera 10% de HP e SP.^000000
+^0000ffAtiva [Assumptio] nv. 3.^000000
 Peso: ^7777771^000000
 #
 23123#
@@ -62392,6 +62514,24 @@ Recupera 7% de SP.
 Esse item será removido após o término do Evento de Natal 2016.
 ^ff0000Atenção! Esse item não pode ser negociado, derrubado no chão, colocado no carrinho, mas pode ser colocado na Kafra.^000000
 Peso: ^7777774^000000
+#
+23259#
+Um cupcake feito de creme de morango com cobertura de chantilly.
+^0000ffRecupera 5% de SP.^000000
+^0000ffAtiva [Bênção] nv. 5.^000000
+Peso: ^77777710^000000
+#
+23260#
+Sobremesa clássica feita com sorvete, frutas e calda.
+(Se for gostoso, tem zero de calorias, pode confiar em mim.)
+^0000ffRecupera 20% de HP.^000000
+Peso: ^77777710^000000
+#
+23261#
+Docinho arredondado crocante por fora e macio por dentro.
+^0000ffRecupera 5% de HP.^000000
+^0000ffAtiva [Angelus] nv. 5.^000000
+Peso: ^77777710^000000
 #
 23460#
 Uma sacola confeccionada especialmente para capturar seres mágicos.
@@ -62805,6 +62945,32 @@ Um ticket que pode ser trocado por um Ovo de Unicórnio.
 ^ff0000Atenção! Esse item não pode ser negociado, colocado no carrinho e nem derrubado no chão, mas pode ser colocado no armazém.^000000
 --------------------------
 Peso: ^7777771^000000
+#
+25290#
+Apesar de ser feita de chocolate, esta moeda deve ser usada para trocar por guloseimas!
+--------------------------
+^ff0000Atenção! Esse item não pode ser negociado, derrubado no chão e nem colocado no carrinho, mas pode ser transferido para o armazém.^000000
+--------------------------
+Peso: ^7777770^000000
+#
+25291#
+Barra de chocolate amargo para grandes receitas.
+Fabricado em Hugel.
+--------------------------
+^ff0000Será removido no final do evento.^000000
+--------------------------
+^ff0000Atenção! Esse item não pode ser negociado, derrubado no chão e nem colocado no carrinho, mas pode ser transferido para o armazém.^000000
+--------------------------
+Peso: ^7777770^000000
+#
+25292#
+Sementes de cacau que foram roubadas.
+É melhor levar isso de volta.
+--------------------------
+^ff0000Atenção! Esse item não pode ser negociado, derrubado no chão e nem colocado no carrinho, mas pode ser transferido para o armazém.^000000
+--------------------------
+^ff0000Será removido no final do evento.^000000
+Peso: ^7777770^000000
 #
 25401#
 Pelugem negra decomposta. O cheiro é insuportável.
@@ -64884,6 +65050,23 @@ Peso: ^77777740^000000
 Nível necessário: ^777777100^000000
 Classes: ^777777Todas^000000
 #
+28552#
+Um anel abençoado com o sangue de dois temíveis dragões. Será que você tem força o suficiente para tomar para si o poder de tais criaturas?
+--------------------------
+Acessório esquerdo:
+^0000ffHP máx. +15%.^000000
+^0000ffConjuração variável -15%.^000000
+--------------------------
+Acessório direito:
+^0000ffSP máx. +15%.^000000
+^0000ffPós-conjuração -15%.^000000
+--------------------------
+Tipo: ^777777Acessório^000000
+Defesa: ^7777770^000000
+Peso: ^77777710^000000
+Nível necessário: ^777777130^000000
+Classes: ^777777Todas^000000
+#
 28561#
 Escamas de um lendário dragão adornam esse acessório, que foi usado por um herói que encarou incontáveis lutas e perigos.
 --------------------------
@@ -65012,6 +65195,19 @@ Tipo: ^777777Acessório^000000
 Defesa: ^7777770^000000
 Peso: ^77777750^000000
 Nível necessário: ^777777100^000000
+Classes: ^777777Todas^000000
+#
+28575#
+Esse componente foi encontrado em uma das escavações das Ruínas de Juperos. Exceto alguns ajustes, parece um protótipo finalizado... Mas você só vai ter certeza disso equipando-o!
+--------------------------
+^0000ffPrecisão perfeita +20.^000000
+^0000ffVelocidade de ataque +10%.^000000
+^0000ffDano físico contra todas as propriedades +5%.^000000
+--------------------------
+Tipo: ^777777Acessório^000000
+Defesa: ^7777770^000000
+Peso: ^77777750^000000
+Nível necessário: ^77777780^000000
 Classes: ^777777Todas^000000
 #
 28596#
@@ -66666,6 +66862,23 @@ Peso: ^7777770^000000
 Nível necessário: ^7777771^000000
 Classes: ^777777Todas^000000
 #
+31195#
+Um chapéuzinho feito de chocolate ao leite.
+Não foi feita para comer~!
+--------------------------
+Efeitos abaixo disponíveis somente durante o evento
+--------------------------
+^0000ffEXP ao derrotar monstros +7%.^000000
+--------------------------
+^ff0000Atenção! Esse item não pode ser negociado, derrubado no chão e nem colocado no carrinho, mas pode ser transferido para o armazém.^000000
+--------------------------
+Tipo: ^777777Visual^000000
+Equipa em: ^777777Topo^000000
+Defesa: ^7777770^000000
+Peso: ^7777770^000000
+Nível necessário: ^7777771^000000
+Classes:^777777 Todas^000000
+#
 31199#
 Quem diria que sua mãe estava certa e que se você ficasse comendo jellopy ia crescer pelo no seu rosto? Veja pelo lado positivo: agora você pode desfilar por aí com esse belo cavanhaque, aproveitando que barbas estão na moda! E pra raspar nem é preciso de lâmina de barbear, basta desequipar. Prático, não?
 Tipo: ^777777Visual^000000
@@ -66994,6 +67207,8 @@ Feita com o sumo de 7 limões, essa bebida vai te fazer contrair músculos do ro
 ^0000ffATQ e ATQM +30.^000000
 ^0000ffVelocidade de ataque +1.^000000
 --------------------------
+^ff0000Atenção! Esse item não pode ser negociado, derrubado no chão e nem colocado no carrinho, mas pode ser transferido para o armazém.^000000
+--------------------------
 Tipo: ^777777Visual^000000
 Equipa em: ^777777Baixo^000000
 Peso: ^7777770^000000
@@ -67012,6 +67227,8 @@ Classes: ^777777Todas^000000
 ^0000ffAumenta a velocidade de movimento.^000000
 ^0000ffEfetividade de cura da Pipoca Flavorizada +200%.^000000
 --------------------------
+^ff0000Atenção! Esse item não pode ser negociado, derrubado no chão e nem colocado no carrinho, mas pode ser transferido para o armazém.^000000
+--------------------------
 Tipo: ^777777Visual^000000
 Equipa em: ^777777Meio^000000
 Peso: ^7777770^000000
@@ -67024,6 +67241,8 @@ Assim, ele pode segurar o controle remoto com a mão direita e o mozão com a m�
 --------------------------
 ^CD3278Durante o evento:^000000
 ^0000ffTodos os atributos +5.^000000
+--------------------------
+^ff0000Atenção! Esse item não pode ser negociado, derrubado no chão e nem colocado no carrinho, mas pode ser transferido para o armazém.^000000
 --------------------------
 Tipo: ^777777Visual^000000
 Equipa em: ^777777Topo^000000
@@ -67231,10 +67450,10 @@ Classes: ^777777Todas^000000
 Um chapéu indispensável pra você que gosta de exagerar: é adornado com vários frufrus, como flores, asas e, na ausência de uma ponta, este aqui tem duas. Talvez atraia olhares de julgamento de outras pessoas, mas ignore — eles não têm uma noção de moda tão boa quanto a sua.
 Tipo: ^777777Visual^000000
 Defesa: ^7777770^000000
-Equipa em : ^777777Topo ^000000
-Peso : ^7777770^000000
-Nível necessário : ^7777771^000000
-Classes : ^777777Todas^000000
+Equipa em: ^777777Topo ^000000
+Peso: ^7777770^000000
+Nível necessário: ^7777771^000000
+Classes: ^777777Todas^000000
 #
 31390#
 Um chapéu feito das esperanças das pessoas de lugares onde não neva durante o inverno. A neve cai como uma Nevasca.
@@ -67536,6 +67755,14 @@ Peso: ^7777770 ^000000
 Nível Necessário: ^7777771 ^000000
 Classes: ^777777Todas ^000000
 #
+31506#
+Um acessório muito popular na moda de Malangdo. Tem até um espaço para cobrir as orelhas se você for um Doram. Se não for, fica só como um charminho mesmo.
+Tipo: ^777777Visual ^000000
+Equipa em: ^777777Topo^000000
+Peso: ^7777770 ^000000
+Nível Necessário: ^7777771 ^000000
+Classes: ^777777Todas ^000000
+#
 31510#
 Cabelos curtos são tão bonitos e estilosos quanto os longos. Por isso, essa peruca esbanja um visual bem diferente e moderno, contando ainda com duas imitações de orelhas de gatinho. Mas saiba que, com ela, pode ser que te confundam com algum personagem famoso de Amatsu.
 Tipo: ^777777Visual^000000
@@ -67656,10 +67883,10 @@ Classes: ^777777Todas^000000
 Uma união de beleza e autoridade. Mostre a todos que você não só tem bom gosto pra coisas fofas, mas também possui o poder e autoridade de um membro da família real!
 Tipo: ^777777Visual^000000
 Defesa: ^7777770^000000
-Equipa em : ^777777Topo ^000000
-Peso : ^7777770^000000
-Nível necessário : ^7777771^000000
-Classes : ^777777Todas^000000
+Equipa em: ^777777Topo ^000000
+Peso: ^7777770^000000
+Nível necessário: ^7777771^000000
+Classes: ^777777Todas^000000
 #
 31566#
 Sedosa e confortável, essa estola é parecida com a usada por emissários divinos. O enfeite de Poporing está ali só pra não te confundirem com um enviado celestial de verdade, afinal, eles jamais perderiam seu tempo com bonecagens (mas se está lendo isso, você provavelmente perderia).
@@ -67784,10 +68011,35 @@ Peso: ^7777770^000000
 Nível Necessário: ^7777771^000000
 Classes: ^777777Todas^000000
 #
+31616#
+É melhor você dormir fácil, até porque como é que você vai contar carneirinhos pra dormir se o próprio carneirinho já caiu no sono?
+Tipo: ^777777Visual^000000
+Equipa em: ^777777Baixo^000000
+Peso: ^7777770^000000
+Nível Necessário: ^7777771^000000
+Classes: ^777777Todas^000000
+#
 31617#
 Além de bananeiras, só há UMA coisa em que a Lady Tanee aceita ficar agarrada: a sua cabeça. Será que você anda pensando em muitas bananices? 
 Tipo: ^777777Visual^000000
 Equipa em: ^777777Meio^000000
+Peso: ^7777770^000000
+Nível Necessário: ^7777771^000000
+Classes: ^777777Todas^000000
+#
+31625#
+Proteja-se de tudo com esse cachecol – graças à sua bênção divina, você estará protegido não só da friagem, como também de maus-olhados.
+Tipo: ^777777Visual^000000
+Equipa em: ^777777Baixo^000000
+Peso: ^7777770^000000
+Nível Necessário: ^7777771^000000
+Classes: ^777777Todas^000000
+#
+31626#
+Estas belas asas nascem naturalmente das costas dos seres divinos que pertencem à ordem celeste suprema. Abra as suas asas e voe pelos céus rumo a aventuras repletas de glória!
+^ff0000Atenção! Esse item não pode ser negociado, derrubado no chão e nem colocado no carrinho, mas pode ser transferido para o armazém.^000000
+Tipo: ^777777Visual^000000
+Equipa em: ^777777Baixo^000000
 Peso: ^7777770^000000
 Nível Necessário: ^7777771^000000
 Classes: ^777777Todas^000000
@@ -67970,6 +68222,14 @@ Classes: ^777777Todas^000000
 #
 31672#
 Cabelos adornados similares ao penteado das ninfas do mar. Essa é a oportunidade perfeita de conseguir essas mechas sem ter que mergulhar na água salgada pra fazer uma visitinha às nereidas, afinal, não vale a pena ressecar todo o seu cabelo só por causa de uma peruca, né?
+Tipo: ^777777Visual^000000
+Equipa em: ^777777Baixo^000000
+Peso: ^7777770^000000
+Nível Necessário: ^7777771^000000
+Classes: ^777777Todas^000000
+#
+31684#
+Adote esse penteado com franjinha e trançados que virou rapidamente a maior moda que Amatsu já viu.
 Tipo: ^777777Visual^000000
 Equipa em: ^777777Baixo^000000
 Peso: ^7777770^000000
