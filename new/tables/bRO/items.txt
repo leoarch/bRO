@@ -4121,6 +4121,7 @@
 7358#Pedaço de Crista#
 7359#Pedaço de Crista#
 7360#Convite de Aniversário#
+7361#Ficha de 1 Bilhão#
 7416#Carta de Recomendação#
 7417#Pedido Escrito (A)#
 7418#Pedido Escrito (B)#
@@ -4538,7 +4539,7 @@
 10028#Medalha de Flor#
 10029#Ornamento de Jade#
 10030#Leque de Verão#
-10031#Símbolo da Morte#
+10031#Anel dos Perecidos#
 10032#Coroa Real#
 10033#Peruca do Atirador#
 10034#Máscara de Baile#
@@ -5056,7 +5057,7 @@
 12707#Biscoito da Sorte: Magnificat#
 12708#Biscoito da Sorte: Impositio Manus#
 12709#Doce de Guyak#
-12710#Pudim de Guyak#
+12710#Poção de Guyak#
 12717#Curare#
 12718#Vipera#
 12719#Oblivium#
@@ -5510,7 +5511,7 @@
 13545#Pergam. Revestir Armadura#
 13546#Pergam. Revestir Arma#
 13547#Pergam. Reparar Arma#
-13548#Bolinhos de Carne [10]#
+13548#Cx Cogumelo Grelhado[10]#
 13549#Balas Amargas [10]#
 13550#Caixa de Sashimi#
 13552#Bolos de Coco [10]#
@@ -5656,8 +5657,8 @@
 13989#Caixa de Bomba Ácida [10]#
 13990#Cx Man. Combate de Classe[10]#
 13995#Caixa de Poção do Vento#
-13996#Bolinhos de Carne [100]#
-13997#Bolinhos de Carne [500]#
+13996#Cx Cogumelo Grelhado[100]#
+13997#Cx Cogumelo Grelhado[500]#
 13998#Cx Asas de Mosca Gigantes[500]#
 13999#Balas Amargas [100]#
 14000#Balas Amargas [500]#
@@ -5729,9 +5730,9 @@
 14519#Pergaminho de Revestir Armadura#
 14520#Pergaminho de Revestir Arma#
 14521#Pergaminho de Reparar Arma#
-14522#Bolinho de Carne#
+14522#Cogumelo Grelhado#
 14523#Bala Amarga#
-14524#Sashimi Saboroso#
+14524#Biscoito de Arroz#
 14526#Bolo de Coco#
 14527#Pergaminho de Teleporte para Calabouço#
 14528#Teleporte para PvP#
@@ -6031,9 +6032,9 @@
 17068#Cx Bomba Ácida[50]#
 17069#Cx Bomba Ácida[100]#
 17070#Cx Bomba Ácida[500]#
-17071#Cx Sashimi Saboroso [50]#
-17072#Cx Sashimi Saboroso [100]#
-17073#Cx Sashimi Saboroso [500]#
+17071#Cx Biscoito de Arroz [50]#
+17072#Cx Biscoito de Arroz [100]#
+17073#Cx Biscoito de Arroz [500]#
 17074#Cx Garrafa Vazia [10]#
 17075#Cx Garrafa Vazia [100]#
 17076#Cx Garrafa Vazia [500]#
@@ -6413,6 +6414,7 @@
 19168#Tiara Especial de Kafra#
 19181#Óculos Retrofuturistas#
 19220#Elmo Gigante#
+19243#Laço Encantado de Antonio#
 19244#Rosário Dourado#
 19249#Bênção Celestial#
 19252#Orelhas de Kardui#
@@ -6925,6 +6927,8 @@
 20799#Toalha do Mochileiro#
 20806#Mochila de Amistr Explosiva#
 20815#Capa do Serafim Caído#
+20842#Alforje Mágico do Antonio#
+20843#Bolsa Mágica do Antonio#
 20844#Sacola Mágica de Antonio#
 20853#Asas de Rudo#
 20904#Bata de Etran#
@@ -7481,11 +7485,13 @@
 31399#Véu da Madrugada#
 31406#Peruca Platinada da Nidhogg#
 31407#Peruca Rosa de Alice#
+31432#Seixos Polares#
 31433#Auréola Benevolente#
 31435#Gorro de Tricô Hipster#
 31437#Pequeno Pinguim#
 31438#Capa Angelical#
 31439#Abafadores de Orelha de Coração#
+31445#Fedora de Comodo#
 31449#Tapa-Olho Floreado#
 31450#Peruca Rosa de Waifu#
 31451#Laço Azul Listrado#
@@ -7523,6 +7529,7 @@
 31564#Véu do Submundo#
 31565#Laço com Coroa#
 31566#Estola das Divindades#
+31567#Chifres de Ovelhinha#
 31568#Espíritos Taiji#
 31569#Fones de Última Geração#
 31572#Auréolas Digitais#
@@ -7534,6 +7541,7 @@
 31598#Chapéu Natureba#
 31599#Peruca Bronze de Waifu#
 31600#Doge Branquinho#
+31601#Óculos Modernos#
 31609#Máscara do Aristocrata#
 31611#Manto do Riso Macabro#
 31614#Camarada Fox#
@@ -7564,9 +7572,12 @@
 31670#Peruca de Miyabi#
 31671#Canhões Gêmeos#
 31672#Peruca de Nereida#
+31673#Cestinha de Piquenique#
+31674#Boina de Bemol#
 31684#Peruca Kururinpa#
 31687#Bolsa do Alquimista#
 31688#Poring de Bolso#
+31698#Chapéuzinho Carmesinho#
 31707#Peruca de Youkai#
 31721#Tambores de Invocação#
 31731#Guloseimas Encantadas#
@@ -7583,6 +7594,7 @@
 32227#Grilhões de Hrodvitnir#
 32243#Anel do Desbravador#
 32302#Revólver Ancestral#
+400006#Orc Succesion Helmet#
 490031#Cauda de Petal#
-570002#Concha Ancestral#
+570002#Violino Ancestral#
 580002#Concertina Ancestral#
