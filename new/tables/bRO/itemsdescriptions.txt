@@ -3049,7 +3049,7 @@ Se refinada em +6 ou mais:
 Se refinada em +9 ou mais:
 ^0000ffChance autoconjurar [Dedicação] e [Lâmina de Aura] nv. 1 ou no nível aprendido ao realizar ataques físicos.^000000
 ^FF0000[Carniceiro] nv. 2^000000
-Aumenta o dano físico contra monstros humanoides de acordo com o refino.
+Aumenta o dano físico contra as raças Humanoide e Humano de acordo com o refino.
 ^0000ffRefino +6: 9%.^000000
 ^0000ffRefino +7: 16%.^000000
 ^0000ffRefino +8: 25%.^000000
@@ -3861,7 +3861,7 @@ Classes: ^777777Mercenários e evoluções^000000
 1267#
 ^000088Este é um item de Aluguel [A]. Quando o tempo de validade se esgotar, ele desaparecerá do seu inventário.^000000
 Katar feito para atingir pontos vulneráveis.
-Aumenta em 70% o dano causado em monstros do Tipo Humanoide.
+Dano físico contra as raças Humanoide e Humano +70.
 DEF + 3
 Esquiva Perfeita + 2
 Taxa de Esquiva + 5
@@ -4032,7 +4032,7 @@ Refino +6 ou mais:
 Refino +9 ou mais:
 ^0000ffAo realizar ataques físicos, chance de ativar [velocidade de ataque +100%] por 3 segundos.^000000
 ^FF0000[Carniceiro] nv. 1^000000
-Aumenta o dano físico contra monstros humanoides de acordo com o refino.
+Aumenta o dano físico contra as raças Humanoide e Humano de acordo com o refino.
 ^0000ffRefino +6: 4%.^000000
 ^0000ffRefino +7: 9%.^000000
 ^0000ffRefino +8: 16%.^000000
@@ -4061,7 +4061,7 @@ Refino +6 ou mais:
 Refino +9 ou mais:
 ^0000ffAo realizar ataques físicos, chance de ativar [velocidade de ataque +100%] por 3 segundos.^000000
 ^FF0000[Carniceiro] nv. 1^000000
-Aumenta o dano físico contra monstros humanoides de acordo com o refino.
+Aumenta o dano físico contra as raças Humanoide e Humano de acordo com o refino.
 ^0000ffRefino +6: 4%.^000000
 ^0000ffRefino +7: 9%.^000000
 ^0000ffRefino +8: 16%.^000000
@@ -4175,8 +4175,8 @@ Aparato bélico usado em guerras.
 ^CD3278Duplica a chance de causar um ataque crítico.^000000
 ^6A5ACDEm mapas de GdE e PvP:^000000
 ^0000ffVelocidade de ataque +4%.^000000
-Ao realizar ataques físicos:
-^0000ffChance de reduzir a DEF e DEFM do oponente em 1 por 5 segundos.^000000
+Ao realizar ataques físicos em oponentes da raça Humano:
+^0000ffChance de reduzir a DEF e DEFM do oponente para 1 por 5 segundos.^000000
 A cada refino:
 ^0000ffVelocidade de ataque +1%.^000000
 Tipo: ^777777Katar^000000
@@ -4190,7 +4190,7 @@ Classes: ^777777Mercenários e evoluções^000000
 Aparato bélico usado em guerras. 
 ^CD3278Duplica a chance de causar um ataque crítico.^000000
 ^6A5ACDEm mapas de GdE e PvP:^000000
-^0000ffEm ataques físicos, drena 10% de SP do oponente.^000000
+^0000ffEm ataques físicos, drena 10% de SP de oponentes da raça Humano.^000000
 Tipo: ^777777Katar^000000
 Ataque: ^77777750^000000
 Peso: ^777777120^000000
@@ -4236,7 +4236,7 @@ Classes: ^777777Sicários^000000
 Arma de treinamento para a Guerra do Emperium.
 ^CD3278Duplica a chance de causar um ataque crítico.^000000
 ^6A5ACDEm castelos da GDE TE:^000000
-^0000ffDano físico contra personagens +40%.^000000
+^0000ffDano físico contra as raças Humano e Doram +40%.^000000
 Ao realizar ataques físicos:
 ^0000ffChance de infligir [Sangramento] no oponente.^000000
 Tipo: ^777777Katar^000000
@@ -4348,7 +4348,7 @@ Se refinada em +9 ou mais:
 ^0000ff5% de chance de autoconjurar [Ferimento Mortal] nv. 1 ao realizar ataques físicos.^000000
 ^0000ff20% de chance de autoconjurar [Ferimento Mortal] nv. 2 ao usar [Mammonita].^000000
 ^FF0000[Carniceiro] nv. 1^000000
-Aumenta o dano físico contra monstros humanoides de acordo com o refino.
+Aumenta o dano físico contra as raças Humanoide e Humano de acordo com o refino.
 ^0000ffRefino +6: 4%.^000000
 ^0000ffRefino +7: 9%.^000000
 ^0000ffRefino +8: 16%.^000000
@@ -4398,7 +4398,7 @@ Classes: ^777777Espadachins, Mercadores, Gatunos e evoluções^000000
 Arma de treinamento para a Guerra do Emperium.
 ^a400cdIndestrutível em batalha.^000000
 ^6A5ACDEm castelos da GdE TE:^000000
-^0000ffDano físico contra a raça Humanoide +40%.^000000
+^0000ffDano físico contra as raças Humano e Doram +40%.^000000
 ^0000ffAo realizar ataques físicos, chance de infligir [Hipotermia] no oponente.^000000
 Tipo: ^777777Machado^000000
 Ataque: ^777777100^000000
@@ -4580,8 +4580,8 @@ Classes: ^777777Espadachins, Mercadores e evoluções^000000
 1367#
 Machado usado para sacrificar animais.
 ^a400cdIndestrutível em batalha.^000000
-^0000ffIgnora 100% da DEF da raça Bruto.^000000
-^0000ffAo realizar ataques físicos, pequena chance de infligir [Coma] em oponentes da raça Bruto.^000000
+^0000ffIgnora 40% da DEF das raças Doram e Bruto.^000000
+^0000ffAo realizar ataques físicos, chance de infligir [Coma] em oponentes das raças Doram e Bruto.^000000
 Tipo: ^777777Machado de Duas Mãos^000000
 Ataque: ^777777120^000000
 Peso: ^777777250^000000
@@ -4758,7 +4758,7 @@ Refino +9 ou mais:
 ^0000ffAo realizar ataques físicos, 5% de chance de autoconjurar [Ferimento Mortal] nv. 1.^000000
 ^0000ffAo usar [Mamonita] ou [Choque do Carrinho], 20% de chance de autoconjurar [Ferimento Mortal] nv. 2.^000000
 ^ff0000[Carniceiro] nv. 2^000000
-Aumenta o dano físico contra monstros humanoides de acordo com o refino.
+Aumenta o dano físico contra as raças Humanoide e Humano de acordo com o refino.
 ^0000ffRefino +6: 9%.^000000
 ^0000ffRefino +7: 16%.^000000
 ^0000ffRefino +8: 25%.^000000
@@ -4897,7 +4897,7 @@ Classes: ^777777Espadachins, Mercadores e evoluções^000000
 Aparato bélico usado em guerras.
 ^a400cdIndestrutível em batalha.^000000
 ^6A5ACDEm mapas de GdE e PvP:^000000
-^0000ffEm ataques físicos, drena 10% de SP do oponente.^000000
+^0000ffEm ataques físicos, drena 10% de SP de oponentes da raça Humano.^000000
 Tipo: ^777777Machado de Duas Mãos^000000
 Ataque: ^77777750^000000
 Peso: ^777777250^000000
@@ -4909,12 +4909,12 @@ Classes: ^777777Espadachins, Mercadores e evoluções^000000
 Aparato bélico usado em guerras.
 ^a400cdIndestrutível em batalha.^000000
 ^6A5ACDEm mapas de GdE e PvP:^000000
-^0000ffIgnora 30% da DEF dos personagens.^000000
-^0000ffDano físico contra personagens +40%.^000000
+^0000ffIgnora 30% da DEF da raça Humano.^000000
+^0000ffDano físico contra a raça Humano +40%.^000000
 Refino +6 ou mais:
 ^0000ffDano de [Brandir Machado] e [Arremesso de Machado] +80%.^000000
 Refino +9 ou mais:
-^0000ffDano físico contra personagens +60% adicional.^000000
+^0000ffDano físico contra a raça Humano +60% adicional.^000000
 Tipo: ^777777Machado de Duas Mãos^000000
 Ataque: ^777777300^000000
 Peso: ^777777550^000000
@@ -4928,7 +4928,7 @@ Classes: ^777777Espadachins, Mercadores e evoluções^000000
 Arma de treinamento para a Guerra do Emperium.
 ^a400cdIndestrutível em batalha.^000000
 ^6A5ACDEm castelos da GdE TE:^000000
-^0000ffDano físico contra a raça Humanoide +40%.^000000
+^0000ffDano físico contra as raças Humano e Doram +40%.^000000
 ^0000ffAo realizar ataques físicos, chance de infligir [Atordoamento] no oponente.^000000
 Tipo: ^777777Machado de Duas Mãos^000000
 Ataque: ^777777150^000000
@@ -5229,7 +5229,7 @@ Se refinada em +9 ou mais:
 ^0000ffSe equipada por Cavaleiros: chance de autoconjurar [Ferimento Mortal] nv. 2 ao usar [Perfurar].^000000
 ^0000ffSe equipada por Templários: chance de autoconjurar [Gloria Domini] nv. 5 ao realizar ataques físicos.^000000
 ^FF0000[Carniceiro] nv. 1^000000
-Aumenta o dano físico contra monstros humanoides de acordo com o refino.
+Aumenta o dano físico contra as raças Humanoide e Humano de acordo com o refino.
 ^0000ffRefino +6: 4%.^000000
 ^0000ffRefino +7: 9%.^000000
 ^0000ffRefino +8: 16%.^000000
@@ -5288,11 +5288,11 @@ Classe: ^777777Guardião Real^000000
 1436#
 Aparato bélico usado em guerras.
 ^6A5ACDEm mapas de GdE e PvP:^000000
-^0000ffDano físico contra personagens +60%.^000000
+^0000ffDano físico contra a raça Humano +60%.^000000
 Refino +6 ou mais:
 ^0000ffDano de [Estocada Precisa] e [Lança das Mil Pontas] +80%.^000000
 Refino +9 ou mais:
-^0000ffDano físico contra personagens +30% adicional.^000000
+^0000ffDano físico contra a raça Humano +30%.^000000
 Tipo: ^777777Lança de Duas Mãos^000000
 Ataque: ^777777150^000000
 Peso: ^77777785^000000
@@ -5305,7 +5305,7 @@ Classes: ^777777Espadachins e evoluções^000000
 ^000088Item de aluguel.^000000
 Arma de treinamento para a Guerra do Emperium.
 ^6A5ACDEm castelos da GDE TE:^000000
-^0000ffDano físico contra personagens +40%.^000000
+^0000ffDano físico contra as raças Humano e Doram +40%.^000000
 Ao realizar ataques físicos:
 ^0000ffChance de infligir Maldição no oponente.^000000
 Tipo: ^777777Lança^000000
@@ -5567,7 +5567,7 @@ Classes: ^777777Espadachins e evoluções^000000
 #
 1469#
 A lendária lança de Longino, o soldado romano que perfurou Jesus na cruz.
-^0000ffDano físico contra as raças Humanoide e Anjo +10%.^000000
+^0000ffDano físico contra as raças Humanoide, Humano e Anjo +10%.^000000
 Tipo: ^777777Lança de Duas Mãos^000000
 Ataque: ^777777180^000000
 Propriedade: ^777777Sombrio^000000
@@ -5783,7 +5783,7 @@ Se refinada em +9 ou mais:
 ^0000ffSe equipada por Cavaleiros: chance de autoconjurar [Ferimento Mortal] nv. 2 ao usar [Perfurar].^000000
 ^0000ffSe equipada por Templários: chance de autoconjurar [Gloria Domini] nv. 5 ao realizar ataques físicos.^000000
 ^FF0000[Carniceiro] nv. 1^000000
-Aumenta o dano físico contra monstros humanoides de acordo com o refino.
+Aumenta o dano físico contra as raças Humanoide e Humano de acordo com o refino.
 ^0000ffRefino +6: 4%.^000000
 ^0000ffRefino +7: 9%.^000000
 ^0000ffRefino +8: 16%.^000000
@@ -5848,7 +5848,7 @@ Classes: ^777777Espadachins e evoluções^000000
 1492#
 Aparato bélico usado em guerras.
 ^6A5ACDEm mapas de GdE e PvP:^000000
-^0000ffDano físico contra personagens +80%.^000000
+^0000ffDano físico contra a raça Humano +80%.^000000
 Refino +6 ou mais:
 ^0000ffDano de [Lança do Destino] +50%.^000000
 ^0000ffDano de [Perfurar em Espiral] +100%.^000000
@@ -5880,7 +5880,7 @@ Classes: ^777777Espadachins e evoluções^000000
 ^000088Item de aluguel.^000000
 Arma de treinamento para a Guerra do Emperium.
 ^6A5ACDEm castelos da GDE TE:^000000
-^0000ffDano físico contra personagens +40%.^000000
+^0000ffDano físico contra as raças Humano e Doram +40%.^000000
 Ao realizar ataques físicos:
 ^0000ffChance de infligir Cegueira no oponente.^000000
 Tipo: ^777777Lança de Duas Mãos^000000
@@ -6203,7 +6203,7 @@ Classes: ^777777Noviços e evoluções^000000
 1527#
 Maça de cabeça redonda feita de ferro temperado. Arma pesada, mas muito poderosa.
 ^a400cdIndestrutível em batalha.^000000
-^0000ffDano físico contra a raça Humanoide +10%.^000000
+^0000ffDano físico contra as raças Humanoide e Humano +10%.^000000
 ^0000ffDano físico contra as propriedades Terra e Maldito +10%.^000000
 Tipo: ^777777Maça^000000
 Ataque: ^777777165^000000
@@ -6415,7 +6415,7 @@ Refino +9 ou mais:
 ^0000ffVelocidade de ataque +5% adicional.^000000
 ^0000ffAo realizar ataques físicos,  chance de infligir [Atordoamento] no oponente.^000000
 ^ff0000[Carniceiro] nv. 1^000000
-Aumenta o dano físico contra monstros humanoides de acordo com o refino.
+Aumenta o dano físico contra as raças Humanoide e Humano de acordo com o refino.
 ^0000ffRefino +6: 4%.^000000
 ^0000ffRefino +7: 9%.^000000
 ^0000ffRefino +8: 16%.^000000
@@ -6759,7 +6759,7 @@ Refino +6 ou mais:
 Refino +9 ou mais:
 ^0000ffAo realizar ataques físicos, chance de ativar [ATQ +200] por 3 segundos.^000000
 ^ff0000[Carniceiro] nv. 1^000000
-Aumenta o dano físico contra monstros humanoides de acordo com o refino.
+Aumenta o dano físico contra as raças Humanoide e Humano de acordo com o refino.
 ^0000ffRefino +6: 4%.^000000
 ^0000ffRefino +7: 9%.^000000
 ^0000ffRefino +8: 16%.^000000
@@ -6863,10 +6863,10 @@ Classes: ^777777Sacerdotes, Sábios, Mestres Taekwons e evoluções^000000
 1587#
 Aparato bélico usado em guerras.
 ^6A5ACDEm mapas de GdE e PvP:^000000
-^0000ffIgnora 30% da DEF dos personagens.^000000
-^0000ffDano físico contra personagens +80%.^000000
+^0000ffIgnora 30% da DEF da raça Humano.^000000
+^0000ffDano físico contra a raça Humano +80%.^000000
 A cada refino:
-^0000ffDano físico contra personagens +1%.^000000
+^0000ffDano físico contra a raça Humano +1% adicional.^000000
 Refino +9 ou mais:
 ^0000ffAo realizar ataques físicos, chance de ativar [ATQ +200] por 3 segundos.^000000
 Tipo: ^777777Livro^000000
@@ -6905,8 +6905,8 @@ Classes: ^777777Feiticeiros e Arcebispos^000000
 Arma de treinamento para a Guerra do Emperium.
 ^6A5ACDEm castelos da GDE TE:^000000
 ^0000ffEfetividade de cura +5%.^000000
-^0000ffDano físico contra a raça Humanoide +40%.^000000
-^0000ffDano mágico contra a raça Humanoide +5%.^000000
+^0000ffDano físico contra as raças Humano e Doram +40%.^000000
+^0000ffDano mágico contra as raças Humano e Doram +5%.^000000
 ^0000ffAo realizar ataques físicos, chance de infligir [Cegueira] no oponente.^000000
 Tipo: ^777777Livro^000000 
 Ataque: ^777777120^000000 
@@ -7706,7 +7706,7 @@ Arma de treinamento para a Guerra do Emperium.
 ^a400cdIndestrutível em batalha.^000000
 ^6A5ACDEm castelos da GdE TE:^000000
 ^0000ffEfetividade de cura +5%.^000000
-^0000ffDano mágico contra a raça Humanoide +10%.^000000
+^0000ffDano mágico contra as raças Humano e Doram +10%.^000000
 ^0000ffAo realizar ataques mágicos, chance de infligir [Cegueira] no oponente.^000000
 Tipo: ^777777Cajado^000000
 Ataque: ^77777750^000000
@@ -8618,7 +8618,7 @@ Refino +6 ou mais:
 Refino +9 ou mais:
 ^0000ffDano de [Rajada de Flechas] +20%.^000000
 ^ff0000[Carniceiro] nv. 1^000000
-Aumenta o dano físico contra monstros humanoides de acordo com o refino.
+Aumenta o dano físico contra as raças Humanoide e Humano de acordo com o refino.
 ^0000ffRefino +6: 4%.^000000
 ^0000ffRefino +7: 9%.^000000
 ^0000ffRefino +8: 16%.^000000
@@ -9171,7 +9171,7 @@ Se refinada em +6 ou mais:
 Se refinada em +9 ou mais:
 ^0000ffChance de ativar [Impacto Psíquico] nv. 5 e [Diminuir Agilidade] nv. 1 ao realizar ataques físicos.^000000
 ^FF0000[Carniceiro] nv. 1^000000
-Aumenta o dano físico contra monstros humanoides de acordo com o refino.
+Aumenta o dano físico contra as raças Humanoide e Humano de acordo com o refino.
 ^0000ffRefino +6: 4%.^000000
 ^0000ffRefino +7: 9%.^000000
 ^0000ffRefino +8: 16%.^000000
@@ -9200,7 +9200,7 @@ Se refinada em +9 ou mais:
 ^0000ffAutoconjura [Zen] ao usar [Fúria Interior].^000000
 ^0000ffTempo de conjuração de [Punho Supremo de Asura] -100%.^000000
 ^FF0000[Carniceiro] nv. 1^000000
-Aumenta o dano físico contra monstros humanoides de acordo com o refino.
+Aumenta o dano físico contra as raças Humanoide e Humano de acordo com o refino.
 ^0000ffRefino +6: 4%.^000000
 ^0000ffRefino +7: 9%.^000000
 ^0000ffRefino +8: 16%.^000000
@@ -9241,9 +9241,9 @@ Classe: ^777777Sacerdote/Monge e suas respectivas evoluções^000000
 1832#
 Aparato bélico usado em guerras.
 ^6A5ACDEm mapas de GdE e PvP:^000000
-^0000ffDano físico contra personagens +100%.^000000
+^0000ff"Dano físico contra a raça Humano +100%.^000000
 Refino +8 ou mais:
-^0000ffDano físico contra personagens +20% adicional.^000000
+^0000ffDano físico contra a raça Humano +20% adicional.^000000
 Refino +10 ou mais:
 ^0000ffDrena 500 de HP do usuário a cada 3 segundos.^000000
 Ao usar [Fúria Interior]:
@@ -9261,7 +9261,7 @@ Classes: ^777777Sacerdotes, Monges e evoluções^000000
 ^ff0000Não pode ser negociado.^000000
 ^000088Item de aluguel^000000
 *Funcionalidades ativas dentro da área da Guerra do Emperium TE*
-Aumenta o ataque físico em +40% contra outros jogadores.
+Dano físico contra as raças Humano e Doram +40.
 Chance de causar Hipotermia ao atacar fisicamente.
 Tipo: ^777777Soqueira^000000
 Ataque: ^777777150^000000
@@ -9667,7 +9667,7 @@ Se refinada em +6 ou mais:
 Se refinada em +9 ou mais:
 ^0000ffChance de autoconjurar [Destino nas Cartas] nv. 5 ao usar [Vulcão de Flechas].^000000
 ^FF0000[Carniceiro] nv. 1^000000
-Aumenta o dano físico contra monstros humanoides de acordo com o refino.
+Aumenta o dano físico contra as raças Humanoide e Humano de acordo com o refino.
 ^0000ffRefino +6: 4%.^000000
 ^0000ffRefino +7: 9%.^000000
 ^0000ffRefino +8: 16%.^000000
@@ -9711,7 +9711,7 @@ Classe: ^777777Bardo e suas respectivas evoluções^000000
 ^000088Item de aluguel.^000000
 Arma de treinamento para a Guerra do Emperium.
 ^6A5ACDEm castelos da GDE TE:^000000
-^0000ffDano físico contra personagens +40%.^000000
+^0000ffDano físico contra as raças Humano e Doram +40%.^000000
 Ao realizar ataques físicos:
 ^0000ffChance de infligir Envenenamento no oponente.^000000
 Tipo: ^777777Instrumento Musical^000000
@@ -10117,7 +10117,7 @@ Se refinada em +6 ou mais:
 Se refinada em +9 ou mais:
 ^0000ffChance de autoconjurar [Destino nas Cartas] nv. 5 ao usar [Vulcão de Flechas].^000000
 ^FF0000[Carniceiro] nv. 1^000000
-Aumenta o dano físico contra monstros humanoides de acordo com o refino.
+Aumenta o dano físico contra as raças Humanoide e Humano de acordo com o refino.
 ^0000ffRefino +6: 4%.^000000
 ^0000ffRefino +7: 9%.^000000
 ^0000ffRefino +8: 16%.^000000
@@ -10174,7 +10174,7 @@ Classe: ^777777Odalisca e suas respectivas evoluções^000000
 ^000088Item de aluguel.^000000
 Arma de treinamento para a Guerra do Emperium.
 ^6A5ACDEm castelos da GDE TE:^000000
-^0000ffDano físico contra personagens +40%.^000000
+^0000ffDano físico contra as raças Humano e Doram +40%.^000000
 Ao realizar ataques físicos:
 ^0000ffChance de infligir Cegueira no oponente.^000000
 Tipo: ^777777Chicote^000000
@@ -10588,10 +10588,10 @@ Aparato bélico usado em guerras.
 ^a400cdIndestrutível em batalha.^000000
 ^0000ffATQM +225.^000000
 ^6A5ACDEm mapas de GdE e PvP:^000000
-^0000ffIgnora 25% da DEFM dos personagens.^000000
-^0000ffDano mágico contra personagens +20%.^000000
+^0000ffIgnora 25% da DEFM da raça Humano.^000000
+^0000ffDano mágico contra a raça Humano +25%.^000000
 Refino +6 ou mais:
-^0000ffDano mágico contra personagens +15% adicional.^000000
+^0000ffDano mágico +15%.^000000
 Refino +9 ou mais:
 ^0000ffConjuração variável -20%.^000000
 ^0000ffConjuração fixa -0,2 segundos.^000000
@@ -10610,7 +10610,7 @@ Arma de treinamento para a Guerra do Emperium.
 ^0000ffATQM +130.^000000
 ^6A5ACDEm castelos da GdE TE:^000000
 ^0000ffEfetividade de cura +5%.^000000
-^0000ffDano mágico contra a raça Humanoide +20%.^000000
+^0000ffDano mágico contra as raças Humano e Doram +20%.^000000
 ^0000ffAo realizar ataques mágicos, chance de infligir [Atordoamento] no oponente.^000000
 Tipo: ^777777Cajado de Duas Mãos^000000
 Ataque: ^77777750^000000
@@ -11452,7 +11452,7 @@ Escudo de treinamento para a Guerra do Emperium.
 ^0000ffDEFM +15.^000000
 ^6A5ACDEm castelos da GDE TE:^000000
 ^0000ffHP e SP máx. +100.^000000
-^0000ffResistência a personagens +15%.^000000
+^0000ffResistência a raça Humano +15%.^000000
 Tipo: ^777777Escudo^000000
 Defesa: ^77777715^000000
 Peso: ^7777770^000000
@@ -11466,7 +11466,7 @@ Escudo de treinamento para a Guerra do Emperium.
 ^0000ffDEFM +5.^000000
 ^6A5ACDEm castelos da GDE TE:^000000
 ^0000ffHP máx. +200.^000000
-^0000ffResistência a personagens +20%.^000000
+^0000ffResistência a raça Humano +20%.^000000
 Tipo: ^777777Escudo^000000
 Defesa: ^77777725^000000
 Peso: ^7777770^000000
@@ -11480,7 +11480,7 @@ Escudo de treinamento para a Guerra do Emperium.
 ^0000ffDEFM +25.^000000
 ^6A5ACDEm castelos da GDE TE:^000000
 ^0000ffSP máx. +200.^000000
-^0000ffResistência a personagens +10%.^000000
+^0000ffResistência a raça Humano +10%.^000000
 Tipo: ^777777Escudo^000000
 Defesa: ^7777775^000000
 Peso: ^7777770^000000
@@ -12358,7 +12358,7 @@ Classes que utilizam: ^777777Todas as classes, exceto Aprendiz^000000
 #
 2289#
 Excrementos de animal em forma de chapéu. Cheira muito mal.
-^0000ffReduz em 10% o dano causado por monstros da raça Humanoide.^000000
+^0000ffResistência as raças Humanoide e Humano +10%.^000000
 Classe: ^777777Equipamento para a cabeça^000000
 Defesa: ^7777770^000000
 Equipa em: ^777777Topo^000000
@@ -12375,7 +12375,7 @@ Classes que utilizam: ^777777Todas^000000
 #
 2291#
 Máscara preta em forma de borboleta. Dá um ar pervertido ao usuário.
-^0000ffAumenta em 3% o dano causado em monstros da raça Humanoide.^000000
+^0000ffAumenta em 3% o dano causado as raças Humanoide e Humano.^000000
 Classe: ^777777Equipamento para a cabeça^000000
 Defesa: ^7777770^000000
 Equipa em: ^777777Meio^000000
@@ -13093,7 +13093,7 @@ Classes que utilizam: ^777777Gatuno e evoluções; Ninja^000000
 #
 2379#
 Armadura que aumenta a chance de sobrevivência no campo de batalha. Pode ser utilizada em conjunto com outros equipamentos.
-Reduz em 2% o dano recebido de Humanoides.
+Resistência as raças Humanoide e Humano +2%.
 HP Máx + 150. DEFM + 2.
 Quando equipada juntamente com as Botas de Combate e o Manteau do Comandante:
 O usuário receberá 3x mais dano de monstros que não sejam Humanoides;
@@ -13109,7 +13109,7 @@ Classes que utilizam: ^777777Mago e evoluções, Espiritualista^000000
 #
 2380#
 Armadura desenvolvida para o guerreiro que toma a frente da batalha. Pode ser utilizada em conjunto com outros equipamentos.
-Reduz em 2% o dano recebido de Humanoides.
+Resistência as raças Humanoide e Humano +2%.
 HP Máx + 150. DEFM + 2.
 Quando equipada juntamente com as Botas de Combate e o Manteau do Comandante:
 O usuário receberá 3x mais dano de monstros que não sejam Humanoides;
@@ -13373,7 +13373,7 @@ Classes que utilizam: ^777777Todas as classes, exceto Aprendiz^000000
 2408#
 Algemas de aço com uma corrente presa a uma pesada bola para restringir os movimentos de  escravos ou prisioneiros, de modo que eles não escapem. Geralmente usada ao redor dos tornozelos.
 Classe: ^777777Calçado^000000
-Defesa: ^77777715^000000
+Defesa: ^77777718^000000
 Peso: ^777777300^000000
 Classes que utilizam: ^777777Todas^000000
 #
@@ -13702,7 +13702,7 @@ Calçado fabricado no Reino Maroll.
 ^0000ffHP máx. +10%.^000000
 ^0000ffResistência as raças Humanoide e Humano +4%.^000000
 Ao receber danos físicos:
-0000ffChance de autoconjurar [Aumentar Agilidade] nv. 1.^000000
+^0000ffChance de autoconjurar [Aumentar Agilidade] nv. 1.^000000
 Tipo: ^777777Calçado^000000 
 Defesa: ^7777770^000000 
 Peso: ^7777770^000000
@@ -14036,9 +14036,10 @@ Classes: ^777777Todas^000000
 #
 2483#
 Calçado ideal para usar em conflitos. 
+--------------------------
 ^0000ffDEFM +1.^000000
-^6A5ACDEm mapas de GdE e PvP:^000000
-^0000ffResistência a personagens +2%.^000000
+^0000ffResistência a raça Humano +2%.^000000
+--------------------------
 Tipo: ^777777Calçado^000000
 Defesa: ^77777730^000000
 Peso: ^77777775^000000
@@ -14047,9 +14048,10 @@ Classes: ^777777Espadachins, Mercadores e evoluções^000000
 #
 2484#
 Calçado ideal para usar em conflitos. 
+--------------------------
 ^0000ffDEFM +5.^000000
-^6A5ACDEm mapas de GdE e PvP:^000000
-^0000ffResistência a personagens +1%.^000000
+^0000ffResistência a raça Humano +1%.^000000
+--------------------------
 Tipo: ^777777Calçado^000000
 Defesa: ^77777720^000000
 Peso: ^77777750^000000
@@ -14058,14 +14060,15 @@ Classes: ^777777Espadachins, Mercadores, Gatunos, Arqueiros, Taekwons, Mestres T
 #
 2485#
 Calçado ideal para usar em conflitos. 
+--------------------------
 ^0000ffDEFM +10.^000000
-^6A5ACDEm mapas de GdE e PvP:^000000
-^0000ffResistência a personagens +1%.^000000
+^0000ffResistência a raça Humano +1%.^000000
+--------------------------
 Tipo: ^777777Calçado^000000
 Defesa: ^77777715^000000
 Peso: ^77777735^000000
 Nível necessário: ^77777795^000000
-Classes: ^777777Aprendizes, Superaprendizes, Magos, Noviços, Espiritualistas e evoluções^000000
+Classes: ^777777Aprendizes, Magos, Noviços, Espiritualistas e evoluções^000000
 #
 2486#
 Estas botas das sombras são feitas com forças das trevas. Seu criador colocou um feitiço para proteger o usuário do perigo.
@@ -14150,7 +14153,7 @@ Calçado de treinamento para a Guerra do Emperium.
 ^6A5ACDEm castelos da GDE TE:^000000
 ^0000ffHP e SP máx. +150.^000000
 ^0000ffTolerância a Congelamento +25%.^000000
-^0000ffDano físico e mágico contra personagens +5%.^000000
+^0000ffDano físico e mágico contra as raças Humano e Doram +5%.^000000
 Tipo: ^777777Calçado^000000
 Defesa: ^7777775^000000
 Peso: ^7777770^000000
@@ -14165,7 +14168,7 @@ Calçado de treinamento para a Guerra do Emperium.
 ^0000ffHP máx. +200.^000000
 ^0000ffSP máx. +100.^000000
 ^0000ffTolerância a Congelamento +25%.^000000
-^0000ffDano físico contra personagens +10%.^000000
+^0000ffDano físico contra as raças Humano e Doram +10%.^000000
 Tipo: ^777777Calçado^000000
 Defesa: ^77777710^000000
 Peso: ^7777770^000000
@@ -14181,7 +14184,7 @@ Calçado de treinamento para a Guerra do Emperium.
 ^0000ffHP máx. +100.^000000
 ^0000ffSP máx. +200.^000000
 ^0000ffTolerância a Congelamento +25%.^000000
-^0000ffDano mágico contra personagens +5%.^000000
+^0000ffDano mágico contra as raças Humano e Doram +5%.^000000
 Tipo: ^777777Calçado^000000
 Defesa: ^7777775^000000
 Peso: ^7777770^000000
@@ -14537,7 +14540,7 @@ Classes que utilizam: ^777777Mago, Noviço, Arqueiro, e evoluções; Espirituali
 #
 2540#
 Um manteau com o espírito e a força da vida selvagem.
-Reduz em 1% o dano recebido de Humanoides.
+Resistência as raças Humanoide e Humano +1%.
 HP Máx + 50. DEFM + 1.
 Tipo: ^777777Capa^000000
 Defesa: ^77777720^000000
@@ -14902,9 +14905,10 @@ Classes: ^777777Todas^000000
 #
 2586#
 Capa ideal para usar em conflitos. 
+--------------------------
 ^0000ffDEFM +1.^000000
-^6A5ACDEm mapas de GdE e PvP:^000000
-^0000ffResistência a personagens +2%.^000000
+^0000ffResistência a raça Humano +2%.^000000
+--------------------------
 Tipo: ^777777Capa^000000
 Defesa: ^77777732^000000
 Peso: ^77777760^000000
@@ -14913,9 +14917,10 @@ Classes: ^777777Todas, exceto Aprendizes^000000
 #
 2587#
 Capa ideal para usar em conflitos. 
+--------------------------
 ^0000ffDEFM +10.^000000
-^6A5ACDEm mapas de GdE e PvP:^000000
-^0000ffResistência a personagens +1%.^000000
+^0000ffResistência a raça Humano +1%.^000000
+--------------------------
 Tipo: ^777777Capa^000000
 Defesa: ^77777715^000000
 Peso: ^77777740^000000
@@ -16355,7 +16360,7 @@ Classes que utilizam: ^777777Todas^000000
 Uma imitação do anel lendário que o Antigo Rei Sábio usava para se comunicar com os animais.
 Neste anel estão reunidos o poder mágico de Rune-Midgard, a tecnologia de Schwartzwald e a habilidade alquímica de Arunafeltz.
 Ao equipar-se com este anel, você pode falar livremente com as pessoas do Outro Mundo.
-HP máximo + 55, SP máximo + 22.
+HP máximo + 50, SP máximo + 20.
 Tipo: ^777777Acessório^000000
 Defesa: ^7777770^000000
 Peso: ^77777710^000000
@@ -17264,7 +17269,7 @@ Classes: ^777777Todas^000000
 Anel de treinamento para a Guerra do Emperium. 
 ^6A5ACDEm castelos da GDE TE:^000000
 ^0000ffHP máx. +100.^000000
-^0000ffResistência a personagens +5%.^000000
+^0000ffResistência as raças Humano e Doram +5%.^000000
 Tipo: ^777777Acessório^000000
 Defesa: ^7777770^000000
 Peso: ^7777770^000000
@@ -17276,7 +17281,7 @@ Classes: ^777777Todas^000000
 ^000088Item de aluguel^000000
 Anel de treinamento para a Guerra do Emperium. 
 ^6A5ACDEm castelos da GDE TE:^000000
-^0000ffDano físico e mágico contra personagens +5%.^000000
+^0000ffDano físico e mágico contra as raças Humano e Doram +5%.^000000
 Tipo: ^777777Acessório^000000
 Defesa: ^7777770^000000
 Peso: ^7777770^000000
@@ -17289,7 +17294,7 @@ Classes: ^777777Todas^000000
 Anel de treinamento para a Guerra do Emperium. 
 ^0000ffDEFM +5.^000000
 ^6A5ACDEm castelos da GDE TE:^000000
-^0000ffResistência a personagens +5%.^000000
+^0000ffResistência as raças Humano e Doram +5%.^000000
 Tipo: ^777777Acessório^000000
 Defesa: ^7777770^000000
 Peso: ^7777770^000000
@@ -17397,8 +17402,11 @@ Classes: ^777777Classes 2 T., Mestres Taekwon, Espiritualistas e evoluções, Ka
 #
 2959#
 Você pode ler o nome Hachiko nesta coleira. De acordo com as lendas, essa coleira foi usada por um cão da raça Shiba Inu que pertenceu ao Atroce, antes dele se tornar um licantropo amaldiçoado, quando ainda era um guerreiro humano. Dizem que ainda existe um laço profundo ligando este item ao MVP. Será verdade? Você sente apenas uma forte sensação de lealdade ao segurar esta coleira. O que acontecerá se você usá-la?
+--------------------------
 ^0000ffAGI +2.^000000
-^0000ffResistência a raça Bruto +3%.^000000
+--------------------------
+^0000ffResistência as raças Bruto e Doram +3%.^000000
+--------------------------
 Tipo: ^777777Acessório^000000
 Defesa: ^7777770^000000
 Peso: ^77777730^000000
@@ -17440,7 +17448,7 @@ Anel desenvolvido em Geffen para melhorar o esforço mental do usuário.
 ^FF6347Conjunto^000000
 ^FF6347[Traje Anti-Magia]^000000
 ^0000ffPós-conjuração -5%.^000000
-^0000ffResistência a raça Humanoide +5%.^000000
+^0000ffResistência as raças Humanoide e Humano +5%.^000000
 Tipo: ^777777Acessório^000000
 Defesa: ^7777770^000000
 Peso: ^77777710^000000
@@ -18814,10 +18822,15 @@ Utilização: ^777777Acessório^000000
 Peso: ^7777771^000000
 #
 4150#
-^0000ffAdiciona +2 de DEF, +5 de DEFM se a armadura não tiver sido aprimorada além de +5.^000000 
-Combine com um item para utilizar sua propriedade. 
-Classe: ^777777Carta^000000
-Utilização: ^777777Armadura^000000
+^0000ffDEF +2.^000000
+^0000ffDEFM +5.^000000
+--------------------------
+Refino +6 ou mais:
+^0000ffDEF^000000 ^ff0000-2.^000000
+^0000ffDEFM^000000 ^ff0000-5.^000000
+--------------------------
+Tipo: ^777777Carta^000000
+Equipa em: ^777777Armadura^000000
 Peso: ^7777771^000000
 #
 4151#
@@ -18836,13 +18849,18 @@ Equipa em: ^777777Acessório^000000
 Peso: ^7777771^000000
 #
 4153#
-^0000ffInflige 30% a mais de dano em Estrelas-do-Mar.^000000
 ^0000ffATQ +5.^000000
-^0000ffSe o usuário estiver equipado com itens que tenham as cartas Caranguejo, Molusco e Estrela-do-Mar ao mesmo tempo, adiciona-se uma chance de 30% de ganhar o item ‘Peixe Cru’ toda vez que um monstro do tipo Peixe for derrotado. 
-Inflige 30% a mais de dano em monstros de propriedade Água.^000000
-Combine com um item para utilizar sua propriedade. 
-Classe: ^777777Carta^000000
-Utilização: ^777777Arma^000000
+^0000ffDano físico contra o monstro Estrela-do-Mar +30%.^000000
+--------------------------
+^fa4e09Conjunto^000000
+^fa4e09[Carta Molusco]^000000
+^fa4e09[Carta Estrela-do-Mar]^000000
+^0000ffDano físico contra oponentes de propriedade Água +30%.^000000
+Ao derrotar monstros da raça Peixe:
+^0000ff30% de chance de derrubar Peixe Cru.^000000
+--------------------------
+Tipo: ^777777Carta^000000
+Equipa em: ^777777Arma^000000
 Peso: ^7777771^000000
 #
 4154#
@@ -19253,10 +19271,13 @@ Equipa em: ^777777Calçado^000000
 Peso: ^7777771^000000
 #
 4200#
-^0000ffDEFM +7 se os sapatos não tiverem sido aprimorados além de +5.^000000
-Combine com um item para utilizar sua propriedade. 
-Classe: ^777777Carta^000000
-Utilização: ^777777Calçado^000000
+^0000ffDEFM +7.^000000
+--------------------------
+Refino +6 ou mais:
+^0000ffDEFM^000000 ^ff0000-7.^000000
+--------------------------
+Tipo: ^777777Carta^000000
+Equipa em: ^777777Calçado^000000
 Peso: ^7777771^000000
 #
 4201#
@@ -19283,7 +19304,7 @@ Utilização: ^777777Arma^000000
 Peso: ^7777771^000000
 #
 4204#
-^0000ffResistência a monstros da raça Bruto -20%.^000000
+^0000ffResistência as raças Bruto e Doram^000000 ^ff0000-20%.^000000
 ^0000ffEXP adquirida por monstros da raça Bruto +10%.^000000
 Tipo: ^777777Carta^000000
 Equipa em: ^777777Calçado^000000
@@ -19476,12 +19497,17 @@ Utilização: ^777777Acessório^000000
 Peso: ^7777771^000000
 #
 4229#
-INT +1. 
-Tempo de conjuração variável -5%.
-^3CB371Conjunto de cartas Alarme, Relógio e Punk:^000000
-DEF e DEFM +3.
-Classe: ^777777Carta^000000
-Utilização: ^777777Equipamento para a cabeça^000000
+^0000ffINT +1.^000000
+^0000ffConjuração variável -5%.^000000
+--------------------------
+^fa4e09Conjunto^000000
+^fa4e09[Carta Alarme]^000000
+^fa4e09[Carta Relógio]^000000
+^fa4e09[Carta Punk]^000000
+^0000ffDEF e DEFM +3.^000000
+--------------------------
+Tipo: ^777777Carta^000000
+Equipa em: ^777777Equipamento para Cabeça^000000
 Peso: ^7777771^000000
 #
 4230#
@@ -19566,10 +19592,15 @@ Equipa em: ^777777Calçado^000000
 Peso: ^7777771^000000
 #
 4240#
-^0000ffCaso o Escudo tenha aprimoramento +0/+1/+2/+3/+4/+5, adiciona +2 de DEF e +3 de DEFM.^000000
-Combine com um item para utilizar sua propriedade. 
-Classe: ^777777Carta^000000
-Utilização: ^777777Escudo^000000
+^0000ffDEF +2.^000000
+^0000ffDEFM +3.^000000
+--------------------------
+Refino +6 ou mais:
+^0000ffDEF^000000 ^ff0000-2.^000000
+^0000ffDEFM^000000 ^ff0000-3.^000000
+--------------------------
+Tipo: ^777777Carta^000000
+Equipa em: ^777777Escudo^000000
 Peso: ^7777771^000000
 #
 4241#
@@ -19581,11 +19612,13 @@ Equipa em: ^777777Equipamento para Cabeça^000000
 Peso: ^7777771^000000
 #
 4242#
-^0000ffVIT +2.
-Caso a Armadura tenha aprimoramento +9 ou maior, adiciona +800 ao HP máximo.^000000
-Combine com um item para utilizar sua propriedade. 
-Classe: ^777777Carta^000000
-Utilização: ^777777Armadura^000000
+^0000ffVIT +2.^000000
+--------------------------
+Refino +9 ou mais:
+^0000ffHP máx. +800.^000000
+--------------------------
+Tipo: ^777777Carta^000000
+Equipa em: ^777777Armadura^000000
 Peso: ^7777771^000000
 #
 4243#
@@ -19778,11 +19811,14 @@ Utilização: ^777777Acessório^000000
 Peso: ^7777771^000000
 #
 4266#
-^0000ffVIT +1.
-Taxa de Esquiva +18 se o usuário estiver equipado com um item que tenha a carta Lunático.^000000
-Combine com um item para utilizar sua propriedade. 
-Classe: ^777777Carta^000000
-Utilização: ^777777Capa^000000
+^0000ffVIT +1.^000000
+--------------------------
+^fa4e09Conjunto^000000
+^fa4e09[Carta Lunático]^000000
+^0000ffEsquiva +18.^000000
+--------------------------
+Tipo: ^777777Carta^000000
+Equipa em: ^777777Capa^000000
 Peso: ^7777771^000000
 #
 4267#
@@ -19793,11 +19829,15 @@ Equipa em: ^777777Calçado^000000
 Peso: ^7777771^000000
 #
 4268#
-^0000ffAdiciona a chance de conjurar automaticamente a habilidade Lâminas Destruidoras (nível 1), no inimigo, ao realizar um Ataque Físico.
-Se o usuário estiver equipado com um item que tenha a carta Jirtas, ATQ +20 e SOR +3.^000000
-Combine com um item para utilizar sua propriedade. 
-Classe: ^777777Carta^000000
-Utilização: ^777777Arma^000000
+Ao realizar ataques físicos:
+^0000ff5% de chance de autoconjurar [Lâminas Destruidoras] nv.1.^000000
+--------------------------
+^fa4e09Conjunto^000000
+^fa4e09[Carta Jirtas]^000000
+^0000ffSOR +3. ATQ +20.^000000
+--------------------------
+Tipo: ^777777Carta^000000
+Equipa em: ^777777Arma^000000
 Peso: ^7777771^000000
 #
 4269#
@@ -19876,10 +19916,13 @@ Utilização: ^777777Escudo^000000
 Peso: ^7777771^000000
 #
 4278#
-^0000ffCaso o Equipamento para Cabeça tenha aprimoramento +0/+1/+2/+3/+4/+5, adiciona +5 de DEFM.^000000
-Combine com um item para utilizar sua propriedade. 
-Classe: ^777777Carta^000000
-Utilização: ^777777Equipamento para a cabeça^000000
+^0000ffDEFM +5.^000000
+--------------------------
+Refino +6 ou mais:
+^0000ffDEFM^000000 ^ff0000-5.^000000
+--------------------------
+Tipo: ^777777Carta^000000
+Equipa em: ^777777Equipamento para Cabeça^000000
 Peso: ^7777771^000000
 #
 4279#
@@ -19965,11 +20008,13 @@ Utilização: ^777777Capa^000000
 Peso: ^7777771^000000
 #
 4288#
-^0000ffINT +2.
-Caso o Equipamento para Cabeça tenha aprimoramento +9 ou maior, adiciona +150 ao SP.^000000
-Combine com um item para utilizar sua propriedade. 
-Classe: ^777777Carta^000000
-Utilização: ^777777Equipamento para a cabeça^000000
+^0000ffINT +2.^000000
+--------------------------
+Refino +9 ou mais:
+^0000ffSP máx. +150.^000000
+--------------------------
+Tipo: ^777777Carta^000000
+Equipa em: ^777777Equipamento para Cabeça^000000
 Peso: ^7777771^000000
 #
 4289#
@@ -20042,11 +20087,10 @@ Equipa em: ^777777Equipamento para Cabeça^000000
 Peso: ^7777771^000000
 #
 4297#
-^0000ffInflige 10% a mais de dano com Ataque Crítico.
-Taxa de Crítico +7 em monstros Brutos.^000000
-Combine com um item para utilizar sua propriedade. 
-Classe: ^777777Carta^000000
-Utilização: ^777777Arma^000000
+^0000ffDano crítico +10%.^000000
+^0000ffCRIT +7 em oponentes das raças Bruto e Doram.^000000
+Tipo: ^777777Carta^000000
+Equipa em: ^777777Arma^000000
 Peso: ^7777771^000000
 #
 4298#
@@ -20221,11 +20265,13 @@ Equipa em: ^777777Arma^000000
 Peso: ^7777771^000000
 #
 4319#
-^0000ffMáximo HP +300.
-Caso os Sapatos tenham aprimoramento +9 ou maior, inflige 10% a mais de dano com a habilidade Golpe Fulminante.^000000
-Combine com um item para utilizar sua propriedade. 
-Classe: ^777777Carta^000000
-Utilização: ^777777Calçado^000000
+^0000ffHP máx. +300.^000000
+--------------------------
+Refino +9 ou mais:
+^0000ffDano de [Golpe Fulminante] +10%.^000000
+--------------------------
+Tipo: ^777777Carta^000000
+Equipa em: ^777777Calçado^000000
 Peso: ^7777771^000000
 #
 4320#
@@ -20309,7 +20355,7 @@ Utilização: ^777777Capa^000000
 Peso: ^7777771^000000
 #
 4329#
-Ao derrotar monstros da raça Humanoide com ataques físicos de curta distância:
+Ao derrotar oponentes das raças Humanoide e Humano com ataques físicos de curta distância:
 ^0000ffRegenera 5 de SP.^000000
 Ao desequipar a arma:
 ^0000ffDrena 5 de SP.^000000
@@ -20585,9 +20631,9 @@ Peso: ^7777771^000000
 4361#
 Ao realizar ataques físicos:
 ^0000ff10% de chance de destruir a arma do oponente.^000000
-^0000ff7% de chance de destrutir a armadura do usuário.^000000
-Tipo: ^777777Carta^000000 
-Equipa em: ^777777Arma^000000 
+^0000ff7% de chance de destrutir a armadura do oponente.^000000
+Tipo: ^777777Carta^000000
+Equipa em: ^777777Arma^000000
 Peso: ^7777771^000000
 #
 4362#
@@ -20990,15 +21036,24 @@ Equipa em: ^777777Armadura^000000
 Peso: ^7777771^000000
 #
 4409#
-ATQM +5%, DEF -10. Quando equipado pela classe Mago SP + 100
-Tipo de Item: ^777777Carta^000000
-Classe: ^777777Armadura^000000
+^0000ffDEF^000000 ^ff0000-10.^000000
+^0000ffDano mágico +5%.^000000
+--------------------------
+Magos e evoluções:
+^0000ffSP +100.^000000
+--------------------------
+Tipo: ^777777Carta^000000
+Equipa em: ^777777Armadura^000000
 Peso: ^7777771^000000
 #
 4410#
-ATQ +15. Quando equipado pela classe espadachim HP + 500
-Tipo de Item: ^777777Carta^000000
-Classe: ^777777Armadura^000000
+^0000ffATQ +15.^000000
+--------------------------
+Espadachins e evoluções:
+^0000ffHP +500.^000000
+--------------------------
+Tipo: ^777777Carta^000000
+Equipa em: ^777777Armadura^000000
 Peso: ^7777771^000000
 #
 4411#
@@ -21180,7 +21235,7 @@ Classe: ^777777Equipamento para a cabeça^000000
 Peso: ^7777771^000000
 #
 4435#
-^0000ffDano físico e mágico contra oponentes da raça Humanoide +1%.^000000
+^0000ffDano físico e mágico contra oponentes das raças Humanoide e Humano +1%.^000000
 Ao derrotar monstros com ataques físicos corpo a corpo:
 ^0000ffRecupera 50 de HP.^000000
 Tipo: ^777777Carta^000000
@@ -21188,8 +21243,8 @@ Equipa em: ^777777Calçado^000000
 Peso: ^7777771^000000
 #
 4436#
-^0000ffCRIT +5 em oponentes da raça Humanoide.^000000
-^0000ffDano físico e mágico contra oponentes da raça Humanoide +1%.^000000
+^0000ffCRIT +5 em oponentes das raças Humanoide e Humano.^000000
+^0000ffDano físico e mágico contra oponentes das raças Humanoide e Humano +1%.^000000
 Ao receber danos físicos:
 ^0000ff0,1% de chance de infligir Sangramento no usuário.^000000
 ^fa4e09Conjunto^000000
@@ -21869,9 +21924,12 @@ Equipa em: ^777777Arma^000000
 Peso: ^7777771^000000
 #
 4532#
-Altas chances de autoconjurar [Aumentar Agilidade] nv. 1 em ataques físicos.
+^0000ffAGI +1.^000000
+Ao realizar ataques físicos:
+^0000ff5% de chance de autoconjurar [Aumentar Agilidade] nv.1.^000000
+--------------------------
 Tipo: ^777777Carta^000000
-Equipa em: ^777777Sapatos^000000
+Equipa em: ^777777Calçado^000000
 Peso: ^7777771^000000
 #
 4533#
@@ -22287,33 +22345,43 @@ Equipa em: ^777777Arma^000000
 Peso: ^7777771^000000
 #
 4605#
-^0000ffHP máx. -44%.^000000
-Ao derrotar monstros com ataques físicos:
+^0000ffHP máx.^000000 ^ff0000-44%.^000000
+--------------------------
+Ao derrotar monstros com ataques físicos corpo a corpo:
 ^0000ffRegenera 200 de HP.^000000
-A cada refino:
+A cada 2 refinos:
 ^0000ffRegenera +10 de HP.^000000
+--------------------------
 Ao desequipar:
 ^0000ffDrena 4.444 de HP.^000000
-^FF6347Conjunto^000000
-^FF6347[Carta Cavaleira Desmorta]^000000
+--------------------------
+^fa4e09Conjunto^000000
+^fa4e09[Carta Cavaleira Desmorta]^000000
 ^0000ffResistência a propriedade Neutro +20%.^000000
-^0000ffDrena 100 de HP do usuário a cada 6 segundos.^000000
+A cada 6 segundos:
+^0000ffDrena 100 de HP do usuário.^000000
+--------------------------
 Tipo: ^777777Carta^000000
 Equipa em: ^777777Armadura^000000
 Peso: ^7777771^000000
 #
 4606#
-^0000ffSP máx. -44%.^000000
-Ao derrotar monstros com ataques físicos:
+^0000ffSP máx.^000000 ^ff0000-44%.^000000
+--------------------------
+Ao derrotar monstros com ataques físicos corpo a corpo:
 ^0000ffRegenera 20 de SP.^000000
 A cada 2 refinos:
 ^0000ffRegenera +1 de SP.^000000
+--------------------------
 Ao desequipar:
 ^0000ffDrena 444 de SP.^000000
-^FF6347Conjunto^000000
-^FF6347[Carta Cavaleiro Desmorto]^000000
+--------------------------
+^fa4e09Conjunto^000000
+^fa4e09[Carta Cavaleiro Desmorto]^000000
 ^0000ffEsquiva +20.^000000
-^0000ffDrena 6 de SP do usuário a cada 6 segundos.^000000
+A cada 6 segundos:
+^0000ffDrena 6 de SP do usuário.^000000
+--------------------------
 Tipo: ^777777Carta^000000
 Equipa em: ^777777Capa^000000
 Peso: ^7777771^000000
@@ -23196,14 +23264,16 @@ Resistência a propriedade Neutro +5%.
 ^0000ffResistência as raças Humano e Humanoide +5%.^000000
 #
 4850#
-Efetividade de cura +6%.
-Custo de SP das habilidades +5%.
+^0000ffEfetividade de cura +6%.^000000
+^0000ffCusto de SP das habilidades^000000 ^ff0000+5%.^000000
 #
 4851#
-Aumento da efetividade de Cura em 12%. Custo de SP aumentado em 10%
+^0000ffEfetividade de cura +12%.^000000
+^0000ffCusto de SP das habilidades^000000 ^ff0000+10%.^000000
 #
 4852#
-Aumento da efetividade de Cura em 20%. Custo de SP aumentado em 15%
+^0000ffEfetividade de cura +20%.^000000
+^0000ffCusto de SP das habilidades^000000 ^ff0000+15%.^000000
 #
 4853#
 ^0000ffFOR +1.^000000
@@ -23312,55 +23382,72 @@ Velocidade de ataque +8%.
  
 #
 4875#
-^0000ffDrena 300 de SP ao desequipar.^000000
-Ao receber ataques físicos:
-^0000ffChance de ativar [Delírio] por 5 segundos.^000000
-^FF6347Delírio:^000000
+Ao receber danos físicos:
+^0000ff2% de chance de ativar [Delírio] por 5 segundos.^000000
+--------------------------
+Ao desequipar:
+^0000ffDrena 300 de SP.^000000
+--------------------------
+^CD3278Delírio:^000000
 ^0000ffFOR +200.^000000
-^0000ffSe transforma em um Pé-Grande.^000000
-^0000ffDrena 500 de HP do usuário a cada 1 segundo.^000000
+^0000ffSe transforma em Pé-Grande.^000000
+^0000ffA cada 1 segundo, drena 500 de HP do usuário.^000000
 #
 4876#
-^0000ffDrena 2.000 de SP ao desequipar.^000000
 Ao realizar ataques mágicos:
-^0000ffChance de ativar [Epifania] por 10 segundos.^000000
-^FF6347Epifania:^000000
+^0000ff1,5% de chance de ativar [Epifania] por 10 segundos.^000000
+--------------------------
+Ao desequipar:
+^0000ffDrena 2.000 de SP.^000000
+--------------------------
+^CD3278Epifania:^000000
 ^0000ffINT +200.^000000
-^0000ffDrena 200 de SP do usuário a cada 1 segundo.^000000
+^0000ffA cada 1 segundo, drena 200 de SP do usuário.^000000
 #
 4877#
-^0000ffDrena 300 de SP ao desequipar.^000000
 Ao realizar ataques físicos:
-^0000ffPequena chance de ativar [Ânimo] por 5 segundos.^000000
-^FF6347Ânimo:^000000
-^0000ffEsquiva Perfeita +100.^000000
+^0000ff1% de chance de ativar [Ânimo] por 5 segundos.^000000
+--------------------------
+Ao desequipar:
+^0000ffDrena 300 de SP.^000000
+--------------------------
+^CD3278Ânimo:^000000
+^0000ffEsquiva perfeita +100.^000000
 ^0000ffVelocidade de ataque +100%.^000000
-^0000ffDrena 400 de HP e 40 de SP do usuário a cada 1 segundo.^000000
+^0000ffA cada 1 segundo, drena 400 de HP e 40 de SP do usuário.^000000
 #
 4878#
-^0000ffDrena 300 de SP ao desequipar.^000000
-Ao receber ataques físicos:
-^0000ffPequena chance de ativar [Histeria] por 5 segundos.^000000
-^FF6347Histeria:^000000
+Ao receber danos físicos:
+^0000ff2% de chance de ativar [Histeria] por 5 segundos.^000000
+--------------------------
+Ao desequipar:
+^0000ffDrena 300 de SP.^000000
+--------------------------
+^CD3278Histeria:^000000
 ^0000ffVIT +200.^000000
-^0000ffDano físico -50%.^000000
-^0000ffDano mágico -50%.^000000
+^0000ffDano físico e mágico^000000 ^ff0000-50%.^000000
 #
 4879#
-^0000ffDrena 300 de SP ao desequipar.^000000
 Ao realizar ataques físicos:
-^0000ffPequena chance de ativar [Instinto] por 5 segundos.^000000
-^FF6347Instinto:^000000
+^0000ff3% de chance de ativar [Instinto] por 5 segundos.^000000
+--------------------------
+Ao desequipar:
+^0000ffDrena 300 de SP.^000000
+--------------------------
+^CD3278Instinto:^000000
 ^0000ffDES +200.^000000
-^0000ffDrena 50 de SP do usuário a cada 1 segundo.^000000
+^0000ffA cada 1 segundo, drena 50 de SP do usuário.^000000
 #
 4880#
-^0000ffDrena 300 de SP ao desequipar.^000000
-Ao realizar ataques físicos:
-^0000ffPequena chance de ativar [Euforia] por 5 segundos.^000000
-^FF6347Euforia:^000000
+Ao realizar ataques físicos ou mágicos:
+^0000ff1,5% de chance de ativar [Euforia] por 5 segundos.^000000
+--------------------------
+Ao desequipar:
+^0000ffDrena 300 de SP.^000000
+--------------------------
+^CD3278Delírio:^000000
 ^0000ffSOR +200.^000000
-^0000ffAo derrotar monstros, chance de derrubar [Arca de Tesouro].^000000
+^0000ffAo derrotar monstros, 0,1% de chance de derrubar Arca de Tesouro.^000000
 #
 4881#
 Velocidade de ataque +10%.
@@ -24620,7 +24707,7 @@ Classes que utilizam: ^777777Todas^000000
 5099#
 Um chapéu fofo e macio no formato de um gatinho gorducho. As patas e a cauda dele são feitas de pelúcia, e dão um charme extra para quem o usar.
 ^0000ffSOR +2, DEFM +10.^000000
-^0000ffReduz em 5% o dano causado por monstros da raça Bruto.^000000
+^0000ffReduz em 5% o dano causado pelas raças Bruto e Doram.^000000
 Classe: ^777777Equipamento para a cabeça^000000
 Defesa: ^7777772^000000
 Equipa em: ^777777Topo^000000
@@ -24815,10 +24902,11 @@ Classes que utilizam: ^777777Todas^000000
 #
 5121#
 Essa máscara, que é o símbolo de Jirtas, senhora da prisão subterrânea de Glast Heim, faz com que seu usuário se sinta muito superior aos peões humanos normais.
-^0000ffAumenta o dano contra monstros Humanoides em 5% e diminui o dano de monstros Humanoides em 5%.^000000
-Tipo: ^777777Equipamento para a cabeça^000000		
+^0000ffDano físico contra as raças Humanoide e Humano +5%.^000000
+^0000ffResistência as raças Humanoide e Humano +5%.^000000
+Tipo: ^777777Equipamento para a cabeça^000000
 Defesa: ^7777773^000000
-Equipa em: ^777777Topo e Meio^000000		
+Equipa em: ^777777Topo e Meio^000000
 Peso: ^77777740^000000
 Nível necessário: ^77777770^000000
 Classes que utilizam: ^777777Todas exceto Aprendiz e Evolução^000000
@@ -24940,7 +25028,7 @@ Classes: ^777777Todas, exceto Aprendizes^000000
 5129#
 Um chapéu no formato de um ninho, mas já sem os passarinhos. Se você não gostava da idéia de ter passarinhos piando dia e noite sobre sua cabeça, esta é a melhor solução. Tome cuidado para que uma ave qualquer não passe a habitá-la! 
 ^0000ffAGI +2.
-Reduz em 10% o dano causado por monstros da raça Bruto.^000000
+Reduz em 10% o dano causado pelas raças Bruto e Doram.^000000
 Tipo: ^777777Equipamento para a cabeça^000000
 Defesa: ^7777772^000000
 Equipa em: ^777777Topo^000000
@@ -25109,13 +25197,17 @@ Classes que utilizam: ^777777Todas^000000
 #
 5146#
 O elefante é o maior animal em terra firme. Dizem que ele tem uma memória assombrosa. Mas cuidado: chamar alguém de “Elefante” não é o mesmo que chamá-lo de “Sábio”.
-^0000ffConcede +7% de resistência contra danos causados por monstros da raça Bruto, VIT +1.
-Permite o uso da habilidade “Esferas D’Água” em nível 1.^000000
-Tipo: ^777777Equipamento para a cabeça^000000    
+--------------------------
+^0000ffVIT +1.^000000
+--------------------------
+^0000ffResistência as raças Bruto e Doram +7%.^000000
+--------------------------
+Tipo: ^777777Equipamento para Cabeça^000000
+Equipa em: ^777777Topo^000000
 Defesa: ^7777770^000000
-Equipa em: ^777777Topo^000000    
 Peso: ^77777750^000000
-Classes que utilizam: ^777777Todas^000000
+Nível necessário: ^7777771^000000
+Classes: ^777777Todas^000000
 #
 5147#
 Um boné simples, azul e com o emblema de Ragnarök Online. Feito para proteger seus olhos dos efeitos nocivos do sol. Apesar disso, muita gente costuma usar bonés durante a noite. Também ajuda a esconder esse seu cabelo despenteado. 
@@ -25963,48 +26055,54 @@ Peso: ^77777735^000000
 Classes que utilizam: ^777777Todas^000000
 #
 5238#
-chapéu vermelho que todo Mago de talento gostaria de ter. A forma pode ser meio estranha, mas denota poder.
-^0000ffMáximo SP +149, INT +2.^000000
-Classe: ^777777Equipamento para a cabeça^000000    
+Chapéu vermelho que todo Mago de talento gostaria de ter. A forma pode ser meio estranha, mas denota poder.
+^0000ffMáximo SP +150, INT +2.^000000
+Tipo: ^777777Equipamento para Cabeça^000000
+Equipa em: ^777777Topo^000000
 Defesa: ^7777772^000000
-Equipa em: ^777777Topo^000000    
 Peso: ^77777730^000000
-Classes que utilizam: ^777777Mago e suas evoluções / Espiritualista^000000
+Nível necessário: ^77777770^000000
+Classes: ^777777Espiritualista, Mago e Evoluções^000000
 #
 5239#
-chapéu branco que todo Mago de talento gostaria de ter. A forma pode ser meio estranha, mas denota poder.
-^0000ffMáximo SP +149, INT +2.^000000
-Classe: ^777777Equipamento para a cabeça^000000    
+Chapéu branco que todo Mago de talento gostaria de ter. A forma pode ser meio estranha, mas denota poder.
+^0000ffMáximo SP +150, INT +2.^000000
+Tipo: ^777777Equipamento para Cabeça^000000
+Equipa em: ^777777Topo^000000
 Defesa: ^7777772^000000
-Equipa em: ^777777Topo^000000    
 Peso: ^77777730^000000
-Classes que utilizam: ^777777Mago e suas evoluções / Espiritualista^000000
+Nível necessário: ^77777770^000000
+Classes: ^777777Espiritualista, Mago e Evoluções^000000
 #
 5240#
-chapéu cinza que todo Mago de talento gostaria de ter. A forma pode ser meio estranha, mas denota poder.
-^0000ffMáximo SP +149, INT +2.^000000
-Classe: ^777777Equipamento para a cabeça^000000    
+Chapéu cinza que todo Mago de talento gostaria de ter. A forma pode ser meio estranha, mas denota poder.
+^0000ffMáximo SP +150, INT +2.^000000
+Tipo: ^777777Equipamento para Cabeça^000000
+Equipa em: ^777777Topo^000000
 Defesa: ^7777772^000000
-Equipa em: ^777777Topo^000000    Peso: ^77777730^000000
-Classes que utilizam: ^777777Mago e suas evoluções / Espiritualista^000000
+Peso: ^77777730^000000
+Nível necessário: ^77777770^000000
+Classes: ^777777Espiritualista, Mago e Evoluções^000000
 #
 5241#
-chapéu azul que todo Mago de talento gostaria de ter. A forma pode ser meio estranha, mas denota poder.
-^0000ffMáximo SP +149, INT +2.^000000
-Classe: ^777777Equipamento para a cabeça^000000    
+Chapéu azul que todo Mago de talento gostaria de ter. A forma pode ser meio estranha, mas denota poder.
+^0000ffMáximo SP +150, INT +2.^000000
+Tipo: ^777777Equipamento para Cabeça^000000
+Equipa em: ^777777Topo^000000
 Defesa: ^7777772^000000
-Equipa em: ^777777Topo^000000    
 Peso: ^77777730^000000
-Classes que utilizam: ^777777Mago e suas evoluções / Espiritualista^000000
+Nível necessário: ^77777770^000000
+Classes: ^777777Espiritualista, Mago e Evoluções^000000
 #
 5242#
-chapéu amarelo que todo Mago de talento gostaria de ter. A forma pode ser meio estranha, mas denota poder.
-^0000ffMáximo SP +149, INT +2.^000000
-Classe: ^777777Equipamento para a cabeça^000000    
+Chapéu amarelo que todo Mago de talento gostaria de ter. A forma pode ser meio estranha, mas denota poder.
+^0000ffMáximo SP +150, INT +2.^000000
+Tipo: ^777777Equipamento para Cabeça^000000
+Equipa em: ^777777Topo^000000
 Defesa: ^7777772^000000
-Equipa em: ^777777Topo^000000    
 Peso: ^77777730^000000
-Classes que utilizam: ^777777Mago e suas evoluções / Espiritualista^000000
+Nível necessário: ^77777770^000000
+Classes: ^777777Espiritualista, Mago e Evoluções^000000
 #
 5243#
 Um gorro feito de couro e lã de Amistr, altamente resistente e muito quentinho. Tem abas grandes nos lados, feitos especialmente para proteger as orelhas do frio. Especialmente feito para dias de frio, mas nada impede que você o use durante o sol do verão. Apenas tome cuidado para não ficar com um cheirinho engraçado...
@@ -26257,7 +26355,7 @@ Classes: ^777777Todas, exceto Aprendizes^000000
 #
 5283#
 Um chapéu muito fofo, com um filhote de galinha no topo. Ele bate as asas e pia, mas felizmente não fará sujeira sobre a sua cabeça. Ou vai...? 
-^0000ffResistência as raças Humanoide, Humano, Bruto e Doram +3%^000000 
+^0000ffResistência as raças Humanoide, Humano, Bruto e Doram +3%^000000
 ^0000ffPermite o uso da habilidade “Ataque Duplo Nv.2”. Diferentemente da versão dos Gatunos, esta pode ser usada com qualquer arma.^000000 
 ^0000ffSOR +2.^000000
 ^0000ffHP Máximo +50 e SP Máximo + 50^000000
@@ -26721,7 +26819,7 @@ Nível necessário: ^77777760^000000
 #
 5342#
 Uma linda bonequinha representando a Kafra número 1 da Corporação. Apesar de conhecida por seu bom humor, Marianne já distribuiu muitos socos na Brigada Kafra. Dizem que sua boneca é capaz de ajudar numa briga de bar. Os fãs da morena são loucos por essa boneca. Não vá deixar seu chapéu por aí!
-Reduz em 5% o dano recebido por monstros do tipo Humanoide. 
+Resistência as raças Humanoide e Humano +5%.
 Chance de aumentar o ATQ em +50 quando realizar ataque físico. 
 DES + 2
 Não pode ser aprimorado.
@@ -26733,7 +26831,7 @@ Nível necessário: ^77777760^000000
 #
 5343#
 Uma linda bonequinha representando a Kafra Tatiana. Tatiana é a mais prática das Kafras e está sempre preparada para obter o máximo em tudo o que faz. Sua boneca é uma das mais perfeitas da coleção. Dizem que passar muito tempo em sua companhia ajuda a se tornar uma pessoa mais organizada e obter melhores resultados em tudo.
-Reduz em 5% o dano recebido por monstros do tipo Humanoide. 
+Resistência as raças Humanoide e Humano +5%.
 Aumenta em 10% a recuperação de HP quando usar Poções Brancas. 
 AGI + 2
 Não pode ser aprimorado.
@@ -27074,15 +27172,19 @@ Classes que utilizam: ^777777Todas^000000
 #
 5383#
 Um chapéu verde, grande e bufante, usado como símbolo da nobreza caçadora de Rune-Midgard. É impressionante como aqueles engomadinhos pomposos conseguem usar algo tão chamativo e ainda assim caçar algo! Nem pense em se esconder na mata com um desses. No máximo, você pode se ocultar numa plantação de melancias. 
-Aumenta o dano físico causado a monstros da raça Bruto em 10%
-Aumenta o dano mágico causado a monstros da raça Bruto em 5%
-SOR + 1
-Tipo: ^777777Equipamento para a cabeça^000000
-Defesa: ^7777776^000000
+--------------------------
+^0000ffSOR +1.^000000
+--------------------------
+^0000ffDano físico contra as raças Bruto e Doram +10%.^000000
+--------------------------
+^0000ffDano mágico contra as raças Bruto e Doram +5%.^000000
+--------------------------
+Tipo: ^777777Equipamento para Cabeça^000000
 Equipa em: ^777777Topo^000000
+Defesa: ^7777776^000000
 Peso: ^77777725^000000
 Nível necessário: ^77777750^000000
-Classes que utilizam:  ^777777Todas, exceto Aprendiz^000000
+Classes: ^777777Todas, exceto Aprendiz^000000
 #
 5384#
 Aqui o 2.0 também significa 2x mais diversão! Esta é a união perfeita de dois Gorros de Natal, com estrelas nas pontas. Dizem que o próprio Papai Noel encomendou sua criação para competir com as Orelhas de Coelho sempre usadas na época da páscoa.
@@ -27652,8 +27754,8 @@ Classes: ^777777Todas^000000
 5462#
 Usada originalmente pelos exterminadores de Youkais de Amatsu. Tornou-se popular entre os Ninjas-Pescadores, que gritavam “VEM CÁ!” ao atirar arpões no mar. É particularmente eficaz contra os beliscões na bochecha daquela sua tia (“fofinho da titia!”) ou tortadas na cara.
 ^0000ffVIT + 1.^000000
-^0000ffDano físico contra monstros da raça humanoide +1%.^000000
-^0000ffResistência a monstros da raça humanoide +1%.^000000
+^0000ffDano físico contra as raças Humanoide e Humano +1%.^000000
+^0000ffResistência as raças Humanoide e Humano +1%.^000000
 Tipo: ^777777Equipamento para a cabeça^000000
 Defesa: ^7777770^000000
 Equipa em: ^777777Baixo^000000
@@ -27872,8 +27974,8 @@ Classes que utilizam: ^777777Todas^000000
 #
 5485#
 Uma máscara comum nos festivais de artes marciais de Louyang, representando os praticantes do Kung Fu estilo Hung Gar, especializados nas técnicas do tigre. Eles se especializaram em combater feras, usando seus reflexos tanto para resistir a ataques, quanto para causar mais dano.
-Reduz em 5% o dano recebido de monstros da raça Bruto.
-Aumenta em 5% o dano causado a monstros da raça Bruto.
+Reduz em 5% o dano recebido das raças Bruto e Doram.
+Aumenta em 5% o dano causado as raças Bruto e Doram.
 Tipo: ^777777Equipamento para a cabeça^000000
 Defesa: ^7777773^000000
 Equipa em: ^777777Topo, Meio e Baixo^000000
@@ -28159,7 +28261,7 @@ Classes que utilizam: ^777777Arqueiros e evoluções^000000
 #
 5518#
 Um equipamento para a cabeça feito a partir dos chifres de um Bafomé. Possui um forte significado místico.
-^0000ffResistência a raça Humanoide +12%.^000000
+^0000ffDano físico contra as raças Humanoide e Humano +12%.^000000
 A cada 7 níveis de classe:
 ^0000ffATQ +2.^000000
 Tipo: ^777777Equipamento para a cabeça^000000
@@ -28751,6 +28853,18 @@ Defesa: ^7777772^000000
 Equipa em: ^777777Topo^000000
 Peso: ^77777740^000000
 Nível necessário: ^7777771^000000
+Classes que utilizam: ^777777Todas^000000
+#
+5596#
+Ao contrário do que se diz, você não vai ter mais sorte com esse trevo. Não se esqueça de dizer isso aos doidos supersticiosos que vierem tentar arrancá-lo de você!
+^0000ffATQ e MATQ +5.^000000
+^0000ffDEF e MDEF +2.^000000
+^0000ffTodos os atributos +1.^000000
+Tipo: ^777777Equipamento para a cabeça^000000
+Defesa: ^7777770^000000
+Equipa em: ^777777Baixo^000000
+Peso: ^7777770^000000
+Nível Necessário: ^7777771^000000
 Classes que utilizam: ^777777Todas^000000
 #
 5598#
@@ -29520,7 +29634,7 @@ Classes que utilizam: ^777777Todas^000000
 5780#
 Uma cópia do Tendrillion.
 ^0000ffPermite o uso da habilidade Coluna de Pedra em nível 3.^000000
-^0000ffAumenta em 10% a resistência contra monstros do tipo Humanoide.^000000
+^0000ffResistência as raças Humanoide e Humano +10%.^000000
 Tipo: ^777777Equipamento para a cabeça^000000
 Defesa: ^7777770^000000
 Equipa em: ^777777Topo^000000
@@ -29639,12 +29753,17 @@ Classes que utilizam: ^777777Todas^000000
 #
 5801#
 Um lindo laço vermelho. Exala sentimento de amor e doçura.
+--------------------------
 ^0000ffTodos os atributos +2.^000000
-^0000ffResistência a oponentes da raça Humanoide +10%.^000000
+--------------------------
+^0000ffResistência a oponentes das raças Humanoide e Humano +10%.^000000
+--------------------------
 Ao receber danos físicos:
-^0000ff2% de chance de autoconjurar [Curar] nv. 5.^000000
-Ao aprender [Curar] nv. 10:
-^0000ffAutoconjura [Curar] nv. 10.^000000
+^0000ff2% de chance de autoconjurar [Curar] nv.5.^000000
+--------------------------
+Ao aprender [Curar] nv.10:
+^0000ffAutoconjura [Curar] nv.10.^000000
+--------------------------
 Tipo: ^777777Equipamento para Cabeça^000000
 Equipa em: ^777777Topo^000000
 Defesa: ^77777710^000000
@@ -29666,7 +29785,7 @@ Classes: ^777777Transclasses 2-1 e 2-2^000000
 #
 5811#
 Um bigode branco que faz com que você pareça com Papai Noel. Ele pinica um pouco.
-Aumenta a resistência contra monstros da raça Bruto em 5%.
+Resistência as raças Bruto e Doram +5%.
 ^000088Os efeitos desse item serão removidos com o término do evento.^000000
 Tipo: ^777777Equipamento para a cabeça^000000
 Defesa: ^7777770^000000
@@ -29707,8 +29826,9 @@ Classes que utilizam: ^777777Todas^000000
 #
 5822#
 Na verdade esse saltitante pintinho de penas vermelhas representa o milagre do Natal, e realmente você se sente mais poderoso em companhia dele. Tê-lo em sua cabeça é um sinal de boa sorte, e você vai precisar dela se for contar com a ajuda do pequenino para não se perder numa nevasca!
-^0000ffSOR +4.^000000
-^0000ffMáx. HP +100, Máx. SP +100, +7% de resistência a monstros do tipo Humanoide e Bruto.^000000
+^0000ffMáx. HP +100.^000000
+^0000ffMáx. SP +100.^000000
+^0000ffResistência as raças Humanoide, Humano, Bruto e Doram +7%^000000
 Tipo: ^777777Equipamento para a cabeça^000000
 Defesa: ^7777772^000000  
 Equipa em: ^777777Topo^000000
@@ -29735,7 +29855,7 @@ Classes que utilizam: ^777777Todas^000000
 #
 5830#
 Um chapéu chinês usado por membros da E.S.T.R.E.L.A para investigar as ações da Corporação Sombrinha nos campos de arroz da Cidade Fumacento.
-^0000ffReduz em 10% o dano recebido de monstros da raça Humanoide.^000000
+^0000ffResistência as raças Humanoide e Humano +10%.^000000
 Tipo: ^777777Equipamento para a cabeça^000000
 Defesa: ^7777770^000000
 Equipa em: ^777777Topo^000000
@@ -29745,7 +29865,7 @@ Classes que utilizam: ^777777Todas^000000
 #
 5831#
 Um grande laço vermelho usado por Jillia Valentina quando ela não está ocupada eliminando Zumbis criados pela Corporação Sombrinha. Como isso quase nunca acontece, é melhor usá-lo você mesmo.
-^0000ffReduz em 10% o dano recebido de monstros da raça Humanoide.^000000
+^0000ffResistência as raças Humanoide e Humano +10%.^000000
 Tipo: ^777777Equipamento para a cabeça^000000
 Defesa: ^7777770^000000
 Equipa em: ^777777Topo^000000
@@ -29755,7 +29875,7 @@ Classes que utilizam: ^777777Todas^000000
 #
 5832#
 Presilha usada pela jovem Cherri, uma das sobreviventes do ataque de Zumbis na Prisão de Glast Heim e filha de um dos bioquímicos da Corporação Sombrinha responsável pela praga.
-^0000ffReduz em 10% o dano recebido de monstros da raça Humanoide.^000000
+^0000ffResistência as raças Humanoide e Humano +10%.^000000
 Tipo: ^777777Equipamento para a cabeça^000000
 Defesa: ^7777770^000000
 Equipa em: ^777777Topo^000000
@@ -29765,7 +29885,7 @@ Classes que utilizam: ^777777Todas^000000
 #
 5833#
 Chapéu favorito de Roberta Câmaras, a Sacerdotisa novata da Ordem da E.S.T.R.E.L.A.
-^0000ffReduz em 10% o dano recebido de monstros da raça Humanoide.^000000
+^0000ffResistência as raças Humanoide e Humano +10%.^000000
 Tipo: ^777777Equipamento para a cabeça^000000
 Defesa: ^7777770^000000
 Equipa em: ^777777Topo^000000
@@ -29775,7 +29895,7 @@ Classes que utilizam: ^777777Todas^000000
 #
 5834#
 Coroa usada para contrabandear um perigoso líquido com vírus mágico, disfarçado como uma gema azul em sua testa. Protegida magicamente contra ataques de espiões industriais.
-^0000ffReduz em 10% o dano recebido de monstros da raça Humanoide.^000000
+^0000ffResistência as raças Humanoide e Humano +10%.^000000
 Tipo: ^777777Equipamento para a cabeça^000000
 Defesa: ^7777770^000000
 Equipa em: ^777777Topo^000000
@@ -29785,7 +29905,7 @@ Classes que utilizam: ^777777Todas^000000
 #
 5835#
 Diadema usado por Aída Kong, contratada por Vesquer para obter o vírus mágico da Corporação Sombrinha, mas que acabou se apaixonando por Léo Kenny-G, ajudando assim a Ordem da E.S.T.R.E.L.A.
-^0000ffReduz em 10% o dano recebido de monstros da raça Humanoide.^000000
+^0000ffResistência as raças Humanoide e Humano +10%.^000000
 Tipo: ^777777Equipamento para a cabeça^000000
 Defesa: ^7777770^000000
 Equipa em: ^777777Topo^000000
@@ -29795,7 +29915,7 @@ Classes que utilizam: ^777777Todas^000000
 #
 5836#
 Quepe oficial usado por membros da Ordem da E.S.T.R.E.L.A. Diz a lenda que pode atrair a fúria de certos Fendarks de sobretudo.
-^0000ffReduz em 10% o dano recebido de monstros da raça Humanoide.^000000
+^0000ffResistência as raças Humanoide e Humano +10%.^000000
 Tipo: ^777777Equipamento para a cabeça^000000
 Defesa: ^7777770^000000
 Equipa em: ^777777Topo^000000
@@ -29805,7 +29925,7 @@ Classes que utilizam: ^777777Todas^000000
 #
 5837#
 Marca registrada de Alberto Vesquer, de alguma forma esses óculos escuros vieram parar na sua mão. Usá-los lhe deixa com outra perspectiva das coisas, como se você pudesse se tornar um deus.
-^0000ffReduz em 2% o dano recebido de monstros da raça Humanoide.^000000
+^0000ffResistência as raças Humanoide e Humano +2%.^000000
 Tipo: ^777777Equipamento para a cabeça^000000
 Defesa: ^7777772^000000
 Equipa em: ^777777Meio^000000
@@ -29815,7 +29935,7 @@ Classes que utilizam: ^777777Todas^000000
 #
 5838#
 Quando você viu essas barbatanas na cabeça de um zumbi da Corporação Sombrinha, por um momento se assustou pensando que o rosto dele se abrisse em horrendos tentáculos. Agora usa essa proteção como seu troféu.
-^0000ffReduz em 2% o dano recebido de monstros da raça Humanoide.^000000
+^0000ffResistência as raças Humanoide e Humano +2%.^000000
 Tipo: ^777777Equipamento para a cabeça^000000
 Defesa: ^7777772^000000
 Equipa em: ^777777Meio^000000
@@ -29825,7 +29945,7 @@ Classes que utilizam: ^777777Todas^000000
 #
 5839#
 Maquiagem especial usada por Shiva Palomar, uma Atiradora de Elite que ajudou Cristiano Ronifield em uma de suas missões contra os Residentes Malditos.
-^0000ffReduz em 2% o dano recebido de monstros da raça Humanoide.^000000
+^0000ffResistência as raças Humanoide e Humano +2%.^000000
 Tipo: ^777777Equipamento para a cabeça^000000
 Defesa: ^7777772^000000
 Equipa em: ^777777Meio^000000
@@ -29835,7 +29955,7 @@ Classes que utilizam: ^777777Todas^000000
 #
 5840#
 Essas orelhas são sinais que você foi infectado pelo vírus mágico Ourobolos e sofreu uma mutação. Por sorte, conseguiu evitar que terminasse transformado em zumbi ou algo pior, ao mesmo tempo que se tornou mais resistente contra seus inimigos. Esse desejo de comer miolos é apenas coisa da sua imaginação.
-^0000ffReduz em 2% o dano recebido de monstros da raça Humanoide.^000000
+^0000ffResistência as raças Humanoide e Humano +2%.^000000
 Tipo: ^777777Equipamento para a cabeça^000000
 Defesa: ^7777772^000000
 Equipa em: ^777777Meio^000000
@@ -35315,7 +35435,8 @@ O anel de noivado que pertenceu a Allysia.
 Peso: ^7777770^000000
 #
 7509#
-Uma extravagante chave com as cores do arco-íris que garante o acesso à Fábrica e ao Laboratório de Kyel Hyre. 
+Uma extravagante chave com as cores do arco-íris que garante o acesso à Fábrica e ao Laboratório de Kyel Hyre.
+^ff0000Atenção! Esse item não pode ser negociado, derrubado no chão, colocado no carrinho mas pode ser colocado no armazém.^000000
 Peso: ^7777770^000000
 #
 7510#
@@ -35482,11 +35603,11 @@ Ticket temporário criado pela Corporação Kafra.
 ^0000ffPermite adquirir 1 item aleatório na Máquina de Cupons.^000000
 --------------------------
 ^CD3278NPC:^000000 Máquina de Cupons
-^CD3278Coord.:^000000 prontera 141, 226
-<NAVI>[Navegar]<INFO>prontera,141,226,0,000,0</INFO></NAVI>
+^CD3278Coord.:^000000 prontera 147, 236
+<NAVI>[Navegar]<INFO>prontera,147,236,0,000,0</INFO></NAVI>
 --------------------------
-Promoção limitada até o dia ^ff000016.09.2019.^000000
-Este item será removido no dia ^ff000017.09.2019.^000000
+Promoção limitada até o dia ^ff000023.03.2020.^000000
+Este item será removido no dia ^ff000024.03.2020.^000000
 --------------------------
 Peso: ^7777771^000000
 #
@@ -35648,8 +35769,8 @@ Ticket temporário criado pela Corporação Kafra.
 ^CD3278Coord.:^000000 prontera 141, 226
 <NAVI>[Navegar]<INFO>prontera,141,226,0,000,0</INFO></NAVI>
 --------------------------
-Promoção limitada até o dia ^ff000027.01.2020.^000000
-Este item será removido no dia ^ff000028.01.2020.^000000
+Promoção limitada até o dia ^ff000023.03.2020.^000000
+Este item será removido no dia ^ff000024.03.2020.^000000
 --------------------------
 Peso: ^7777771^000000
 #
@@ -36729,7 +36850,8 @@ Peso: ^7777770^000000
 #
 9026#
 Ovo contendo uma Jirtas de estimação. Deve ser chocado por uma Incubadora.
-^0000ffCom lealdade normal/alta: Aumenta o ATQ e ATQM contra raça Humanoide em 2%.^000000
+^0000ffCom lealdade normal/alta: Dano físico contra a raça Humano +2%.^000000
+^0000ffDano mágico contra a raça Humanoide +2%.^000000
 Tipo: ^777777Ovo de Bichinho^000000
 Peso: ^7777770^000000
 #
@@ -36826,6 +36948,7 @@ Tipo: ^777777Ovo de Bichinho^000000
 #
 9046#
 Ovo contendo um Líder Goblin de estimação. Deve ser chocado por uma Incubadora.
+"Dano físico contra as raças Humanoide e Humano +3%.
 Classe: ^777777Ovo de Bichinho^000000
 Peso: ^7777770^000000
 #
@@ -40299,7 +40422,8 @@ Peso: ^7777770^000000
 #
 12754#
 Um delicioso pastel recheado de carne de porco e vegetais.
-^0000ffRecupera 50% do HP e do SP.^000000
+^0000ffRecupera 30% do HP e do SP.^000000
+^ff0000Atenção! Esse item não pode ser negociado, derrubado no chão nem colocado no carrinho, mas pode ser colocado na Kafra.^000000
 Peso: ^7777771^000000
 #
 12755#
@@ -41312,7 +41436,7 @@ Classes: ^777777Ninjas e evoluções^000000
 #
 13012#
 Uma famosa espada que dizem ser tão afiada que é capaz de dividir oceanos ou cortar o ar e fazer com que ele sangre água.
-^0000ffCRIT +10 contra a raça Humanoide.^000000
+^0000ffCRIT +10 contra as raças Humanoide e Humano.^000000
 Tipo: ^777777Adaga^000000
 Ataque: ^77777795^000000
 Propriedade: ^777777Água^000000
@@ -41323,7 +41447,7 @@ Classes: ^777777Ninjas e evoluções^000000
 #
 13013#
 Uma famosa espada que dizem ser tão afiada que é capaz de dividir oceanos ou cortar o ar e fazer com que ele sangre água.
-^0000ffCRIT +10 contra a raça Humanoide.^000000
+^0000ffCRIT +10 contra as raças Humanoide e Humano.^000000
 Tipo: ^777777Adaga^000000
 Ataque: ^77777795^000000
 Propriedade: ^777777Água^000000
@@ -41626,7 +41750,7 @@ Se refinada em +6 ou mais:
 Se refinada em +9 ou mais:
 ^0000ffChance de infligir sangramento numa área de 5x5 células ao usar [Ataque Surpresa].^000000
 ^FF0000[Carniceiro] nv. 1^000000
-Aumenta o dano físico contra monstros humanoides de acordo com o refino.
+Aumenta o dano físico contra as raças Humanoide e Humano de acordo com o refino.
 ^0000ffRefino +6: 4%.^000000
 ^0000ffRefino +7: 9%.^000000
 ^0000ffRefino +8: 16%.^000000
@@ -41808,8 +41932,8 @@ Classes: ^777777Aprendizes, Espadachins, Magos, Arqueiros, Mercadores, Gatunos, 
 Aparato bélico usado em guerras.
 ^6A5ACDEm mapas de GdE e PvP:^000000
 ^0000ffVelocidade de ataque +4%.^000000
-Ao realizar ataques físicos:
-^0000ffChance de reduzir a DEF e DEFM do oponente em 1 por 5 segundos.^000000
+Ao realizar ataques físicos em oponentes da raça Humano:
+^0000ffChance de reduzir a DEF e DEFM do oponente para 1 por 5 segundos.^000000
 A cada refino:
 ^0000ffVelocidade de ataque +1%.^000000
 Tipo: ^777777Adaga^000000
@@ -41928,7 +42052,7 @@ Classes: ^777777Espadachins, Magos, Arqueiros, Mercadores, Gatunos, Ninjas, Espi
 ^000088Item de aluguel^000000
 ATQM + 100.
 *Funcionalidades ativas dentro da área da Guerra do Emperium TE*
-Aumenta o ataque físico em +40% contra outros jogadores.
+Dano físico contra as raças Humano e Doram +40%.
 Chance de causar Silêncio ao atacar fisicamente.
 Tipo: ^777777Dagger^000000 Ataque: ^777777100^000000
 Peso: ^7777770^000000
@@ -42167,7 +42291,7 @@ Se refinada em +9 ou mais:
 ^0000ffDano de [Rajada Certeira] +2% por refino.^000000
 ^0000ffChance de autoconjurar [Cara ou Coroa] nv. 1 ao usar [Rajada Certeira].^000000
 ^FF0000[Carniceiro] nv. 1^000000
-Aumenta o dano físico contra monstros humanoides de acordo com o refino.
+Aumenta o dano físico contra as raças Humanoide e Humano de acordo com o refino.
 ^0000ffRefino +6: 4%.^000000
 ^0000ffRefino +7: 9%.^000000
 ^0000ffRefino +8: 16%.^000000
@@ -42245,7 +42369,7 @@ Classes: ^777777Justiceiros e evoluções^000000
 ^ff0000Não pode ser negociado.^000000
 ^000088Item de aluguel^000000
 *Funcionalidades ativas dentro da área da Guerra do Emperium TE*
-Aumenta o ataque físico em +40% contra outros jogadores.
+Dano físico contra as raças Humano e Doram +40%.
 Chance de causar Maldição ao atacar fisicamente.
 Tipo: ^777777Gun^000000 Ataque: ^77777760^000000
 Peso: ^7777770^000000
@@ -42677,7 +42801,7 @@ Se refinada em +9 ou mais:
 ^0000ffDano de [Rastrear o Alvo] +3% por refino.^000000
 ^0000ffTempo de conjuração de [Rastrear o Alvo] -25%.^000000
 ^FF0000[Carniceiro] nv. 1^000000
-Aumenta o dano físico contra monstros humanoides de acordo com o refino.
+Aumenta o dano físico contra as raças Humanoide e Humano de acordo com o refino.
 ^0000ffRefino +6: 4%.^000000
 ^0000ffRefino +7: 9%.^000000
 ^0000ffRefino +8: 16%.^000000
@@ -42706,7 +42830,7 @@ Se refinada em +6 ou mais:
 Se refinada em +9 ou mais:
 ^0000ffATQ +1% por refino.^000000
 ^FF0000[Carniceiro] nv. 1^000000
-Aumenta o dano físico contra monstros humanoides de acordo com o refino.
+Aumenta o dano físico contra as raças Humanoide e Humano de acordo com o refino.
 ^0000ffRefino +6: 4%.^000000
 ^0000ffRefino +7: 9%.^000000
 ^0000ffRefino +8: 16%.^000000
@@ -42737,7 +42861,7 @@ Se refinada em +9 ou mais:
 ^0000ffDano de [Disparo Espalhado] +2% por refino.^000000
 ^0000ffChance de infligir atordoamento ao usar [Disparo Espalhado].^000000
 ^FF0000[Carniceiro] nv. 1^000000
-Aumenta o dano físico contra monstros humanoides de acordo com o refino.
+Aumenta o dano físico contra as raças Humanoide e Humano de acordo com o refino.
 ^0000ffRefino +6: 4%.^000000
 ^0000ffRefino +7: 9%.^000000
 ^0000ffRefino +8: 16%.^000000
@@ -42767,7 +42891,7 @@ Se refinada em +9 ou mais:
 ^0000ffDano de [Mina do Justiceiro] +2% por refino.^000000
 ^0000ffChance de ativar [velocidade de ataque +20%] ao realizar ataques físicos.^000000
 ^FF0000[Carniceiro] nv. 1^000000
-Aumenta o dano físico contra monstros humanoides de acordo com o refino.
+Aumenta o dano físico contra as raças Humanoide e Humano de acordo com o refino.
 ^0000ffRefino +6: 4%.^000000
 ^0000ffRefino +7: 9%.^000000
 ^0000ffRefino +8: 16%.^000000
@@ -42825,7 +42949,7 @@ Classes: ^777777Justiceiros e evoluções^000000
 ^ff0000Não pode ser negociado.^000000
 ^000088Item de aluguel^000000
 *Funcionalidades ativas dentro da área da Guerra do Emperium TE*
-Aumenta o ataque físico em +40% contra outros jogadores.
+Dano físico contra as raças Humano e Doram +40%.
 Chance de causar Silêncio ao atacar fisicamente.
 Tipo: ^777777Rifle^000000 Ataque: ^77777780^000000
 Peso: ^7777770^000000
@@ -42837,7 +42961,7 @@ Classes: ^777777Gunslinger^000000
 ^ff0000Não pode ser negociado.^000000
 ^000088Item de aluguel^000000
 *Funcionalidades ativas dentro da área da Guerra do Emperium TE*
-Aumenta o ataque físico em +40% contra outros jogadores.
+Dano físico contra as raças Humano e Doram +40.
 Chance de causar Atordoamento ao atacar fisicamente.
 Tipo: ^777777Gatling Gun^000000 Ataque: ^777777100^000000
 Peso: ^7777770^000000
@@ -42849,7 +42973,7 @@ Classes: ^777777Gunslinger^000000
 ^ff0000Não pode ser negociado.^000000
 ^000088Item de aluguel^000000
 *Funcionalidades ativas dentro da área da Guerra do Emperium TE*
-Aumenta o ataque físico em +40% contra outros jogadores.
+Dano físico contra as raças Humano e Doram +40%.
 Chance de causar Envenenamento ao atacar fisicamente.
 Tipo: ^777777Shotgun^000000 Ataque: ^777777100^000000
 Peso: ^7777770^000000
@@ -42861,7 +42985,7 @@ Classes: ^777777Gunslinger^000000
 ^ff0000Não pode ser negociado.^000000
 ^000088Item de aluguel^000000
 *Funcionalidades ativas dentro da área da Guerra do Emperium TE*
-Aumenta o ataque físico em +40% contra outros jogadores.
+Dano físico contra as raças Humano e Doram +40%.
 Chance de causar Cegueira ao atacar fisicamente.
 Tipo: ^777777Grenade Launcher^000000 Ataque: ^777777100^000000
 Peso: ^7777770^000000
@@ -43666,7 +43790,7 @@ Se refinada em +9 ou mais:
 ^0000ffAtiva [Curar] nv. 10 em si ao usar [Ataque Mortal].^000000
 ^0000ffChance de ativar [Fermimento Mortal] nv. 2 ao usar [Arremessar Shuriken Huuma].^000000
 ^FF0000[Carniceiro] nv. 2^000000
-Aumenta o dano físico contra monstros humanoides de acordo com o refino.
+Aumenta o dano físico contra as raças Humanoide e Humano de acordo com o refino.
 ^0000ffRefino +6: 9%.^000000
 ^0000ffRefino +7: 16%.^000000
 ^0000ffRefino +8: 25%.^000000
@@ -43771,7 +43895,7 @@ Classes: ^777777Ninjas e evoluções^000000
 Arma de treinamento para a Guerra do Emperium.
 ^0000ffATQM +100.^000000
 ^6A5ACDEm castelos da GDE TE:^000000
-^0000ffDano físico contra personagens +20%.^000000
+^0000ffDano físico contra as raças Humano e Doram +40%.^000000
 Ao realizar ataques físicos de curta distância:
 ^0000ffChance de infligir Sangramento no oponente.^000000
 Tipo: ^777777Shuriken Huuma^000000
@@ -43910,7 +44034,7 @@ Classes que utilizam: ^777777Transcendentais de Espadachim/Mercador/Gatuno^00000
 13407#
 Este é um item de Aluguel [A]. Quando o tempo de validade se esgotar, ele desaparecerá do seu inventário.
 Espada de uma mão com muitas pontas no topo. Apenas um golpe basta para causar ferimentos profundos. Seu poder contra os humanos é tão forte que muitos agradecem por essa espada não durar para sempre.
-Aumenta em 40% o dano contra monstros do tipo Humanoide.
+Dano físico contra as raças Humanoide e Humano +40%.
 Tipo: Espada
 Força de Ataque: 148
 Peso: 0
@@ -44016,7 +44140,7 @@ Se refinada em +7 ou mais:
 Se refinada em +9 ou mais:
 ^0000ffChance de autoconjurar [Ferimento Mortal] nv. 2 ao usar [Golpe Fulminante].^000000
 ^FF0000[Carniceiro] nv. 1^000000
-Aumenta o dano físico contra monstros humanoides de acordo com o refino.
+Aumenta o dano físico contra as raças Humanoide e Humano de acordo com o refino.
 ^0000ffRefino +6: 4%.^000000
 ^0000ffRefino +7: 9%.^000000
 ^0000ffRefino +8: 16%.^000000
@@ -44146,9 +44270,10 @@ Classes: ^777777Aprendizes, Superaprendizes, Espadachins, Mercadores, Gatunos e 
 #
 13438#
 Uma espada magicamente encantada, cobiçada pela famosa bruxa-guerreira Lila Contrária. Com o poder da luz lunar, ela poderia muito bem ser empunhada pela Sailor Musa.
-^0000ffATQM +110.^000000
+--------------------------
 Ao realizar ataques físicos:
 ^0000ff0,6% de chance de autoconjurar [Espíritos Anciões] nv.3.^000000
+--------------------------
 Refino +2 ou mais:
 ^0000ffAo realizar ataques físicos, 0,6% de chance de autoconjurar [Coluna de Pedra] nv.3.^000000
 Refino +4 ou mais:
@@ -44159,24 +44284,34 @@ Refino +8 ou mais:
 ^0000ffAo realizar ataques físicos, 0,6% de chance de autoconjurar [Relâmpago] nv.3.^000000
 Refino +10 ou mais:
 ^0000ffAo realizar ataques físicos, 0,6% de chance de autoconjurar [Petrificação] nv.5.^000000
-^0000ffTodas as habilidades citadas passam a ser autoconjuradas em nível 5.^000000
-^FF6347Conjunto^000000
-^FF6347[Carta Skeggiold]^000000
-^FF6347[Carta Larva de Centopéia]^000000
-^0000ffChance de autoconjuração +2,4% adicional.^000000
+^0000ffNível autoconjurado de [Coluna de Pedra] [Lanças de Gelo] [Lanças de Fogo] e [Relâmpago] +2.^000000
+--------------------------
+^fa4e09Conjunto^000000
+^fa4e09[Carta Skeggiold]^000000
+^0000ffChance de autoconjuração +1,2% adicional.^000000
+--------------------------
+^fa4e09Conjunto^000000
+^fa4e09[Carta Larva de Centopéia]^000000
+^0000ffChance de autoconjuração +1,2% adicional.^000000
+--------------------------
+^fa4e09Conjunto^000000
+^fa4e09[Carta Skeggiold]^000000
+^fa4e09[Carta Larva de Centopéia]^000000
+^0000ffChance de autoconjuração +0,6% adicional.^000000
+--------------------------
 Tipo: ^777777Espada^000000
-Ataque: ^777777165^000000
+ATQ: ^777777165^000000 ATQM: ^777777110^000000
 Peso: ^777777200^000000
 Nível da arma: ^7777774^000000
 Nível necessário: ^777777105^000000
-Classes: ^777777Aprendizes, Superaprendizes, Espadachins, Mercadores, Gatunos e suas evoluções^000000
+Classes: ^777777Aprendizes, Espadachins, Mercadores, Gatunos e suas evoluções^000000
 #
 13439#
 ^ff0000Não pode ser negociado.^000000
 ^000088Item de aluguel^000000
 ATQM + 100.
 *Funcionalidades ativas dentro da área da Guerra do Emperium TE*
-Aumenta o ataque físico em +40% contra outros jogadores.
+Dano físico contra as raças Humano e Doram +40%.
 Chance de causar Envenenamento ao atacar fisicamente.
 Tipo: ^777777Sword^000000 Ataque: ^777777120^000000
 Peso: ^7777770^000000
@@ -44358,6 +44493,25 @@ Peso: ^77777760^000000
 Nível da arma: ^7777774^000000
 Nível necessário: ^777777100^000000
 Classes: ^777777Guardiões Reais^000000
+#
+13499#
+Runas na lâmina e uma aura oculta envolvendo o cabo definem a Kladenets. Mortal e poderosa, poucas pessoas conseguiram empunhá-la e usufruir de todo seu poder.
+--------------------------
+Ao realizar ataques físicos:
+^0000ff5% de chance de autoconjurar [Onda Psíquica] nv.3.^000000
+--------------------------
+A cada refino:
+^0000ffChance de autoconjuração +0,2% adicional.^000000
+--------------------------
+Refino +10 ou mais:
+^0000ffConjuração fixa -70%.^000000
+--------------------------
+Tipo: ^777777Espada^000000
+ATQ: ^777777180^000000 ATQM: ^777777160^000000
+Peso: ^777777150^000000
+Nível da arma: ^7777773^000000
+Nível necessário: ^777777130^000000
+Classes: ^777777Aprendizes, Espadachins, Mercadores, Gatunos e evoluções^000000
 #
 13514#
 A box containing 1 Spaner. Handle with care!
@@ -46631,7 +46785,7 @@ Classe: ^777777Nenhuma^000000
 15036#
 Armadura criada ao purificar uma Runa Ur. 
 ^0000ffDEFM +10.^000000
-^0000ffResistência as raças Amorfo e Humanoide +5%.^000000
+^0000ffResistência as raças Amorfo, Humanoide e Humano +5%.^000000
 A cada refino:
 ^0000ffHP máx. +1%.^000000
 ^FF6347Conjunto^000000
@@ -46796,18 +46950,24 @@ Classe: ^777777Bioquímico^000000
 #
 15046#
 Armadura ideal para usar em conflitos. 
+--------------------------
 ^0000ffDEFM +5.^000000
-^6A5ACDEm mapas de GdE e PvP:^000000
-^0000ffResistência a personagens +2%.^000000
+^0000ffResistência a raça Humano +2%.^000000
+--------------------------
+Efeitos abaixo somente em mapas de PvP e GvG. 
+--------------------------
 Refino +6 ou mais:
+^0000ffEfetividade de cura recebida +12%.^000000
 ^0000ffRecuperação de HP por itens +12%.^000000
 Refino +9 ou mais:
 ^0000ffHP máx. +25%.^000000
-^FF6347Conjunto^000000
-^FF6347[Grevas de Cerco]^000000
-^FF6347[Manteau de Cerco]^000000
+--------------------------
+^fa4e09Conjunto^000000
+^fa4e09[Grevas de Cerco]^000000
+^fa4e09[Manteau de Cerco]^000000
 ^0000ffVIT +5.^000000
-^0000ffResistência a personagens +15% adicional.^000000
+^0000ffResistência a raça Humano +15% adicional.^000000
+--------------------------
 Tipo: ^777777Armadura^000000
 Defesa: ^77777785^000000
 Peso: ^777777330^000000
@@ -46816,19 +46976,24 @@ Classes: ^777777Espadachins, Mercadores, Taekwons, Mestres Taekwons e evoluçõe
 #
 15047#
 Armadura ideal para usar em conflitos. 
+--------------------------
 ^0000ffDEFM +10.^000000
-^6A5ACDEm mapas de GdE e PvP:^000000
-^0000ffResistência a personagens +2%.^000000
+^0000ffResistência a raça Humano +2%.^000000
+--------------------------
+Efeitos abaixo somente em mapas de PvP e GvG. 
+--------------------------
 Refino +6 ou mais:
-^0000ffEsquiva Perfeita +5.^000000
+^0000ffEsquiva perfeita +5.^000000
 ^0000ffResistência a danos físicos a distância +20%.^000000
 Refino +9 ou mais:
 ^0000ffHP máx. +15%.^000000
-^FF6347Conjunto^000000
-^FF6347[Botas de Cerco]^000000
-^FF6347[Manteau de Cerco]^000000
+--------------------------
+^fa4e09Conjunto^000000
+^fa4e09[Botas de Cerco]^000000
+^fa4e09[Manteau de Cerco]^000000
 ^0000ffDES +5.^000000
-^0000ffResistência a personagens +15% adicional.^000000
+^0000ffResistência a raça Humano +15% adicional.^000000
+--------------------------
 Tipo: ^777777Armadura^000000
 Defesa: ^77777750^000000
 Peso: ^77777775^000000
@@ -46837,26 +47002,31 @@ Classes: ^777777Espadachins, Mercadores, Gatunos, Arqueiros, Taekwons, Mestres T
 #
 15048#
 Armadura ideal para usar em conflitos. 
+--------------------------
 ^0000ffDEFM +20.^000000
-^6A5ACDEm mapas de GdE e PvP:^000000
-^0000ffResistência a personagens +2%.^000000
+^0000ffResistência a raça Humano +2%.^000000
+--------------------------
+Efeitos abaixo somente em mapas de PvP e GvG. 
+--------------------------
 Refino +6 ou mais:
 ^0000ffEsquiva +5.^000000
 ^0000ffResistência a danos físicos a distância +15%.^000000
 Refino +9 ou mais:
 ^0000ffHP máx. +1.000.^000000
 ^0000ffSP máx. +100.^000000
-^FF6347Conjunto^000000
-^FF6347[Sapatos de Cerco]^000000
-^FF6347[Sobrepeliz de Cerco]^000000
+--------------------------
+^fa4e09Conjunto^000000
+^fa4e09[Sapatos de Cerco]^000000
+^fa4e09[Sobrepeliz de Cerco]^000000
 ^0000ffINT +5.^000000
 ^0000ffDEFM +10 adicional.^000000
-^0000ffResistência a personagens +15% adicional.^000000
+^0000ffResistência a raça Humano +15% adicional.^000000
+--------------------------
 Tipo: ^777777Armadura^000000
 Defesa: ^77777740^000000
 Peso: ^77777750^000000
 Nível necessário: ^77777795^000000
-Classes: ^777777Aprendizes, Superaprendizes, Magos, Noviços, Espiritualistas e evoluções^000000
+Classes: ^777777Aprendizes, Magos, Noviços, Espiritualistas e evoluções^000000
 #
 15049#
 Uma armadura que possui a Fé do poderoso Deus Odin.
@@ -46997,7 +47167,7 @@ Armadura de treinamento para a Guerra do Emperium.
 ^6A5ACDEm castelos da GDE TE:^000000
 ^0000ffHP e SP máx. +250.^000000
 ^0000ffTolerância a Congelamento +25%.^000000
-^0000ffResistência a personagens +10%.^000000
+^0000ffResistência as raças Humano e Doram +10%.^000000
 Tipo: ^777777Armadura^000000
 Defesa: ^77777715^000000
 Peso: ^7777770^000000
@@ -47013,7 +47183,7 @@ Armadura de treinamento para a Guerra do Emperium.
 ^0000ffHP máx. +450.^000000
 ^0000ffSP máx. +50.^000000
 ^0000ffTolerância a Congelamento +25%.^000000
-^0000ffResistência a personagens +15%.^000000
+^0000ffResistência as raças Humano e Doram +15%.^000000
 Tipo: ^777777Armadura^000000
 Defesa: ^77777725^000000
 Peso: ^7777770^000000
@@ -47029,7 +47199,7 @@ Armadura de treinamento para a Guerra do Emperium.
 ^0000ffHP máx. +200.^000000
 ^0000ffSP máx. +300.^000000
 ^0000ffTolerância a Congelamento +25%.^000000
-^0000ffResistência a personagens +5%.^000000
+^0000ffResistência as raças Humano e Doram +5%.^000000
 Tipo: ^777777Armadura^000000
 Defesa: ^7777775^000000
 Peso: ^7777770^000000
@@ -48390,7 +48560,7 @@ Classes:  ^777777Aprendizes, Superaprendizes, Espadachins, Mercadores, Noviços 
 Aparato bélico usado em guerras.
 ^a400cdIndestrutível em batalha.^000000
 ^6A5ACDEm mapas de GdE e PvP:^000000
-^0000ffAo realizar ataques físicos, chance de impedir a recuperação de HP e SP do oponente.^000000
+^0000ffAo realizar ataques físicos em oponentes da raça Humano, chance de impedir a recuperação de HP e SP do oponente.^000000
 A cada refino:
 ^0000ffCRIT +1.^000000
 A cada 2 refinos:
@@ -48405,7 +48575,7 @@ Classes: ^777777Aprendizes, Superaprendizes, Espadachins, Noviços, Mercadores e
 16024#
 Maça de cabeça redonda feita de ferro temperado. Arma pesada, mas muito poderosa. 
 ^a400cdIndestrutível em batalha.^000000
-^0000ffDano físico contra a raça Humanoide +10%.^000000
+^0000ffDano físico contra as raças Humanoide e Humano +10%.^000000
 ^0000ffDano físico contra as propriedades Terra e Maldito +10%.^000000
 Tipo: ^777777Maça^000000
 Ataque: ^777777165^000000
@@ -48421,7 +48591,7 @@ Arma de treinamento para a Guerra do Emperium.
 ^a400cdIndestrutível em batalha.^000000
 ^6A5ACDEm castelos da GdE TE:^000000
 ^0000ffEfetividade de cura +5%.^000000
-^0000ffDano físico contra a raça Humanoide +40%.^000000
+^0000ffDano físico contra as raças Humano e Doram +40%.^000000
 ^0000ffAo realizar ataques físicos, chance de infligir [Hipotermia] no oponente.^000000
 Tipo: ^777777Maça^000000
 Ataque: ^777777120^000000
@@ -50384,7 +50554,7 @@ Classes: ^777777Arqueiros e evoluções^000000
 Aparato bélico usado em guerras.
 ^6A5ACDEm mapas de GdE e PvP:^000000
 ^0000ffVelocidade de ataque -5.^000000
-^0000ffEm ataques físicos, drena 4% de SP do oponente.^000000
+^0000ffEm ataques físicos, drena 4% de SP de oponentes da raça Humano.^000000
 Tipo: ^777777Arco^000000 
 Ataque: ^77777750^000000 
 Peso: ^777777110^000000
@@ -50395,10 +50565,10 @@ Classes: ^777777Arqueiros, Arruaceiros e evoluções e Gatunos^000000
 18114#
 Aparato bélico usado em guerras.
 ^6A5ACDEm mapas de GdE e PvP:^000000
-^0000ffDano físico contra outros personagens +30%.^000000
-^0000ffIgnora 30% da DEF de outros personagens.^000000
+^0000ffDano físico contra a raça Humano +30%.^000000
+^0000ffIgnora 30% da DEF da raça Humano.^000000
 A cada refino:
-^0000ffDano físico contra outros personagens +1%.^000000
+^0000ffDano físico contra a raça Humano +1% adicional.^000000
 ^FF6347Conjunto^000000
 ^FF6347[Flecha de Cerco A]^000000
 ^0000ffDano físico a distância +40%.^000000
@@ -50448,7 +50618,7 @@ A cada refino:
 ^FF6347[Carta Deviace]^000000
 ^FF6347[Flecha Amaldiçoada]^000000
 A cada refino:
-^0000ffDano físico contra a raça Humanoide +2%.^000000
+^0000ffDano físico contra as raças Humanoide e Humano +2%.^000000
 ^FF6347Conjunto^000000
 ^FF6347[Carta Deviace]^000000
 ^FF6347[Flecha Sonífera]^000000
@@ -50471,7 +50641,7 @@ Classes: ^777777Arqueiros, Arruaceiros e evoluções^000000
 ^000088Item de aluguel^000000
 Arma de treinamento para a Guerra do Emperium.
 ^6A5ACDEm castelos da GDE TE:^000000
-^0000ffDano físico contra outros personagens +40%.^000000
+^0000ffDano físico contra as raças Humano e Doram +40%.^000000
 Ao realizar ataques físicos:
 ^0000ffChance de infligir [Maldição] no oponente.^000000
 Tipo: ^777777Arco^000000 
@@ -50749,13 +50919,17 @@ Classe: ^777777Todas as Classes^000000
 #
 18520#
 A coroa que apenas a pessoa que recebe a honra tribal pode usar.
-Reduz em 5% o dano de monstros do tipo planta.  Aumenta em 5% o dano em monstros do tipo planta. 
-Tipo: ^777777Equipamento para a Cabeça^000000
+--------------------------
+^0000ffDano físico contra as raças Planta, Bruto e Doram +5%.^000000
+--------------------------
+^0000ffResistência as raças Planta, Bruto e Doram +5%.^000000
+--------------------------
+Tipo: ^777777Equipamento para Cabeça^000000
+Equipa em: ^777777Topo^000000
 Defesa: ^7777771^000000
-Equipa em: ^777777Topo ^000000
 Peso: ^77777710^000000
-Nível Necessário: ^7777771^000000
-Classes que utilizam:  ^777777Todas^000000
+Nível necessário: ^7777771^000000
+Classes: ^777777Todas^000000
 #
 18521#
 Um raríssimo e especial trevo da sorte. Cada pétala representa uma virtude, sendo elas a Esperança, a Sinceridade, o Amor e finalmente, a Sorte! Mas se vai leva-lo na boca, não faça como um Lunático e evite devorar o seu trevo.
@@ -51336,7 +51510,7 @@ Estas grandes joias preciosas simbolizam o yin e o yang, as duas forças complem
 Eles emanam uma energia serena, que ajudam seu usuário a equilibrar corpo e mente, algo especialmente útil para os artistas marciais.
 ^0000ffDano de [Combo Quádruplo] +10%.^000000
 ^0000ffDano de [Combo Triplo] e [O Último Dragão] +5%.^000000
-^0000ffConsumo de SP de [Combo Quádruplo] e [O Último Dragão] +10%.^000000
+^0000ffConsumo de SP de [Combo Quádruplo] e [O Último Dragão] +1.^000000
 Ao equipar junto com a Faixa de Caratê:
 ^0000ffConsumo de SP por habilidades +10%.^000000
 ^0000ffConsumo de SP -1% por refino da Faixa de Caratê.^000000
@@ -51532,8 +51706,8 @@ Um saboroso quitute para ser usado na cabeça, esse brioche avermelhado foi enca
 ^0000ffDEFM +5.^000000
 ^0000ffDano mágico +5%.^000000
 A cada refino a partir do +6:
-^0000ffResistência a raça Humanoide +1%.^000000
-^0000ffDano mágico contra a raça Humanoide +1%.^000000
+^0000ffResistência as raças Humanoide e Humano +1%.^000000
+^0000ffDano mágico contra oponentes das raças Humanoide e Humano +1%.^000000
 Tipo: ^777777Equipamento para Cabeça^000000
 Equipa em: ^777777Topo^000000
 Defesa: ^7777770^000000
@@ -51795,7 +51969,7 @@ Classe: ^777777Todas exceto Aprendiz e Evoluções^000000
 18645#
 Um quepe usado pelo marinheiro Donald, que ficou conhecido por sua inteligência e capacidade de traçar estratégias. Dizem, contudo, que Donald também possuía um péssimo gênio e se irritava muito facilmente, e que quando surtava era melhor sair da sua frente.
 INT + 1.
-Aumenta em 5% o dano contra Humanoides
+Dano físico contra as raças Humanoide e Humano +5%.
 Tipo: ^777777Equipamento para cabeça^000000
 Defesa: ^7777772^000000
 Equipa em: ^777777Topo^000000
@@ -52378,7 +52552,7 @@ Classes: ^777777Todas^000000
 Dizem que na família mafiosa mais famosa de Lighthalzen havia o único minijusticeiro de Midgard. Conhecido como Rebourne, o pequeno bebê era extremamente poderoso, e entre suas armas secretas estava a Bola Rebourne. Também conhecida como 'bola do último desejo', quando atinge seu alvo na cabeça ela se incendeia e teoricamente mata seu alvo. Para sua sorte, ela também instantaneamente o ressuscita, liberando uma incrível força interior capaz de transformar qualquer pessoa que não seja boa em nada, mas que possua um último desejo, em um verdadeiro herói!
 ^0000ffConjuração variável -3%.^000000
 ^0000ffRecuperação de HP da Mastela +30%.^000000
-^0000ffResistência a monstros da raça Humanoide +10%.^000000
+^0000ffResistência as raças Humanoide e Humano +10%.^000000
 Refino +12 ou mais:
 ^0000ffConjuração variável -1% adicional.^000000
 Refino +14 ou mais:
@@ -52398,7 +52572,7 @@ Armadura de treinamento para a Guerra do Emperium.
 ^6A5ACDEm castelos da GDE TE:^000000
 ^0000ffATQ e ATQM +5.^000000
 ^0000ffTolerância a Congelamento +25%.^000000
-^0000ffDano físico e mágico contra personagens +10%.^000000
+^0000ffDano físico e mágico contra as raças Humano e Doram +10%.^000000
 Tipo: ^777777Equipamento para Cabeça^000000
 Equipa em: ^777777Topo^000000
 Defesa: ^7777775^000000
@@ -52413,7 +52587,7 @@ Armadura de treinamento para a Guerra do Emperium.
 ^6A5ACDEm castelos da GDE TE:^000000
 ^0000ffATQ +10.^000000
 ^0000ffTolerância a Congelamento +25%.^000000
-^0000ffDano físico contra personagens +20%.^000000
+^0000ffDano físico contra as raças Humano e Doram +20%.^000000
 Tipo: ^777777Equipamento para Cabeça^000000
 Equipa em: ^777777Topo^000000
 Defesa: ^77777710^000000
@@ -52429,7 +52603,7 @@ Armadura de treinamento para a Guerra do Emperium.
 ^6A5ACDEm castelos da GDE TE:^000000
 ^0000ffATQM +10.^000000
 ^0000ffTolerância a Congelamento +25%.^000000
-^0000ffDano mágico contra personagens +20%.^000000
+^0000ffDano mágico contra as raças Humano e Doram +20%.^000000
 Tipo: ^777777Equipamento para Cabeça^000000
 Equipa em: ^777777Topo^000000
 Defesa: ^7777775^000000
@@ -52538,15 +52712,22 @@ Classes: ^777777Todas, exceto Aprendizes^000000
 #
 18756#
 Um chapéu feito em homenagem a uma das raças mais raras e antigas de cachorros, que ainda é muito popular em Amatsu. Os Shiba Inus são ancestrais dos mais conhecidos Akitas, e o seu nome, no dialeto de Amatsu significa 'pequeno cão'. Apesar do tamanho, os Shiba Inus são bastante independentes e ótimos cães de caça, usados para encontrar pequenos animais. Dizem as lendas que o um cão desta raça é a única coisa que pode deter a fúria do Atroce, já que quando ainda era humano, este guerreiro amaldiçoado tinha uma paixão especial por essa raça.
+--------------------------
 ^0000ffATQ +30.^000000
-^0000ffDano físico contra a raça Bruto +10%.^000000
-^FF6347Conjunto^000000
-^FF6347[Coleira da Fidelidade]^000000
+--------------------------
+^0000ffDano físico contra as raças Bruto e Doram +10%.^000000
+--------------------------
+^fa4e09Conjunto^000000
+^fa4e09[Coleira da Fidelidade]^000000
 Ao receber ou realizar ataques físicos:
-^0000ffChance de se transformar em Atroce por alguns segundos.^000000
+^0000ff0,3% de chance de se transformar em Atroce por 5 segundos.^000000
+A cada refino do Chapéu:
+^0000ffChance de transformação +0,3%.^000000
+--------------------------
 ^CD3278Durante a transformação:^000000
 ^0000ffATQ +30.^000000
 ^0000ffDrena 5 de SP por segundo.^000000
+--------------------------
 Tipo: ^777777Equipamento para Cabeça^000000
 Equipa em: ^777777Topo^000000
 Defesa: ^7777776^000000
@@ -53018,7 +53199,7 @@ Classe: ^777777Todas^000000
 #
 18843#
 De acordo com o curso de exorcismo da Academia de Vera Cruz, às vezes ao se derrotar devilings eles deixam partículas suas para trás, pequenas como manchas de carvão (ou de suco de uva azedo). Deve ser verdade, porque agora elas estão fazendo a festa na sua cabeça!
-Diminui em 5% o dano recebido por monstros do tipo humanoide.
+Resistência as raças Humanoide e Humano +5%.
 Refinos após o +8 acrescentarão 1% no HPMax.
 Tipo: ^777777Equipamento pra cabeça^000000
 Defesa: ^7777777^000000
@@ -53464,13 +53645,15 @@ Classes: ^777777Todas^000000
 #
 18894#
 Diadema criada em homenagem a Bifröst, ponte que liga Asgard à Midgard.
-^0000ffResistência a personagens +5%.^000000
+--------------------------
+^0000ffResistência a raça Humano +5%.^000000
+--------------------------
 Tipo: ^777777Equipamento para Cabeça^000000
-Defesa: ^7777775^000000
 Equipa em: ^777777Meio^000000
+Defesa: ^7777775^000000
 Peso: ^77777750^000000
 Nível necessário: ^77777770^000000
-Classes: ^777777Todas ^000000
+Classes: ^777777Todas^000000
 #
 18895#
 Dizem que há muito tempo, a Tribo Utan venerava uma antiga divindade chamada Tapaton. Por meio de sons produzidos por seu tambor místico, Tapaton teria conseguido guiar os Utan por diversos perigos, até alcançarem as raízes de Yggdrasil, onde Odin aguardava por eles. Ele precisava que seu maior guerreiro recuperasse um tesouro perdido no Vulcão de Thor. Para que a força de Tapaton continuasse a ecoar nos ouvidos do seu herói, Odin transformou a pequena divindade em um par de asas, que iriam coroar a cabeça do guerreiro e protege-lo do fogo do vulcão. Assim surgiram as Asas de Tapaton.
@@ -53790,9 +53973,9 @@ Ao sofrer danos físicos ou mágicos:
 ^FF6347[Bracelete Suntuoso]^000000
 ^0000ffHP máx. +5%.^000000
 ^0000ffRecuperação de HP da [Poção Compacta Branca] +10%.^000000
-^0000ffResistência a raça Humanoide +5%.^000000
+^0000ffResistência as raças Humanoide e Humano +5%.^000000
 Refino +7 ou mais:
-^0000ffResistência a raça Humanoide +5% adicional.^000000
+^0000ffResistência as raças Humanoide e Humano +5% adicional.^000000
 Tipo: ^777777Equipamento para Cabeça^000000
 Equipa em: ^777777Topo^000000
 Defesa: ^7777770^000000
@@ -53934,16 +54117,16 @@ Nv. base 130 ou mais:
 ^fa4e09[Orbes Arcanos]^000000
 ^0000ffVIT +4.^000000
 ^0000ffConjuração variável -6%.^000000
-^0000ffResisência a oponentes da raça Humanoide +4%.^000000
+^0000ffResistência as raças Humano e Humanoide +4%.^000000
 ^0000ffDano mágico de propriedade Vento e Terra +20%.^000000
 Tiara com refino +7 ou mais:
 ^0000ffVIT +4 adicional.^000000
 ^0000ffConjuração variável -6% adicional.^000000
-^0000ffResisência a oponentes da raça Humanoide +4% adicional.^000000
+^0000ffResistência as raças Humano e Humanoide +4% adicional.^000000
 Tiara com refino +9 ou mais:
 ^0000ffVIT +4 adicional.^000000
 ^0000ffConjuração variável -6% adicional.^000000
-^0000ffResisência a oponentes da raça Humanoide +4% adicional.^000000
+^0000ffResistência as raças Humano e Humanoide +4% adicional.^000000
 --------------------------
 ^fa4e09Conjunto^000000
 ^fa4e09Bastão do Sobrevivente [1]^000000
@@ -55233,6 +55416,32 @@ Peso: ^77777740^000000
 Nível necessário: ^7777771^000000
 Classes: ^777777Todas^000000
 #
+19304#
+Peça rara que comprova bravura em batalha. O teor imponente dos dragões é passado para quem usa o elmo. Infelizmente não te permite cuspir fogo.
+--------------------------
+^0000ffDEFM +15.^000000
+^0000ffHP máx. +5%.^000000
+^0000ffResistência as propriedades Fogo e Água +5%.^000000
+--------------------------
+A cada refino:
+^0000ffHP máx. +1%.^000000
+^0000ffResistência as propriedades Fogo e Água +2%.^000000
+--------------------------
+Refino +8 ou mais:
+^0000ffHabilita [Congelar] nv.5.^000000
+^0000ffTorna a armadura indestrutível em batalha.^000000
+Refino +10 ou mais:
+^0000ffAo receber danos mágicos, 7% de chance de autoconjurar [Proteger Terreno] nv.1.^000000
+--------------------------
+^CD3278Se Gemas Azuis ou Amarelas estiverem no inventário, elas serão consumidas na autoconjuração.^000000
+--------------------------
+Tipo: ^777777Equipamento para Cabeça^000000
+Equipa em: ^777777Topo^000000
+Defesa: ^77777730^000000
+Peso: ^777777100^000000
+Nível necessário: ^77777799^000000
+Classes: ^777777Todas^000000
+#
 19305#
 Uma gaiola de vidro que contém fadas aprisionadas. O brilho delas deixa o lugar tristemente iluminado.
 Tipo: ^777777Equipamento para Cabeça^000000
@@ -56357,6 +56566,14 @@ Peso: ^7777770^000000
 Nível Necessário: ^7777771^000000
 Classes: ^777777Todas^000000
 #
+19670#
+É raro vermos um item valioso ao ponto de desviar atenções de figurões da elite. A Joia do Sul já foi responsável por intrigas e disputas, causando muita discórdia no alto escalão de Rune-Midgard. 
+Tipo: ^777777Visual^000000
+Equipa em: ^777777Topo^000000
+Peso: ^7777770^000000
+Nível Necessário: ^7777771^000000
+Classes: ^777777Todas^000000
+#
 19671#
 Depois de juntar meses e meses em troco de poção, você finalmente encontrou um lugar perfeito pra guardar todas as moedinhas. Boa sorte equilibrando suas finanças na cabeça!
 Tipo: ^777777Visual^000000
@@ -56668,6 +56885,14 @@ Equipa em: ^777777Topo ^000000
 Peso: ^7777770^000000
 Nível Necessário: ^7777771^000000
 Classe: ^777777Todas^000000
+#
+19744#
+Esse Laço foi um dia usado por uma Doram chamada de “Delicadinha”. É frágil, mas sua composição leve e harmoniosa é perfeita para combinar com qualquer estilo.
+Tipo: ^777777Visual^000000
+Equipa em: ^777777Topo^000000
+Peso: ^7777770^000000
+Nível Necessário: ^7777771^000000
+Classes: ^777777Todas^000000
 #
 19746#
 Este capuz sombrio é perfeito para esconder seu rosto, deixando apenas seus malignos olhos vermelhos à mostra. Só tome cuidado quando for fazer suas malvadezas, porque parece que um bando de Pés Grandes com desenhos pintados na barriga pode aparecer atrás de você gritando “4...3...2...1!”
@@ -57802,6 +58027,14 @@ Equipa em: ^777777Topo^000000
 Peso: ^7777770^000000
 Nível Necessário: ^7777771 ^000000
 Classes: ^777777Todas ^000000
+#
+20045#
+Pra usar essa peruca você tem que ser tudo, menos envergonhado. É praticamente impossível não perceber uma “floresta ambulante” caminhando por aí.
+Tipo: ^777777Visual^000000
+Equipa em: ^777777Topo e Meio^000000
+Peso: ^7777770^000000
+Nível Necessário: ^7777771^000000
+Classes: ^777777Todas^000000
 #
 20047#
 Alguém achou que seria uma boa ideia reaproveitar uns furins pra fazer esses adereços exóticos. Talvez tenha sido, se você gostar de infernizar a vida de meio mundo fazendo bling-bling-bling por aí com uns guizos.
@@ -59118,6 +59351,14 @@ Peso: ^7777770^000000
 Nível necessário: ^7777771^000000
 Classes: ^777777Todas^000000
 #
+20380#
+Quando os adeptos industriais souberam que estavam sendo fabricadas Tiaras com Asas Mecânicas, todos saíram correndo para adquirir uma forma de fazer os pensamentos voarem. 
+Tipo: ^777777Visual^000000
+Equipa em: ^777777Topo^000000
+Peso: ^7777770^000000
+Nível Necessário: ^7777771^000000
+Classes: ^777777Todas^000000
+#
 20381#
 Essa cartola representa mais do que um visual típico da República de Schwartzwald. Ela representa um estilo de vida, de aventureiros que buscam por um futuro mais tecnológico usando a tecnologia à vapor que surgiu em Einbroch. Você faz parte desse grupo, tanto que batizou seu Ursinho com o nome do escritor mecânico mais famoso de todos: Júlio Verme, o autor de obras como 2 Mil Léguas Sob Byalan, Viagem ao Centro da Yggdrasil ou A Volta ao Mundo em Oitenta Mapas.
 Tipo: ^777777Visual^000000
@@ -59599,6 +59840,15 @@ Peso: ^7777770^000000
 Nível necessário: ^7777771^000000
 Classes: ^777777Todas^000000
 #
+20519#
+Estar rodeado pela natureza é um sentimento único, que recarrega as energias gastas em difíceis batalhas. Estar perto da natureza e envolvido por folhas de outono é duas vezes mais eficiente.
+^008080Exibe efeito gráfico que pode ser desligado com /effect.^000000
+Tipo: ^777777Visual^000000
+Equipa em: ^777777Capa^000000
+Peso: ^7777770^000000
+Nível Necessário: ^7777771^000000
+Classes: ^777777Todas^000000
+#
 20521#
 Se você é mesmo obcecado pelos felinos, então não vai perder a oportunidade de ser a mãe ou pai de mais um bichano. Prometemos que este aqui não vai te acordar às 3 da manhã fazendo um show pela casa.
 ^008080Exibe o visual nas costas do personagem.^000000
@@ -59649,6 +59899,14 @@ Equipa em: ^777777Capa^000000
 Defesa: ^7777770^000000
 Peso: ^7777770^000000
 Nível necessário: ^7777771^000000
+Classes: ^777777Todas^000000
+#
+20546#
+Lembra aquela história de ficar se aparecendo por usar uma melancia no pescoço? Então, o mesmo vale se você usar esse Sino Espalhafatoso. Não vai ter como não olhar para você!
+Tipo: ^777777Visual^000000
+Equipa em: ^777777Capa^000000
+Peso: ^7777770^000000
+Nível Necessário: ^7777771^000000
 Classes: ^777777Todas^000000
 #
 20547#
@@ -59754,7 +60012,7 @@ Capa de treinamento para a Guerra do Emperium.
 ^0000ffDEFM +5.^000000
 ^6A5ACDEm castelos da GDE TE:^000000
 ^0000ffTolerância a Congelamento +25%.^000000
-^0000ffDano físico e mágico contra personagens +5%.^000000
+^0000ffDano físico e mágico contra as raças Humano e Doram +5%.^000000
 Tipo: ^777777Capa^000000
 Defesa: ^7777775^000000
 Peso: ^7777770^000000
@@ -59767,7 +60025,7 @@ Classes: ^777777Todas^000000
 Capa de treinamento para a Guerra do Emperium. 
 ^6A5ACDEm castelos da GDE TE:^000000
 ^0000ffTolerância a Congelamento +25%.^000000
-^0000ffDano físico contra personagens +10%.^000000
+^0000ffDano físico contra as raças Humano e Doram +10%.^000000
 Tipo: ^777777Capa^000000
 Defesa: ^77777710^000000
 Peso: ^7777770^000000
@@ -59781,7 +60039,7 @@ Calçado de treinamento para a Guerra do Emperium.
 ^0000ffDEFM +5.^000000
 ^6A5ACDEm castelos da GDE TE:^000000
 ^0000ffTolerância a Congelamento +25%.^000000
-^0000ffDano mágico contra personagens +10%.^000000
+^0000ffDano mágico contra as raças Humano e Doram +10%.^000000
 Tipo: ^777777Capa^000000
 Defesa: ^7777775^000000
 Peso: ^7777770^000000
@@ -60091,7 +60349,7 @@ Refino +9 ou mais:
 ^0000ffResistência as propriedades Sombrio e Sagrado +10% adicional.^000000
 ^FF6347Conjunto^000000
 ^FF6347[Botas do Ocultista]^000000
-^0000ffResistência a raça Humanoide +10%.^000000
+^0000ffResistência as raças Humanoide e Humano +10%.^000000
 ^0000ffResistência as propriedades Sombrio e Sagrado +30%.^000000
 A cada nível de [Fé]:
 ^0000ffResistência a propriedade Sagrado^000000 ^ff0000-2%.^000000
@@ -60103,6 +60361,58 @@ Tipo: ^777777Capa^000000
 Defesa: ^77777718^000000
 Peso: ^77777730^000000
 Nível necessário: ^77777790^000000
+Classes: ^777777Todas^000000
+#
+20816#
+Sombrio e enigmático, o que esse echarpe tem de bonito, tem de horripilante. Vista-o e assuste até seus piores inimigos.
+--------------------------
+^0000ffDEFM +10.^000000
+^0000ffVelocidade de ataque +5%.^000000
+--------------------------
+Ao aprender [Disparo Certeiro] nv.10:
+^0000ffDano de [Disparo Certeiro] +5%.^000000
+--------------------------
+Ao aprender [Ataque Aéreo] nv.5:
+^0000ffDano de [Ataque Aéreo] +15%.^000000
+--------------------------
+Ao aprender [Tiro Preciso] nv.5:
+^0000ffDano de [Tiro Preciso] +60%.^000000
+--------------------------
+Refino +7 ou mais:
+^0000ffVelocidade de ataque +3% adicional.^000000
+-
+A cada 3 níveis de base:
+^0000ffDano de [Tiro Preciso] +1%.^000000
+-
+A cada 5 níveis de base:
+^0000ffDano de [Ataque Aéreo] +1%.^000000
+-
+A cada 30 níveis de base:
+^0000ffDano de [Disparo Certeiro] +1%.^000000
+--------------------------
+Refino +9 ou mais:
+^0000ffSP máx. +5%.^000000
+^0000ffVelocidade de ataque +3% adicional.^000000
+--------------------------
+Sentinelas e evoluções:
+^0000ffHP máx. +15%.^000000
+^0000ffResistência a danos fisicos a distância +20%.^000000
+-
+Refino +7 ou mais:
+^0000ffHP máx. +5% adicional.^000000
+^0000ffResistência a danos fisicos a distância +15% adicional.^000000
+-
+^FA4E09Conjunto^000000
+^FA4E09[Carta Besouro-Chifre]^000000
+^0000ffAnula o efeito da carta.^000000
+^FA4E09Conjunto^000000
+^FA4E09[Escudo de Placas Samurai]^000000
+^0000ffResistência a danos físicos a distância^000000 ^ff0000-35%.^000000
+--------------------------
+Tipo: ^777777Capa^000000
+Defesa: ^77777718^000000
+Peso: ^77777730^000000
+Nível necessário: ^777777100^000000
 Classes: ^777777Todas^000000
 #
 20842#
@@ -60489,6 +60799,45 @@ Peso: ^77777740^000000
 Nível necessário: ^777777100^000000
 Classes: ^777777Todas^000000
 #
+20973#
+De tecido fino e frágil, esse manto retém o poder da alma de todos os seus donos anteriores. Vestindo ele, você automaticamente entra nesse ciclo!
+--------------------------
+^0000ffDEFM +10.^000000
+^0000ffResistência as raças Humanoide, Humano e Doram +5%.^000000
+--------------------------
+^0000ffHP e SP máx. +3%.^000000
+^0000ffPós-conjuração -5%.^000000
+Refino +5 ou mais:
+^0000ffHP e SP máx. +7% adicional.^000000
+^0000ffPós-conjuração -5% adicional.^000000
+Refino +7 ou mais:
+^0000ffHP e SP máx. +10% adicional.^000000
+^0000ffPós-conjuração -5% adicional.^000000
+--------------------------
+^FA4E09Conjunto^000000
+^FA4E09[Carta Marionette]^000000
+^0000ffResistência a propriedade Fantasma +45%.^000000
+--------------------------
+^FA4E09Conjunto^000000
+^FA4E09[Carta Orc Zumbi]^000000
+^0000ffResistência a propriedade Maldito +45%.^000000
+--------------------------
+^FA4E09Conjunto^000000
+^FA4E09[Carta Névoa]^000000
+^0000ffResistência a propriedade Veneno +45%.^000000
+--------------------------
+^FA4E09Conjunto^000000
+^FA4E09[Carta Eclipse]^000000
+^0000ffResistência a propriedade Sagrado +75%.^000000
+A cada nivel de [Fé]:
+^0000ffResistência a propriedade Sagrado^000000 ^ff0000-5%.^000000
+--------------------------
+Tipo: ^777777Capa^000000
+Defesa: ^77777712^000000
+Peso: ^77777790^000000
+Nível necessário: ^777777100^000000
+Classes: ^777777Todas^000000
+#
 21000#
 Uma Espada especial revestido de Oridecon e Ouro em uma combinação perfeita.
 ^0000ffA cada refino:^000000
@@ -60505,10 +60854,10 @@ Classes: ^777777Espadachins e evoluções^000000
 21001#
 Aparato bélico usado em guerras.
 ^6A5ACDEm mapas de GdE e PvP:^000000
-^0000ffIgnora 30% da DEF dos personagens.^000000
-^0000ffDano físico contra personagens +80%.^000000
+^0000ffIgnora 30% da DEF da raça Humano.^000000
+^0000ffDano físico contra a raça Humano +80%.^000000
 Refino +6 ou mais:
-^0000ffDano físico contra personagens +40% adicional.^000000
+^0000ffDano físico contra a raça Humano +40% adicional.^000000
 Refino +9 ou mais:
 ^0000ffReflete 20% do dano físico.^000000
 Ao receber danos mágicos:
@@ -60523,7 +60872,7 @@ Classes: ^777777Espadachins e evoluções^000000
 21002#
 Aparato bélico usado em guerras.
 ^6A5ACDEm mapas de GdE e PvP:^000000
-^0000ffEm ataques físicos, drena 8% de HP do oponente.^000000
+^0000ffEm ataques físicos, drena 8% de HP de oponentes da raça Humano.^000000
 Tipo: ^777777Espadade Duas Mãos^000000
 Ataque: ^777777100^000000
 Peso: ^777777250^000000
@@ -60558,7 +60907,7 @@ Classes: ^777777Espadachins e evoluções^000000
 21006#
 ^000088Item de aluguel^000000
 ^6A5ACDEm castelos da GDE TE:^000000
-^0000ffDano físico contra personagens +40%.^000000
+^0000ffDano físico contra as raças Humano e Doram +40%.^000000
 Ao realizar ataques físicos:
 ^0000ffAlta chance de infligir Sangramento no oponente.^000000
 ^ff0000Não pode ser negociado.^000000
@@ -61732,8 +62081,8 @@ A cada nível de [Sabedoria de Hefesto]:
 A cada nível de [Gemini Lumen]:
 ^0000ffVelocidade de ataque +1%.^000000
 A cada nível de [Perícia com Maça]:
-^0000ffIgnora 10% da DEF da raça Humanoide, Demônio e Morto-Vivo.^000000
-^0000ffCRIT +5 em oponentes da raça Humanoide, Demônio e Morto-Vivo.^000000
+^0000ffIgnora 10% da DEF da raça Humanoide, Humano, Demônio e Morto-Vivo.^000000
+^0000ffCRIT +5 em oponentes da raça Humanoide, Humano, Demônio e Morto-Vivo.^000000
 Tipo: ^777777Calçado^000000
 Defesa: ^77777712^000000
 Peso: ^77777750^000000
@@ -61803,6 +62152,39 @@ Arma com refino +9 ou mais:
 Tipo: ^777777Calçado^000000
 Defesa: ^77777715^000000
 Peso: ^77777750^000000
+Nível necessário: ^777777100^000000
+Classes: ^777777Todas^000000
+#
+22145#
+A chinela favorita dos Shuras é confortável e ecológica. Todo mundo deveria ter a chance de usar!
+--------------------------
+^0000ffDEFM +10.^000000
+^0000ffHP e SP máx. +3%.^000000
+^0000ffHabilita [Cancelar Magia] nv.1.^000000
+--------------------------
+A cada nível de [Chakra da Cura]:
+^0000ffHP máx. +2%.^000000
+A cada nível de [Chakra do Vigor]:
+^0000ffDEF +30.^000000
+^0000ffResistência a raça Humano +1%.^000000
+A cada nível de [Chakra do Silêncio]:
+^0000ffATQ da arma +4%.^000000
+A cada nível de [Chakra da Energia]:
+^0000ffConjuração fixa -10%.^000000
+^0000ffConjuração variável de [Corpo Fechado] e [Invocar Esfera Espiritual] -10%.^000000
+A cada nível de [Chakra da Fúria]:
+^0000ffVelocidade de ataque +2%.^000000
+--------------------------
+Refino +5 ou mais:
+^0000ffHP e SP máx. +3% adicional.^000000
+^0000ffCusto de SP de [Passo Etéreo] -5.^000000
+Refino +7 ou mais:
+^0000ffHP e SP máx. +10% adicional.^000000
+^0000ffCusto de SP de [Passo Etéreo] -5 adicional.^000000
+--------------------------
+Tipo: ^777777Calçado^000000
+Defesa: ^77777712^000000
+Peso: ^77777740^000000
 Nível necessário: ^777777100^000000
 Classes: ^777777Todas^000000
 #
@@ -62126,6 +62508,38 @@ Tipo: ^777777Calçado^000000
 Defesa: ^77777715^000000
 Peso: ^77777750^000000
 Nível necessário: ^777777100^000000
+Classes: ^777777Todas^000000
+#
+22203#
+Cientistas projetaram essas botas para que alterassem a gravidade do usuário. Obviamente não conseguiram, mas ainda é um equipamento poderoso!
+--------------------------
+^0000ffDano mágico contra monstros Chefes +15%.^000000
+--------------------------
+A cada refino:
+^0000ffATQM +5.^000000
+^0000ffHP e SP máx. +2%.^000000
+^0000ffPós-conjuração -1%.^000000
+Refino +10 ou mais:
+^0000ffINT +15.^000000
+--------------------------
+^FA4E09Conjunto^000000
+^FA4E09[Carta Senhor das Trevas]^000000
+^0000ffHabilita [Vulcão] nv.5.^000000
+Refino +1 ou mais:
+^0000ffAo receber danos físicos, 3% de chance de ativar um [efeito] por 15 segundos.^000000
+--------------------------
+^CD3278Efeito:^000000
+Nv. base 99:
+^0000ffA cada refino:^000000
+^0000ffDano mágico de propridade Fogo +5%.^000000
+Nv. base 100 ou mais:
+^0000ffA cada refino:^000000
+^0000ffDano mágico de propridade Fogo +10%.^000000
+--------------------------
+Tipo: ^777777Calçado^000000
+Defesa: ^77777715^000000
+Peso: ^777777100^000000
+Nível necessário: ^77777799^000000
 Classes: ^777777Todas^000000
 #
 22204#
@@ -63246,6 +63660,42 @@ Nível da arma: ^7777774^000000
 Nível necessário: ^777777100^000000
 Classes: ^777777Feiticeiros^000000
 #
+26155#
+Uma folha empunhada por Miau, uma antiga lenda entre os Doram. Não dá para ter certeza de que ele realmente existiu, mas não há como negar que é uma arma muito poderosa. A marca de pata de gato realça o fator singular desse equipamento ancestral.
+--------------------------
+^a400cdIndestrutível em batalha.^000000
+--------------------------
+A cada 2 refinos:
+^0000ffATQ e ATQM +10.^000000
+A cada 3 refinos:
+^0000ffATQ da arma +2%.^000000
+^0000ffDano mágico +2%.^000000
+--------------------------
+Refino +7 ou mais:
+^0000ffDano de [Cometas Lunáticos] e [Lança Gateira] +15%.^000000
+Refino +9 ou mais:
+^0000ffConjuração variável -10%.^000000
+^0000ffVelocidade de ataque +10%.^000000
+Refino +11 ou mais:
+^0000ffDano de [Chilique de Picky] e [Meteoros de Nepeta] +20%.^000000
+--------------------------
+^FA4E09Conjunto^000000
+^FA4E09[Botas Ancestrais]^000000
+Ao realizar ataques físicos ou mágicos:
+^0000ff3% de chance de ativar um [efeito] por 7 segundos.^000000
+--------------------------
+^CD3278Efeito:^000000
+^0000ffSOR +20.^000000
+^0000ffATQ da arma +15%.^000000
+^0000ffDano mágico +15%.^000000
+--------------------------
+Tipo: ^777777Cajado^000000
+ATQ: ^777777300^000000 ATQM: ^777777300^000000
+Peso: ^777777110^000000
+Nível da arma: ^7777774^000000
+Nível necessário: ^777777100^000000
+Classes: ^777777Invocadores^000000
+#
 27012#
 ^0000ffHP máx. +8%.^000000
 ^FF6347Mecânicos:^000000
@@ -63688,15 +64138,18 @@ Classes: ^777777Espadachins, Mercadores e evoluções^000000
 #
 28101#
 Machado com lâminas que lembram o giro de um tornado.
+--------------------------
 ^a400cdIndestrutível em batalha.^000000
+--------------------------
 ^0000ffRecarga de [Fúria do Furacão] -1 segundo.^000000
-Tipo: ^777777Machado^000000
-Ataque: ^777777320^000000
+--------------------------
+Tipo: ^777777Machado de Duas Mãos^000000
+ATQ: ^777777320^000000 ATQM: ^7777770^000000
 Propriedade: ^777777Vento^000000
 Peso: ^777777400^000000
 Nível da arma: ^7777774^000000
 Nível necessário: ^777777100^000000
-Classes: ^777777Mercadores, Espadachins e evoluções^000000
+Classes: ^777777Espadachins, Mercadores e evoluções^000000
 #
 28105#
 Use essas duas lâminas grossas para cortar impiedosamente tudo o que estiver no seu caminho, bem como aqueles que tentarem impedir sua onda de destruição absoluta.
@@ -64792,12 +65245,12 @@ AGI base 100 ou mais:
 ^FF6347Conjunto^000000
 ^FF6347[Anti-Atraso 1]^000000
 ^0000ffVelocidade de ataque +1.^000000
-^0000ffResistência as raças Humanoide, Humano, Demônio, Morto-Vivo, Peixe, Doram e Bruto +1% adicional%.^000000
+^0000ffResistência as raças Humanoide, Humano, Demônio, Morto-Vivo, Peixe, Doram e Bruto +1% adicional.^000000
 --------------------------
 ^FF6347Conjunto^000000
 ^FF6347[Anti-Atraso 2]^000000
 ^0000ffVelocidade de ataque +1.^000000
-^0000ffResistência as raças Humanoide, Humano, Demônio, Morto-Vivo, Peixe, Doram e Bruto +1% adicional%.^000000
+^0000ffResistência as raças Humanoide, Humano, Demônio, Morto-Vivo, Peixe, Doram e Bruto +1% adicional.^000000
 --------------------------
 Tipo: ^777777Acessório^000000
 Defesa: ^7777773^000000
@@ -67057,6 +67510,14 @@ Peso: ^7777770^000000
 Nível necessário: ^7777771^000000
 Classes: ^777777Todas^000000
 #
+31205#
+O chefe não permite, em hipótese alguma, que tirem sua coroa. Contudo, ele abriu uma exceção para você ficar no estilo durante suas aventuras. 
+Tipo: ^777777Visual^000000
+Equipa em: ^777777Topo e Meio^000000
+Peso: ^7777770^000000
+Nível Necessário: ^7777771^000000
+Classes: ^777777Todas^000000
+#
 31208#
 Você finalmente deixou suas belas madeixas crescerem e agora é dono de uma vasta cabeleira loira... Mesmo que isso seja apenas uma peruca! Tá, ainda não está tão longo quanto o da donzela Rapunzela, mas um dia você ainda chega lá. Perfeito pra quem não quer se disfarçar de sacerdote pra conquistar aquele espadachim amado.
 Tipo: ^777777Visual^000000
@@ -67496,6 +67957,14 @@ Peso: ^7777770^000000
 Nível necessário: ^7777771^000000
 Classes: ^777777Todas^000000
 #
+31327#
+Use isso e você vai ficar a cara daquele menino de madeira que contava várias mentiras. Aquele mesmo que todo mundo é fã!
+Tipo: ^777777Visual^000000
+Equipa em: ^777777Meio^000000
+Peso: ^7777770^000000
+Nível Necessário: ^7777771^000000
+Classes: ^777777Todas^000000
+#
 31329#
 Uma peruca que simula perfeitamente os cabelos do monstro Alice. Não se preocupe, nenhuma Alice foi ferida para a confecção desta peruca. É o disfarce perfeito para entrar escondido na Fábrica de Robôs da Academia Kiel Hyre e se misturar com as outras Alices. 
 Tipo: ^777777Visual^000000
@@ -67660,6 +68129,14 @@ Tipo: ^777777Visual^000000
 Equipa em: ^777777Baixo^000000
 Peso: ^7777770^000000
 Nível necessário: ^7777771^000000
+Classes: ^777777Todas^000000
+#
+31405#
+Por que usar uma peruca comum se você pode usar uma dourada? Sério, é bem mais legal e não cai na mesmice de sempre. Ah, as orelhinhas vêm de bônus!
+Tipo: ^777777Visual^000000
+Equipa em: ^777777Topo^000000
+Peso: ^7777770^000000
+Nível Necessário: ^7777771^000000
 Classes: ^777777Todas^000000
 #
 31406#
@@ -67864,6 +68341,14 @@ Peso: ^7777770^000000
 Nível necessário: ^7777771^000000
 Classes: ^777777Todas^000000
 #
+31489#
+Delicado como os arranjos de flores dos jardins, esse chapéu passa a elegância dos campos diretamente para seu visual. Os laços, com pontas excessivamente grandes, contribuem para a graça de um apetrecho que tem cheiro de rosas.
+Tipo: ^777777Visual^000000
+Equipa em: ^777777Topo^000000
+Peso: ^7777770^000000
+Nível necessário: ^7777771^000000
+Classes: ^777777Todas^000000
+#
 31490#
 De primeira ele parece esquisito e gelatinoso demais para um cachecol, mas não se deixe levar por primeiras impressões. Com a textura de um Poring por fora, ele se encaixa perfeitamente no seu pescoço, e por dentro é forrado de uma lã bem quentinha e aconchegante. É vantagem dupla!
 Tipo: ^777777Visual^000000
@@ -67936,6 +68421,14 @@ Defesa: ^7777770^000000
 Equipa em: ^777777Topo^000000
 Peso: ^7777770^000000
 Nível Necessário: ^7777771^000000
+Classes: ^777777Todas^000000
+#
+31527#
+Conjunto de asas mágicas para enfeitar o penteado. Nenhuma ave foi ferida no processo de confecção. O lado negativo é que qualquer peruca sai voando.
+Tipo: ^777777Visual^000000
+Equipa em: ^777777Meio^000000
+Peso: ^7777770^000000
+Nível necessário: ^7777771^000000
 Classes: ^777777Todas^000000
 #
 31528#
@@ -68012,6 +68505,14 @@ Peso: ^7777770^000000
 Nível Necessário: ^7777771^000000
 Classes: ^777777Todas^000000
 #
+31560#
+A Mitra é um chapéu utilizado em rituais sagrados com a finalidade de reforçar a adoração. Usar isso não só te deixaria muito importante, mas também provaria que você tem fé no que faz.
+Tipo: ^777777Visual^000000
+Equipa em: ^777777Topo^000000
+Peso: ^7777770^000000
+Nível Necessário: ^7777771^000000
+Classes: ^777777Todas^000000
+#
 31561#
 Um par de asas para a cabeça que ardem eternamente em chamas negras. Contraindicado para pessoas de cabeça esquentada.
 Tipo: ^777777Visual^000000
@@ -68081,6 +68582,22 @@ Peso: ^7777770^000000
 Nível necessário: ^7777771^000000
 Classes: ^777777Todas^000000
 #
+31573#
+Essas Orelhas de Gatinho Robô vieram diretamente da época industrial, provando que a tecnologia consegue replicar até mesmo os equipamentos visuais mais fofinhos. Longe da gente dizer que são mais legais que as orelhas de gatinho comuns. (Mas são).
+Tipo: ^777777Visual^000000
+Equipa em: ^777777Topo^000000
+Peso: ^7777770^000000
+Nível necessário: ^7777771^000000
+Classes: ^777777Todas^000000
+#
+31574#
+Esse comunicador torna possível o contato com civilizações do passado e do futuro, fazendo você ter todo tipo de conhecimento sobre História.  Mas cuidado, se você usar por muito tempo vai ficar ciberneticamente louco.
+Tipo: ^777777Visual^000000
+Equipa em: ^777777Meio^000000
+Peso: ^7777770^000000
+Nível Necessário: ^7777771^000000
+Classes: ^777777Todas^000000
+#
 31575#
 Uma belíssima peruca com um tom bem suave de turquesa, mas muito lindo. Se você quer entrar em termos técnicos mesmo, essa cor tem vários nomes chiques: Tiffany Blue. Sereia. Brisa de Verão. Use-os pra impressionar seus amigos e mostrar como você entende de moda.
 Tipo: ^777777Visual^000000
@@ -68115,6 +68632,14 @@ Classes: ^777777Todas^000000
 #
 31596#
 Alguém achou que seria uma boa ideia colocar um miniecossistema em um chapéu. Até que é confortável, mas antes você vai ter que se acostumar com o orvalho caindo das folhas, o zumbido das abelhas nas flores, as borboletas voando e as aranhas na teia.
+Tipo: ^777777Visual^000000
+Equipa em: ^777777Topo^000000
+Peso: ^7777770^000000
+Nível Necessário: ^7777771^000000
+Classes: ^777777Todas^000000
+#
+31597#
+Esse chapéu foi feito em comemoração ao número crescente de peixinhos que escaparam da extinção. Obviamente é de plástico.
 Tipo: ^777777Visual^000000
 Equipa em: ^777777Topo^000000
 Peso: ^7777770^000000
@@ -68167,6 +68692,14 @@ Tipo: ^777777Visual^000000
 Equipa em: ^777777Baixo^000000
 Peso: ^7777770^000000
 Nível Necessário: ^7777771^000000
+Classes: ^777777Todas^000000
+#
+31612#
+Coroa feita com tecidos de todas as modas possíveis, garantindo uma boa mistura entre estilo e extravagância. Usar isso vai fazer você ser visto por todo mundo. Todo mundo mesmo.
+Tipo: ^777777Visual^000000
+Equipa em: ^777777Topo^000000
+Peso: ^7777770^000000
+Nível necessário: ^7777771^000000
 Classes: ^777777Todas^000000
 #
 31614#
@@ -68442,6 +68975,14 @@ Peso: ^7777770^000000
 Nível Necessário: ^7777771^000000
 Classes: ^777777Todas^000000
 #
+31700#
+Quem usa esse cachecol, por mais medroso que seja, fica automaticamente mais corajoso e consegue realizar as tarefas mais desafiadoras sem titubear.  Só não vai tirar no meio da missão...
+Tipo: ^777777Visual^000000
+Equipa em: ^777777Baixo^000000
+Peso: ^7777770^000000
+Nível Necessário: ^7777771^000000
+Classes: ^777777Todas^000000
+#
 31707#
 Uma bela peruca de nove pontas, cada uma representando uma cauda da Kitsune, a raposa de extrema coragem e bravura. Essas são as qualidades de alguém que quer mudar o mundo; cruzar os céus e nada temer.
 Tipo: ^777777Visual^000000
@@ -68455,6 +68996,22 @@ Basta algumas batucadas nesses tambores no ritmo certo para despertar Raijin, o 
 ^008080Exibe efeito gráfico que pode ser desligado com /effect.^000000
 Tipo: ^777777Visual^000000
 Equipa em: ^777777Topo^000000
+Peso: ^7777770^000000
+Nível Necessário: ^7777771^000000
+Classes: ^777777Todas^000000
+#
+31729#
+Por onde passar, rosas e lírios irão te guiar. Tulipas e narcisos perfumarão o ar de aventura que há de pairar. A beleza das flores está em seu caminhar.
+Tipo: ^777777Visual^000000
+Equipa em: ^777777Baixo^000000
+Peso: ^7777770^000000
+Nível Necessário: ^7777771^000000
+Classes: ^777777Todas^000000
+#
+31730#
+Uma peruca maravilhosa para você se destacar dentre as outras waifus e impressionar o senpai. O tom cremoso e doce combina perfeitamente com sua personalidade.
+Tipo: ^777777Visual^000000
+Equipa em: ^777777Baixo^000000
 Peso: ^7777770^000000
 Nível Necessário: ^7777771^000000
 Classes: ^777777Todas^000000
@@ -68626,6 +69183,39 @@ Peso: ^77777730^000000
 Nível necessário: ^777777100^000000
 Classes: ^777777Todas^000000
 #
+32262#
+Esse orbe contém toda a força de um demônio. Encantamentos poderosos selam tudo que há de ruim nessa essência, mas mantêm (e até amplificam) o poder que ela oferece. 
+--------------------------
+^0000ffFOR, AGI e VIT +5.^000000
+^0000ffDano físico +5%.^000000
+--------------------------
+Ao aprender [Clone das Sombras] nv.5:
+^0000ffA cada 4 níveis de base:^000000
+^0000ffDano de [Turbilhão de Pétalas] +1%.^000000
+^0000ffDano de [Arremessar Shuriken Huuma] +2%.^000000
+--------------------------
+Ao aprender [Assalto das Sombras] nv.5:
+^0000ffEm [Turbilhão de Pétalas]:^000000
+^0000ffCusto de SP -10.^000000
+^0000ffRecarga -0,1 segundo.^000000
+--------------------------
+Ao aprender [Explosão de Moedas] nv.10:
+^0000ff100% de chance de converter 1% do dano físico causado em HP.^000000
+^ff0000Chance não cumulativa com outros equipamentos.^000000
+--------------------------
+Ao aprender [Purificação da Alma] nv.5:
+^0000ffRecupera 2 de SP a cada ataque.^000000
+^0000ffRecarga de [Inspiração] -25 segundos.^000000
+--------------------------
+Ao aprender [Corte Espiritual] nv.5:
+^0000ffConjuração variável de [Turbilhão de Pétalas] -50%.^000000
+--------------------------
+Tipo: ^777777Acessório^000000
+Defesa: ^7777770^000000
+Peso: ^77777710^000000
+Nível necessário: ^777777100^000000
+Classes: ^777777Todas^000000
+#
 32302#
 Arma usada pelo lendário Jaguatirica Revólver. De acordo com suas palavras, seis disparos eram mais do que o suficiente para abater qualquer alvo que se movesse.
 --------------------------
@@ -68663,7 +69253,7 @@ Nível necessário: ^777777100^000000
 Classes: ^777777Insurgentes^000000
 #
 400006#
-
+Não existe maneira de ficar mais imponente do que usando o Cocar do Orc Herói. O brilho dourado emitido pelo equipamento pode ser visto de muito longe e serve como um sinal de alerta aos inimigos.
 --------------------------
 ^a400cdIndestrutível em batalha.^000000
 --------------------------
@@ -68697,6 +69287,8 @@ A cada 4 refinos:
 ^0000ffHP máx. +20%.^000000
 ^0000ffHabilita [Força Violentíssima] nv.5.^000000
 --------------------------
+^008080Desequipar o conjunto cancela [Força Violentíssima].^000000
+--------------------------
 ^FA4E09Conjunto^000000
 ^FA4E09[Carta Guerreiro Orc]^000000
 ^FA4E09[Carta Senhora Orc]^000000
@@ -68706,11 +69298,42 @@ A cada 4 refinos:
 ^0000ffMantém [Investigar] ativo.^000000
 ^0000ffHabilita [Aura Sagrada] nv.4.^000000
 --------------------------
+^FF6347Investigar:^000000
+^0000ffAnula a defesa física do alvo.^000000
+^0000ffAumenta o ataque igual a 50% da defesa anulada.^000000
+^0000ffEfeitos de ignorar defesa são aplicados antes de [Investigar].^000000
+--------------------------
 Tipo: ^777777Equipamento para Cabeça^000000
 Equipa em: ^777777Topo^000000
 Defesa: ^77777750^000000
 Peso: ^77777750^000000
 Nível necessário: ^7777771^000000
+Classes: ^777777Todas^000000
+#
+490013#
+Ninguém sabe ao certo se esse artefato veio mesmo do reino das trevas, mas o poder supremo que ele manifesta não deixa muitas outras suposições sobre a sua origem.
+--------------------------
+^0000ffDano físico +5%.^000000
+^0000ffRecarga de [Absorção Espiritual] -3 segundos.^000000
+--------------------------
+Ao aprender [Impacto Sísmico] nv.5:
+^0000ffCusto de SP de:^000000
+^0000ff[Rugido do Leão] -35.^000000
+^0000ff[Investida de Shura] -4.^000000
+--------------------------
+Ao aprender [Explosão Espiritual] nv.5:
+^0000ffDano de:^000000
+^0000ff[Rugido do Leão] +30%.^000000
+^0000ff[Investida de Shura] +100%.^000000
+--------------------------
+Ao aprender [Tempestade Espiritual] nv.5:
+^0000ffPrecisão perfeita +15.^000000
+^0000ffVelocidade de ataque +10%.^000000
+--------------------------
+Tipo: ^777777Acessório^000000
+Defesa: ^7777770^000000
+Peso: ^77777710^000000
+Nível necessário: ^777777100^000000
 Classes: ^777777Todas^000000
 #
 490031#
